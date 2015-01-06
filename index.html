@@ -2,22 +2,22 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+  <div class="article-list">
+    {% for post in paginator.posts %}
+      <article>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-      </li>
+
+        <p>{{ post.excerpt | strip_html }}</p>
+
+        <footer>{{ post.date | date: "%b %-d, %Y" }}</footer>
+      </article>
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+  </div>
+  
+  {% if paginator.next_page %}
+  <p id="load-more">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">READ MORE</a>
+  </p>
+  {% endif %}

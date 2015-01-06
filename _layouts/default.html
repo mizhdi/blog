@@ -4,17 +4,20 @@
   {% include head.html %}
 
   <body>
+    {% include sidebar.html %}
+    <div class="off-canvas-wrap" data-offcanvas>
+      {% include header.html %}
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+      <div class="content">
+        <div class="container">
+          {{ content }}
+        </div>
       </div>
+
+      {% include footer.html %}
     </div>
-
-    {% include footer.html %}
-
+    <script src="{{ "/js/jquery.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
   </body>
 
 </html>

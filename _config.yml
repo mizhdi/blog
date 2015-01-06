@@ -1,14 +1,27 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: A wonderful live
+email: mizhdi@gmail.com
+description: 这是我的墓志铭，往昔思念，尽数埋葬于此。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+paginate: 5
+paginate_path: "blog/page:num"
+owner:
+  name: Retry
+  desc: 慎独，自信，讲原则，可以不要脸，绝不后悔！
+  avatar: http://www.gravatar.com/avatar/c83651d1bcf77550141f089aa86eae35?s=128
+sass:
+  style: :compressed
 
 # Build settings
 markdown: kramdown
+
+navigations: 
+  - title: Home
+    href: /
+  - title: Archive
+    href: /archive/
+  - title: About
+    href: /about/
+  - title: resume
+    href: https://github.com/mizhdi/Resume

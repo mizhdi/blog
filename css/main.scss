@@ -3,50 +3,83 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-size:   14px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.8;
 
-$spacing-unit:     30px;
+$main-color: #a9d8b2;
+$main-color-dark: #57ad68;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$border-color: rgba(0,0,0,0.05);
+$border-color-dark: rgba(0,0,0,0.1);
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$text-color:       rgba(0,0,0,0.6);
+$text-color-dark:  rgba(0,0,0,0.8);
+$text-color-light: rgba(0,0,0,0.3);
 
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
+$background-color: #fafafa;
 
 
+// header 
+$header-height: 4rem;
 
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
+// off-canvas
+$off-canvas-width: 280px;
+$off-canvas-btn-color: #333;
+$avatar-width: 7rem;
+$avatar-large: 9rem;
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
     }
 }
 
+@mixin user-select($select) { //options: auto, none, text
+  -webkit-user-select: $select;
+     -moz-user-select: $select;
+      -ms-user-select: $select; // IE10+
+          user-select: $select;
+}
+
+@mixin box-sizing($boxmodel) {
+  -webkit-box-sizing: $boxmodel;
+     -moz-box-sizing: $boxmodel;
+          box-sizing: $boxmodel;
+}
+
+@mixin transition($transition) {   
+  -webkit-transition: $transition;
+          transition: $transition;
+}
+
+@mixin transform($value...) {
+  -webkit-transform: $value;
+      -ms-transform: $value; // IE9 only
+          transform: $value;
+}
+
+@mixin backface-visibility($visibility) {
+  -webkit-backface-visibility: $visibility;
+     -moz-backface-visibility: $visibility;
+          backface-visibility: $visibility;
+}
+
+@mixin rotate($degrees) {
+  -webkit-transform: rotate($degrees);
+      -ms-transform: rotate($degrees); // IE9 only
+       -o-transform: rotate($degrees);
+          transform: rotate($degrees);
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "header",
+        "post",
+        "sidebar"
 ;
