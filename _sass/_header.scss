@@ -4,12 +4,12 @@
   line-height: $header-height;
   background-color: #fff;
   border-bottom: 1px solid $border-color-dark;
-  @extend %clearfix;
 
   h1 {
     font-size: 1.2rem;
     color: $text-color-dark;
     text-align: center;
+    font-weight: 500;
 
     > a {
       color: inherit;

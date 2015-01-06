@@ -26,9 +26,9 @@ $background-color: #fafafa;
 $header-height: 4rem;
 
 // off-canvas
-$off-canvas-width: 280px;
+$off-canvas-width: 18rem;
 $off-canvas-btn-color: #333;
-$avatar-width: 7rem;
+$avatar-small: 7rem;
 $avatar-large: 9rem;
 
 @mixin media-query($device) {
