@@ -3,10 +3,10 @@
   <channel>
     <title>A wonderful live</title>
     <description>这是我的墓志铭，往昔思念，尽数埋葬于此。</description>
-    <link>/blog/</link>
-    <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Jan 2015 13:38:51 +0800</pubDate>
-    <lastBuildDate>Tue, 06 Jan 2015 13:38:51 +0800</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Jan 2015 14:31:21 +0800</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2015 14:31:21 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -63,8 +63,8 @@
 &lt;p&gt;忽然，想改个名字，随妈妈姓，就叫陈工吧。&lt;/p&gt;
 </description>
         <pubDate>Wed, 31 Dec 2014 20:52:59 +0800</pubDate>
-        <link>/blog/2014/12/31/2014-end.html</link>
-        <guid isPermaLink="true">/blog/2014/12/31/2014-end.html</guid>
+        <link>/2014/12/31/2014-end.html</link>
+        <guid isPermaLink="true">/2014/12/31/2014-end.html</guid>
         
         
       </item>

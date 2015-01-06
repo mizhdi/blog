@@ -2,8 +2,8 @@
 title: A wonderful live
 email: mizhdi@gmail.com
 description: 这是我的墓志铭，往昔思念，尽数埋葬于此。
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-# url: "http://mizhdi.github.io/blog" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "mizhengdi.com" # the base hostname & protocol for your site
 paginate: 5
 paginate_path: "blog/page:num"
 owner:
