@@ -70,8 +70,13 @@ $avatar-large: 9rem;
 @mixin rotate($degrees) {
   -webkit-transform: rotate($degrees);
       -ms-transform: rotate($degrees); // IE9 only
-       -o-transform: rotate($degrees);
           transform: rotate($degrees);
+}
+
+@mixin animation($vaule) {
+  -webkit-animation: $vaule;
+      -ms-animation: $vaule; // IE9 only
+          animation: $vaule;
 }
 
 

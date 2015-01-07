@@ -5,6 +5,7 @@
   bottom: 0;
   width: $off-canvas-width;
   @include backface-visibility(hidden);
+  -webkit-transform-style: preserve-3d;
   background-color: $background-color;
   border-right: 1px solid $border-color-dark;
   box-shadow: 0 2px 1px rgba(0,0,0,0.2);
@@ -99,12 +100,12 @@
   position: absolute;
   left: 15px;
   top: 50%;
-  margin-top: -1.7em;
+  margin-top: -1.75em;
   z-index: 999;
   display: block;
   font-size: 10px;
-  width: 3.4em; 
-  height: 3.4em; 
+  width: 3.5em; 
+  height: 3.5em; 
   background: #fff; 
   border-radius: 0.4em; 
 
@@ -118,7 +119,7 @@
 
   &:before { 
     top: .9em; 
-    left: 0.7em;
+    left: 0.8em;
     border-top: 0.3em solid $off-canvas-btn-color;
     height: 1em; 
     margin: auto; 
@@ -127,7 +128,7 @@
 
   &:after { 
     top: 2.3em; 
-    left: 0.7em; 
+    left: 0.8em; 
     height: 0.3em; 
     background: $off-canvas-btn-color; 
   }
