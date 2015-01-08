@@ -79,6 +79,12 @@ $avatar-large: 9rem;
           animation: $vaule;
 }
 
+@mixin scale($ratio...) {
+  -webkit-transform: scale($ratio);
+      -ms-transform: scale($ratio); // IE9 only
+          transform: scale($ratio);
+}
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

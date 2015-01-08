@@ -1,5 +1,5 @@
 # Site settings
-title: A wonderful live
+title: Soul Rest In Peace
 email: mizhdi@gmail.com
 description: 这是我的墓志铭，往昔思念，尽数埋葬于此。
 baseurl: ""
@@ -13,15 +13,29 @@ owner:
 sass:
   style: :compressed
 
+sns:
+  - title: RSS
+    href: /feed.xml
+  - title: weibo
+    href: http://weibo.com/208882431
+  - title: email
+    href: mailto:mizhdi@gmal.com
+  - title: github
+    href: https://github.com/mizhdi
 # Build settings
 markdown: kramdown
 
 navigations: 
   - title: Home
+    text: 返回首页
     href: /
   - title: Archive
+    text: 所有文章
     href: /archive/
   - title: About
+    text: 关于我
     href: /about/
   - title: resume
+    text: 个人简历
     href: https://github.com/mizhdi/Resume
+# 导航中文字翻转，loading图 。。。。 首页地步响应式  文章列表时间线的方式。
