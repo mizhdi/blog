@@ -5,6 +5,11 @@
     .post-title {
       font-weight: 500;
       color: $text-color-dark;
+
+      @include media-query(480px) {
+        font-size: 1.6rem;
+        line-height: 2;
+      }
     }
 
     .post-meta {
@@ -111,7 +116,7 @@
 
       th { background:#fbfbfb; }
 
-      caption { border-bottom: none;} 
+      caption { border-bottom: none; } 
 
       thead th { background: #f1f1f1; }
 

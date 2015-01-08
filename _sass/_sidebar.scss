@@ -99,6 +99,7 @@
           width: 100%;
           height: 100%;
           @include transition(all .3s ease-in-out);
+          @include backface-visibility(hidden);
         }
 
         .name {
