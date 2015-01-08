@@ -85,6 +85,12 @@ $avatar-large: 9rem;
           transform: scale($ratio);
 }
 
+@mixin keyframes($name) {
+  @-webkit-keyframes #{$name} { @content }
+  @-ms-keyframes #{$name} { @content }
+  @keyframes #{$name} { @content }
+}
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

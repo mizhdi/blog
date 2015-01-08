@@ -1,13 +1,21 @@
-$(function() {
+window.onload = function() {
 
-  $('#off-canvas-btn').on('click', function() {
-    $('body').toggleClass('active');
-  });
+  setTimeout(function() {
+    document.querySelector('#loading').style.display = 'none';
+  }, 2500)
 
-  $('.user-info .avatar').on('click', function() {
-    $('.user-info').toggleClass('open');
-  });
+  var btn = document.querySelector('#off-canvas-btn');
+  btn.addEventListener('click', function() {
+    document.querySelector('body').classList.toggle('active');
+  }, false);
 
+  var user = document.querySelector('.user-info');
+  var avatar = user.querySelector('.avatar');
+  avatar.addEventListener('click', function() {
+    user.classList.toggle('open');
+  }, false);
+
+}
 
 
   // $('#load-more>a').on('click', function() {
@@ -31,7 +39,3 @@ $(function() {
   //   });
 
   // });
-  
-
-
-})

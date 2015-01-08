@@ -452,100 +452,6 @@ html, body {
     @include user-select(none);
 }
 
-
-@-webkit-keyframes shake {
-    0% { 
-       @include rotate(0);
-    }
-    25% {
-        @include rotate(-25deg);
-    }
-    50% { 
-       @include rotate(0);
-    }
-    75% { 
-        @include rotate(25deg);
-    }
-    100% {
-        @include rotate(0);
-    }
-}
-
-@keyframes shake {
-    0% { 
-       @include rotate(0);
-    }
-    25% {
-        @include rotate(-25deg);
-    }
-    50% { 
-       @include rotate(0);
-    }
-    75% { 
-        @include rotate(25deg);
-    }
-    100% {
-        @include rotate(0);
-    }
-}
-
-@-moz-keyframes shake {
-    0% { 
-       @include rotate(0);
-    }
-    25% {
-        @include rotate(-25deg);
-    }
-    50% { 
-       @include rotate(0);
-    }
-    75% { 
-        @include rotate(25deg);
-    }
-    100% {
-        @include rotate(0);
-    }
-}
-
-@-webkit-keyframes changebg {
-    0% { 
-        opacity: 0;
-        background-size: 410px 410px, 610px 610px, 530px 530px, 300px 300px, 100% 100%;
-    }
-    50% {
-        opacity: 1;
-        background-size: 410px 410px, 610px 610px, 530px 530px, 295px 295px, 100% 100%;
-    }
-    100% { 
-        opacity: 0;
-        background-size: 410px 410px, 610px 610px, 530px 530px, 300px 300px, 100% 100%;
-    }
-}
-
-@keyframes changebg {
-    0% { 
-        opacity: 0;
-    }
-    50% {
-        opacity: 1;
-    }
-    100% { 
-        opacity: 0;
-    }
-}
-
-@-moz-keyframes changebg {
-    0% { 
-        opacity: 0;
-    }
-    50% {
-        opacity: 1;
-    }
-    100% { 
-        opacity: 0;
-    }
-}
-
 a, img {
     -webkit-touch-callout: none; 
 }
@@ -629,4 +535,62 @@ a {
 .icon-email:before { content: "\e602"; }
 
 .icon-weibo:before { content: "\e603"; }
+
+
+@include keyframes(shine1) {
+  0%{background-color: rgba(255, 255, 255, .2);}
+  25%{background-color: rgba(255, 255, 255, 1);}
+  50%{background-color: rgba(255, 255, 255, 1);}
+  75%{background-color: rgba(255, 255, 255, 1);}
+  100%{background-color: rgba(255, 255, 255, 1);}
+}
+
+
+@include keyframes(shine2) {
+  0%{background-color: rgba(255, 255, 255, .2);}
+  25%{background-color: rgba(255, 255, 255, .2);}
+  50%{background-color: rgba(255, 255, 255, 1);}
+  75%{background-color: rgba(255, 255, 255, 1);}
+  100%{background-color: rgba(255, 255, 255, 1);}
+}
+
+@include keyframes(shine3) {
+  0%{background-color: rgba(255, 255, 255, .2);}
+  25%{background-color: rgba(255, 255, 255, .2);}
+  50%{background-color: rgba(255, 255, 255, .2);}
+  75%{background-color: rgba(255, 255, 255, 1);}
+  100%{background-color: rgba(255, 255, 255, 1);}
+}
+
+@include keyframes(shake) {
+    0% { 
+       @include rotate(0);
+    }
+    25% {
+        @include rotate(-25deg);
+    }
+    50% { 
+       @include rotate(0);
+    }
+    75% { 
+        @include rotate(25deg);
+    }
+    100% {
+        @include rotate(0);
+    }
+}
+
+
+@include keyframes(changebg) {
+    0% { 
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% { 
+        opacity: 0;
+    }
+}
+
 

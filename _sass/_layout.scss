@@ -1,3 +1,46 @@
+#loading {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 9999;
+  background-color: $main-color;
+
+  .dot {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 50%;
+    left: 50%;
+    @include transform(translate3d(-50%,-50%,0));
+    border-radius: 50%;
+    @include animation(shine2 3.5s ease-in-out);
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: -25px;
+      height: 12px;
+      width: 12px;
+      border-radius: 50%;
+      @include animation(shine1 3.5s ease-in-out);
+    }
+
+    &:after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 25px;
+      height: 12px;
+      width: 12px;
+      border-radius: 50%;
+      @include animation(shine3 3.5s ease-in-out);
+    }
+  }
+}
+
 .layout {
   position: fixed;
   top: 0;
