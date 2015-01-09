@@ -38,5 +38,4 @@ navigations:
   - title: resume
     text: 个人简历
     href: https://github.com/mizhdi/Resume
-# 导航中文字翻转，loading图 。。。。 首页地步响应式  文章列表时间线的方式,about页图片放小尺寸
-# 。
+#about页图片放小尺寸

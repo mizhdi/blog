@@ -15,7 +15,7 @@
     left: 50%;
     @include transform(translate3d(-50%,-50%,0));
     border-radius: 50%;
-    @include animation(shine2 3.5s ease-in-out);
+    @include animation(shine2 3.5s ease-in-out infinite);
 
     &:before {
       content: "";
@@ -25,7 +25,7 @@
       height: 12px;
       width: 12px;
       border-radius: 50%;
-      @include animation(shine1 3.5s ease-in-out);
+      @include animation(shine1 3.5s ease-in-out infinite);
     }
 
     &:after {
@@ -36,7 +36,7 @@
       height: 12px;
       width: 12px;
       border-radius: 50%;
-      @include animation(shine3 3.5s ease-in-out);
+      @include animation(shine3 3.5s ease-in-out infinite);
     }
   }
 }
