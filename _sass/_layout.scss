@@ -114,6 +114,10 @@
   background: url(../bg.jpg) center no-repeat;
   background-size: cover;
 
+  @include media-query(480px) {
+    background-image: url(../bg-mini.jpg)
+  }
+
   .social-list {
     padding: 5rem 0 6rem 0;
     width: 100%;
