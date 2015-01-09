@@ -115,7 +115,7 @@
   background-size: cover;
 
   @include media-query(480px) {
-    background-image: url(../bg-mini.jpg)
+    background: url(../bg-mini.jpg) center no-repeat;
   }
 
   .social-list {
