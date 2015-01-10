@@ -29,12 +29,12 @@ navigations:
   - title: Home
     text: 返回首页
     href: /
-  - title: Archive
-    text: 所有文章
-    href: /archive/
-  - title: About
-    text: 关于我
-    href: /about/
+  # - title: Archive
+  #   text: 所有文章
+  #   href: /archive/
+  # - title: About
+  #   text: 关于我
+  #   href: /about/
   - title: resume
     text: 个人简历
     href: https://github.com/mizhdi/Resume
