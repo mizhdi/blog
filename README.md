@@ -1,4 +1,4 @@
 blog
 ====
 
-[http://mizhdi.github.io/blog/](http://mizhdi.github.io/blog/)
+[http://mizhengdi.com](http://mizhengdi.com/)
