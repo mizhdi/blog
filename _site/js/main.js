@@ -1,4 +1,4 @@
-window.onload = function() {
+// window.onload = function() {
 
   // setTimeout(function() {
   //   document.querySelector('#loading').style.display = 'none';
@@ -17,4 +17,4 @@ window.onload = function() {
     user.classList.toggle('open');
   }, false);
 
-}
+// }
