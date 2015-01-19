@@ -49,12 +49,12 @@
 
     blockquote {
       position: relative;
-      color: #999;
-      font-weight: 300;
+      color: $text-color-dark;
+      font-weight: 500;
       font-family: Avenir, 'Helvetica Neue', 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif;
-      border-left: 1px solid #1abc9c;
+      border-left: 2px solid $main-color-dark;
       padding-left: 1em;
-      margin: 1em 3em 1em 2em;
+      margin: 1em 3em 1em 1em;
     }
 
     pre, code {
@@ -79,10 +79,15 @@
       *margin: -7px 0 2px;
     }
 
-    strong, b, em {
+    strong, b {
       font-style: normal;
       font-weight: bold;
       color: #000;
+    }
+
+    em {
+      font-style: italic;
+      color: $text-color-light;
     }
 
     p, pre, ul, ol, dl, form, hr, table, blockquote {
@@ -129,6 +134,7 @@
     img {
       margin: 0 auto 1.6rem;
       max-width: 100%;
+      max-width: 400px;
       display: block;
       height: auto;
     }

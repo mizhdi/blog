@@ -5,9 +5,86 @@
     <description>这是我的墓志铭，往昔思念，尽数埋葬于此。</description>
     <link>mizhengdi.com/</link>
     <atom:link href="mizhengdi.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Jan 2015 21:34:10 +0800</pubDate>
-    <lastBuildDate>Sat, 17 Jan 2015 21:34:10 +0800</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2015 14:39:55 +0800</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2015 14:39:55 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>生活、学习、工作上的一些习惯</title>
+        <description>&lt;p&gt;事情的开始源于知乎上的一篇帖子&lt;a href=&quot;http://www.zhihu.com/question/20232993&quot; target=&quot;_blank&quot;&gt;如何把 Evernote 用好，变成系统性的知识管理工具？&lt;/a&gt;，这篇文章大概是去年11月份，换工作的时候看到的，启发蛮大的。
+可以说这是醍醐灌顶的，不是说文章中提供的方法有多么的高深，而是它对我的职业生涯的规划起到了至关重要的帮助。输在起跑线，赢在转折点。&lt;/p&gt;
+
+&lt;p&gt;这个方法并不适合任何人，每个人根据自己的生活工作环境，都会形成自己系统的方法，且它不是固定的，会随着时间的推移逐步完善。&lt;/p&gt;
+
+&lt;h3 id=&quot;gtd&quot;&gt;GTD时间管理法&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Evernote&lt;/strong&gt;: 作为知识管理，不细说，很多人都用这个。知识光搜集，不整理是不行的，还要不断的学习。
+至于什么是GTD，有什么好处，我只能说：有计划地做事，重点是执行。具体怎么做，去看知乎上的文章，总结的比我好。&lt;/p&gt;
+
+&lt;p&gt;我在这一反面的实践，具体的上面我也有注释：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;系统分类法：&lt;/strong&gt;
+&lt;img src=&quot;/img/w1.png&quot; alt=&quot;evernote cat&quot; /&gt;
+&lt;strong&gt;tags优先级：&lt;/strong&gt;
+&lt;img src=&quot;/img/w4.png&quot; alt=&quot;evetnote tags&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jiffy：&lt;/strong&gt; 这是个鸡肋的东西，源于1万小时理论，每次都会像做任务一样，先开启，做完之后再关闭。比较适合约束力差的人，等形成习惯后这个东西基本可以删除了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/w3.png&quot; alt=&quot;jiffy list&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Anydo：&lt;/strong&gt; 也是个鸡肋的东西，自己用过一段时间。别人总结的好：一般普通人不会写一个todo list，因为根本没有什么要紧的事，而商务精英，肯定是没有时间搞这种任务管理的。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feedly：&lt;/strong&gt; 订阅rss，偶尔看看文章还是不错的，本来想用来订阅国外网站学英语的，但是发现翻译是个麻烦事，所以放弃了。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inbox：&lt;/strong&gt; 收发邮件和todo list，但是万恶的墙啊，每次用都要去开vpn，烦。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pocket：&lt;/strong&gt; 技术型的文章一般都会通过这个看，Chrome上装个插件很方便，一般需要收藏的就放进Evernote，看一眼的就用这个。&lt;/p&gt;
+
+&lt;p&gt;以上时安卓上的一些app。&lt;/p&gt;
+
+&lt;h3 id=&quot;github&quot;&gt;Github托管&lt;/h3&gt;
+
+&lt;p&gt;我要说的重点是这个，很适合程序员，而且大多数的程序员都在用这个。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;个人博客(Jekyll＋Pages)，技术文章(Issue)，学习笔记(Repo)，代码片段（Gist)，简历(Repo)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;用过的，看的懂的自然看得懂，想用的话，自己去折腾吧。&lt;/p&gt;
+
+&lt;p&gt;自己Github上的东西真的挺少的，今年的目标就是完善这些内容。&lt;/p&gt;
+
+&lt;p&gt;说点有意思的事情，这个周末，我做了一些sb事情。删除了国内不上的网站的用户信息，全部使用微博账号登录（就是没有微博登录的不用），要付钱的全部换成支付宝账户，全部使用gmail邮箱（哎，要是真的登不了，我就完了），更新了手机号，社交网站信息一致（好像没什么人认识我），总之整理了一大堆，我一直喜欢归一。&lt;/p&gt;
+
+&lt;h3 id=&quot;kindle&quot;&gt;kindle学习&lt;/h3&gt;
+
+&lt;p&gt;代码的严谨，文学的魅力。&lt;/p&gt;
+
+&lt;p&gt;因为想看心理学的，职场的，个人提升的书，才买的kindle，什么是kindle，可以让你富一生的东西。最近发现以前自己写的文章真是狗屁不通，想看看文学，同时又发现kindle看英文文章确实不错，可以取词翻译，猛然间，发现原来我买了这么值的东西。&lt;/p&gt;
+
+&lt;p&gt;通过&lt;a href=&quot;http://www.dogear.cn/&quot; target=&quot;_blank&quot;&gt;狗耳朵&lt;/a&gt;推送新闻，英文文章，当然这种网站有很多，完全是个人喜好问题。推崇订阅少而精的东西，因为过一段时间你就会发现，你根本没时间来读这些东西，哈哈哈。&lt;/p&gt;
+
+&lt;p&gt;附上我的订阅目录：
+&lt;img src=&quot;/img/w2.png&quot; alt=&quot;kindle rss&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mac-pro&quot;&gt;Mac Pro工作&lt;/h3&gt;
+
+&lt;p&gt;14年年底，入了一个mac，从此扔掉了鼠标，笔记本，键盘，每天背着这个唯一的家当，开开心心地上班和下班。&lt;/p&gt;
+
+&lt;p&gt;搜集，思考，执行，专注。&lt;/p&gt;
+
+&lt;p&gt;搜集是基本，一个人连学习的欲望都没了的话，想想都是害怕的，然后是思考整理，我要怎么做，怎么学，最后就是执行，全程就一个态度专注，也就是坚持。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://weibo.com/676588498&quot; target=&quot;_blank&quot;&gt;芋头&lt;/a&gt;做了前端以后，口香糖都是两粒一起嚼了，而我连口香糖都买不起，2015，加油！！&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;写于阳光明媚的中午，别人在睡觉的时候。&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Jan 2015 20:33:59 +0800</pubDate>
+        <link>mizhengdi.com/2015/01/20/my-workflow.html</link>
+        <guid isPermaLink="true">mizhengdi.com/2015/01/20/my-workflow.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>和我相处是多么难的一件事情</title>
@@ -159,25 +236,25 @@
 
 &lt;p&gt;24年的时光，不想用过多的形容词，总之它真的很快过去了，今天我要黛玉葬花似的埋葬过去。平平淡淡，认认真真，彻彻底底。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;金钱&lt;/em&gt;。勤俭节约，这是不是很富裕的家庭都崇尚的。我总为拿父母的血汗钱在大学里吃喝玩乐而感到羞耻，所以我总是那么的抠。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;金钱&lt;/strong&gt;。勤俭节约，这是不是很富裕的家庭都崇尚的。我总为拿父母的血汗钱在大学里吃喝玩乐而感到羞耻，所以我总是那么的抠。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;爱情&lt;/em&gt;。没谈过恋爱，但是曾经爱恋过几个人，至于，为什么没有女朋友呢，主要没有搭讪这个技能，事情的开始往往是最难的，万事开头难，这么羞答答的话怎么说出口。一个环境造就了一个人的性格，比较内心的性格，也有它的好处，可以静下心来沉思，不那么聒噪，内心强大。记得第一次的怦然心动是在高一的清晨，旭日初升，阳光映在她的脸上，是那样的美，最喜欢的女孩，扎着斜马尾辫，清新甜美。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;爱情&lt;/strong&gt;。没谈过恋爱，但是曾经爱恋过几个人，至于，为什么没有女朋友呢，主要没有搭讪这个技能，事情的开始往往是最难的，万事开头难，这么羞答答的话怎么说出口。一个环境造就了一个人的性格，比较内心的性格，也有它的好处，可以静下心来沉思，不那么聒噪，内心强大。记得第一次的怦然心动是在高一的清晨，旭日初升，阳光映在她的脸上，是那样的美，最喜欢的女孩，扎着斜马尾辫，清新甜美。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;感情&lt;/em&gt;。我是一个不善于表达感情的人，对于恩惠，我会老老的记在心里，仇恨亦是如此。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;感情&lt;/strong&gt;。我是一个不善于表达感情的人，对于恩惠，我会老老的记在心里，仇恨亦是如此。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;交际&lt;/em&gt;。一个最大的缺点，就是交际能力差。一直想找一些志同道合的人，不想在俗世中沉沦，可能就是自己的圈子太小了，还有就是自己的影响力有限。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;交际&lt;/strong&gt;。一个最大的缺点，就是交际能力差。一直想找一些志同道合的人，不想在俗世中沉沦，可能就是自己的圈子太小了，还有就是自己的影响力有限。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;学习&lt;/em&gt;。学习的欲望是很强的，毕竟压力的驱动，但是存在学习时的不够专心，温习较少，持续性的缺失，总的来说就是不成体系。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;学习&lt;/strong&gt;。学习的欲望是很强的，毕竟压力的驱动，但是存在学习时的不够专心，温习较少，持续性的缺失，总的来说就是不成体系。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;认知&lt;/em&gt;。没有人告诉你这些，即使告诉了你，也不会被动地接受。这永远是一个过程，一个自我发觉的过程。年末的这段时间，读书让我后知后觉，重塑了我的人生观、价值观。一步天堂，一步地狱。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;认知&lt;/strong&gt;。没有人告诉你这些，即使告诉了你，也不会被动地接受。这永远是一个过程，一个自我发觉的过程。年末的这段时间，读书让我后知后觉，重塑了我的人生观、价值观。一步天堂，一步地狱。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;时间&lt;/em&gt;。现在一般只睡6小时，要把过去浪费的时间补回来。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;时间&lt;/strong&gt;。现在一般只睡6小时，要把过去浪费的时间补回来。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;态度&lt;/em&gt;。一直是积极向上的这种态度，但是有时候人都会有两种的形态，特别的极端。我就是属于那种被动接受的人，就像军事化管理一样，让你做什么就做什么。嗯，也不对，仔细思量，还是属于“后发制人”这种，就是你出招，我能很好的防守，一旦轮到我的攻击时间，我就手足无措了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;态度&lt;/strong&gt;。一直是积极向上的这种态度，但是有时候人都会有两种的形态，特别的极端。我就是属于那种被动接受的人，就像军事化管理一样，让你做什么就做什么。嗯，也不对，仔细思量，还是属于“后发制人”这种，就是你出招，我能很好的防守，一旦轮到我的攻击时间，我就手足无措了。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;价值观&lt;/em&gt; 。正确的价值观是什么？就是不断地修正自己不成形的价值观。第一条：“做对自己有利的事”， 第二条：“不害人”，第三条：在第二条的基础上极致做到第一条。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;价值观&lt;/strong&gt; 。正确的价值观是什么？就是不断地修正自己不成形的价值观。第一条：“做对自己有利的事”， 第二条：“不害人”，第三条：在第二条的基础上极致做到第一条。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-1&quot;&gt;读书使人明智&lt;/h4&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;读书使人明智&lt;/h3&gt;
 
 &lt;p&gt;带着耳机，听着Bandari的音乐，翻阅着kindle，北窗高卧，喧闹中寻找着宁静。这种情境，想想都是美的。&lt;/p&gt;
 

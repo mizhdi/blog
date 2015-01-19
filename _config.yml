@@ -9,7 +9,7 @@ paginate_path: "blog/page:num"
 owner:
   name: Retry
   desc: 慎独，自信，讲原则，可以不要脸，绝不后悔！
-  avatar: http://www.gravatar.com/avatar/c83651d1bcf77550141f089aa86eae35?s=128
+  avatar: /img/avatar.jpeg
 sass:
   style: :compressed
 
