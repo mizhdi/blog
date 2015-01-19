@@ -9,8 +9,8 @@
   background-color: $background-color;
   border-right: 1px solid $border-color-dark;
   box-shadow: 0 2px 1px rgba(0,0,0,0.2);
-  @include transition(transform .5s cubic-bezier(0.42, 0, 0.58, 1.0));
-  @include transition(-webkit-transform .5s cubic-bezier(0.42, 0, 0.58, 1.0));
+  @include transition(transform .3s ease-in);
+  @include transition(-webkit-transform .3s ease-in);
 
   .user-info {
     margin-right: -1px;
@@ -27,7 +27,8 @@
       width: $avatar-small;
       height: $avatar-small;
       border-radius: 50%;
-      border: 3px solid #fff;
+      padding: 3px;
+      background-color: #fff;
 
       &:hover {
         cursor: -webkit-zoom-in;
@@ -58,7 +59,7 @@
       width: $avatar-large;
       height: $avatar-large;
       @include rotate(360deg);
-      @include transition(all .6s cubic-bezier(0.42, 0, 0.58, 1.0));
+      @include transition(all .6s ease-in);
     }
 
     .text {
@@ -73,7 +74,7 @@
       border-radius: 4px;
       color: $main-color-dark;
       opacity: 1;
-      @include transition(opacity 2s cubic-bezier(0.42, 0, 0.58, 1.0));
+      @include transition(opacity 2s ease-in);
     }
   }
 
@@ -170,16 +171,16 @@
 .off-canvas-wrap {
   width: 100%;
   @include backface-visibility(hidden);
-  @include transition(transform .5s cubic-bezier(0.42, 0, 0.58, 1.0));
-  @include transition(-webkit-transform .5s cubic-bezier(0.42, 0, 0.58, 1.0));
+  @include transition(transform .3s ease-in);
+  @include transition(-webkit-transform .3s ease-in);
 }
 
 .active {
   .off-canvas-wrap {
     min-height: 100%;
     @include transform(translateX($off-canvas-width));
-    @include transition(transform .5s cubic-bezier(0.42, 0, 0.58, 1.0));
-    @include transition(-webkit-transform .5s cubic-bezier(0.42, 0, 0.58, 1.0));
+    @include transition(transform .3s ease-in);
+    @include transition(-webkit-transform .3s ease-in);
   }
 
   #off-canvas-btn {
@@ -196,7 +197,7 @@
 
   #sidebar {
     @include transform(translateX($off-canvas-width));
-    @include transition(transform .5s cubic-bezier(0.42, 0, 0.58, 1.0));
-    @include transition(-webkit-transform .5s cubic-bezier(0.42, 0, 0.58, 1.0));
+    @include transition(transform .3s ease-in);
+    @include transition(-webkit-transform .3s ease-in);
   }
 }
