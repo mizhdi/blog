@@ -55,10 +55,21 @@ $avatar-large: 9rem;
           transition: $transition;
 }
 
-@mixin transform($value...) {
-  -webkit-transform: $value;
-      -ms-transform: $value; // IE9 only
-          transform: $value;
+@mixin translate($x, $y) {
+  -webkit-transform: translate($x, $y);
+      -ms-transform: translate($x, $y); // IE9 only
+          transform: translate($x, $y);
+}
+
+@mixin translateX($vaule) {
+  -webkit-transform: translateX($vaule);
+      -ms-transform: translateX($vaule); // IE9 only
+          transform: translateX($vaule);
+}
+
+@mixin translate3d($x, $y, $z) {
+  -webkit-transform: translate3d($x, $y, $z);
+          transform: translate3d($x, $y, $z);
 }
 
 @mixin backface-visibility($visibility) {

@@ -9,8 +9,8 @@
   background-color: $background-color;
   border-right: 1px solid $border-color-dark;
   box-shadow: 0 2px 1px rgba(0,0,0,0.2);
-  @include transition(transform .3s ease-in);
-  @include transition(-webkit-transform .3s ease-in);
+  @include transition(transform .3s linear);
+  @include transition(-webkit-transform .3s linear);
 
   .user-info {
     margin-right: -1px;
@@ -104,21 +104,21 @@
         }
 
         .name {
-          @include transform(translate3d(0, 0, 0));
+          @include translate3d(0, 0, 0);
         }
 
         .text {
-          @include transform(translate3d(0, 100%, 0));
+          @include translate3d(0, 100%, 0);
         }
 
         &:hover {
           .name {
-            @include transform(translate3d(0, -100%, 0));
+            @include translate3d(0, -100%, 0);
             @include transition(all .3s ease-in-out);
           }
 
           .text {
-            @include transform(translate3d(0, 0, 0));
+            @include translate3d(0, 0, 0);
             @include transition(all .3s ease-in-out);
           }
         }
@@ -171,16 +171,16 @@
 .off-canvas-wrap {
   width: 100%;
   @include backface-visibility(hidden);
-  @include transition(transform .3s ease-in);
-  @include transition(-webkit-transform .3s ease-in);
+  @include transition(transform .3s linear);
+  @include transition(-webkit-transform .3s linear);
 }
 
 .active {
   .off-canvas-wrap {
     min-height: 100%;
-    @include transform(translateX($off-canvas-width));
-    @include transition(transform .3s ease-in);
-    @include transition(-webkit-transform .3s ease-in);
+    @include translateX($off-canvas-width);
+    @include transition(transform .3s linear);
+    @include transition(-webkit-transform .3s linear);
   }
 
   #off-canvas-btn {
@@ -196,8 +196,8 @@
   }
 
   #sidebar {
-    @include transform(translateX($off-canvas-width));
-    @include transition(transform .3s ease-in);
-    @include transition(-webkit-transform .3s ease-in);
+    @include translateX($off-canvas-width);
+    @include transition(transform .3s linear);
+    @include transition(-webkit-transform .3s linear);
   }
 }

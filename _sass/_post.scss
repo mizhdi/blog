@@ -1,3 +1,8 @@
+.weixin-share {
+  position: absolute;
+  @include translate3d(-200%, -200%, 0);
+}
+
 .post {
   .post-header {
     margin-bottom: 2rem;
