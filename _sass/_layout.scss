@@ -41,6 +41,10 @@
   }
 }
 
+.hidden {
+  display: none;
+}
+
 .layout {
   position: fixed;
   top: 0;
@@ -93,6 +97,7 @@
 }
 
 #load-more {
+  margin-bottom: 5rem;
   text-align: center;
 
   a {

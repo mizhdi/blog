@@ -1,20 +1,25 @@
-// window.onload = function() {
+var loadDom = document.querySelector('#loading');
 
-  // setTimeout(function() {
-  //   document.querySelector('#loading').style.display = 'none';
-  // }, 2500)
+if (!localStorage.getItem('loadingClose')) {
+  loadDom.style.display = 'block';
+}
 
-  var btn = document.querySelector('#off-canvas-btn');
-  btn.addEventListener('click', function(e) {
-    e.preventDefault();
-    document.querySelector('body').classList.toggle('active');
-  }, false);
+setTimeout(function() {
+  loadDom.style.display = 'none';
+  localStorage.setItem('loadingClose', true);
+}, 2500)
 
-  var user = document.querySelector('.user-info');
-  var avatar = user.querySelector('.avatar');
-  avatar.addEventListener('click', function(e) {
-    e.preventDefault();
-    user.classList.toggle('open');
-  }, false);
+var btn = document.querySelector('#off-canvas-btn');
+btn.addEventListener('click', function(e) {
+  e.preventDefault();
+  document.querySelector('body').classList.toggle('active');
+}, false);
 
-// }
+var user = document.querySelector('.user-info');
+var avatar = user.querySelector('.avatar');
+avatar.addEventListener('click', function(e) {
+  e.preventDefault();
+  user.classList.toggle('open');
+}, false);
+
+
