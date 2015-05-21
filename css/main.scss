@@ -5,7 +5,7 @@
 
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   14px;
+$base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.8;
 
@@ -22,7 +22,7 @@ $text-color-light: rgba(0,0,0,0.3);
 $background-color: #fafafa;
 
 
-// header 
+// header
 $header-height: 4rem;
 
 // off-canvas
@@ -50,7 +50,7 @@ $avatar-large: 9rem;
           box-sizing: $boxmodel;
 }
 
-@mixin transition($transition) {   
+@mixin transition($transition) {
   -webkit-transition: $transition;
           transition: $transition;
 }
