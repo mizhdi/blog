@@ -9,6 +9,13 @@
   background-color: transparent;
 }
 
+@media (max-width: 479px) {
+  .content {
+    padding: 2rem 0 3rem 0;
+    background-color: transparent;
+  }
+}
+
 .article-list {
 
   article {
@@ -63,6 +70,10 @@
 
   .footer-text {
     float: right;
+  }
+
+  @media (max-width: 479px) {
+    .footer-text { display: none; }
   }
 }
 
