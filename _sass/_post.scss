@@ -4,12 +4,18 @@
 }
 
 .post {
+  margin-bottom: 20px;
+  border-bottom: 1px solid $border-color;
+
   .post-header {
     margin-bottom: 2rem;
+    padding-bottom: .8rem;
+    border-bottom: 1px solid $border-color;
 
     .post-title {
       font-weight: 500;
       color: $text-color-dark;
+      font-size: 1.8rem;
 
       @include media-query(480px) {
         font-size: 1.6rem;
@@ -20,16 +26,22 @@
     .post-meta {
       font-size: $small-font-size;
       color: $text-color-light;
+      margin-bottom: 10px;
     }
+  }
+
+  .post-lastmodified {
+    color: $text-color-light;
+    font-size: $small-font-size;
   }
 
   .post-content {
 
-    h1, h2, h3, h4, h5, h6{
+    h1, h2, h3, h4, h5, h6 {
       font-family: 'Helvetica Neue', 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif;
       font-weight: 200;
       color: #000;
-      margin-bottom: 1rem;
+      margin-bottom: 1.2rem;
     }
 
     h1 {
@@ -38,6 +50,7 @@
 
     h2 {
       font-size: 1.6rem;
+      border-bottom: 1px solid $border-color;
     }
 
     h3 {
@@ -78,7 +91,7 @@
       border: none;
       border-bottom: 1px solid #cfcfcf;
       margin-bottom: 10px;
-      *color: pink; 
+      *color: pink;
       *filter: chroma(color=pink);
       height: 10px;
       *margin: -7px 0 2px;
@@ -102,6 +115,7 @@
     ul {
       margin-left: 1.3em;
       list-style: disc;
+
       > li {
         ul, ol {
           margin-top: 0;
@@ -130,7 +144,7 @@
 
       th { background:#fbfbfb; }
 
-      caption { border-bottom: none; } 
+      caption { border-bottom: none; }
 
       thead th { background: #f1f1f1; }
 

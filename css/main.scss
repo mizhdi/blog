@@ -14,22 +14,22 @@ $main-color-dark: #57ad68;
 
 $border-color: rgba(0,0,0,0.05);
 $border-color-dark: rgba(0,0,0,0.1);
+$border-color-menu: #e5e5e5;
 
 $text-color:       rgba(0,0,0,0.6);
 $text-color-dark:  rgba(0,0,0,0.8);
 $text-color-light: rgba(0,0,0,0.3);
 
 $background-color: #fafafa;
+$background-color-menu: #f5f5f5;
 
 
 // header
 $header-height: 4rem;
 
 // off-canvas
-$off-canvas-width: 18rem;
+$off-canvas-width: 14rem;
 $off-canvas-btn-color: #333;
-$avatar-small: 7rem;
-$avatar-large: 9rem;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {

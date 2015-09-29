@@ -6,80 +6,13 @@
   width: $off-canvas-width;
   @include backface-visibility(hidden);
   -webkit-transform-style: preserve-3d;
-  background-color: $background-color;
-  border-right: 1px solid $border-color-dark;
-  box-shadow: 0 2px 1px rgba(0,0,0,0.2);
+  background-color: $background-color-menu;
+  border-right: 1px solid $border-color-menu;
   @include transition(transform .3s linear);
   @include transition(-webkit-transform .3s linear);
 
-  .user-info {
-    margin-right: -1px;
-    position: relative;
-    height: 10rem;
-    background-color: rgba(0,0,0,0.7);
-
-    .avatar {
-      position: absolute;
-      bottom: -($avatar-small / 2);
-      left: 50%;
-      margin-left: -($avatar-small / 2);
-      display: block;
-      width: $avatar-small;
-      height: $avatar-small;
-      border-radius: 50%;
-      padding: 3px;
-      background-color: #fff;
-
-      &:hover {
-        cursor: -webkit-zoom-in;
-      }
-    }
-
-    .text { 
-      opacity: 0; 
-      top: 55%;
-    }
-  }
-
-  .open {
-    margin-right: 0;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: 9999;
-    height: auto;
-    background-color: #fff;
-
-    .avatar {
-      top: 25%;
-      margin-left: -($avatar-large / 2);
-      bottom: auto;
-      width: $avatar-large;
-      height: $avatar-large;
-      @include rotate(360deg);
-      @include transition(all .6s ease-in);
-    }
-
-    .text {
-      position: absolute;
-      top: 25%;
-      margin-top: $avatar-large + 1.8rem;
-      left: 1.2rem;
-      right: 1.2rem;
-      display: block;
-      border: 1px solid $main-color;
-      padding: .5rem;
-      border-radius: 4px;
-      color: $main-color-dark;
-      opacity: 1;
-      @include transition(opacity 2s ease-in);
-    }
-  }
-
   #nav {
-    padding: ($avatar-small / 2) + 1.2rem 2rem 1.2rem 2rem;
+    padding-top: $header-height;
 
     > li {
       > a {
@@ -88,49 +21,26 @@
         color: $text-color-dark;
         border-top: 1px solid $border-color;
         text-transform: uppercase;
-        text-align: center;
+        text-align: left;
         overflow: hidden;
-        height: 3.5rem;
-        line-height: 3.5rem;
-
-        .name,
-        .text {
-          position: absolute;
-          display: block;
-          width: 100%;
-          height: 100%;
-          @include transition(all .3s ease-in-out);
-          @include backface-visibility(hidden);
-        }
-
-        .name {
-          @include translate3d(0, 0, 0);
-        }
-
-        .text {
-          @include translate3d(0, 100%, 0);
-        }
+        height: 3rem;
+        line-height: 3rem;
+        padding-left: 40px;
+        background-color: transparent;
+        font-size: $small-font-size;
 
         &:hover {
-          .name {
-            @include translate3d(0, -100%, 0);
-            @include transition(all .3s ease-in-out);
-          }
-
-          .text {
-            @include translate3d(0, 0, 0);
-            @include transition(all .3s ease-in-out);
-          }
+          background-color: $border-color-menu;
         }
       }
-      &:last-child > a {
-        border-bottom: 1px solid $border-color;
+      &:first-child > a {
+        border-top: 0;
       }
     }
   }
 }
 
-#off-canvas-btn { 
+#off-canvas-btn {
   position: absolute;
   left: 15px;
   top: 50%;
@@ -138,33 +48,32 @@
   z-index: 999;
   display: block;
   font-size: 10px;
-  width: 3.5em; 
-  height: 3.5em; 
-  background: #fff; 
-  border-radius: 0.4em; 
+  width: 3.6em;
+  height: 3.6em;
+  background: #fff;
+  border-radius: 50%;
 
   &:before,
   &:after {
-    position: absolute; 
+    position: absolute;
     content: "";
     display: block;
-    width: 1.9em;
+    width: 1.6em;
+    left: 1em;
   }
 
-  &:before { 
-    top: .9em; 
-    left: 0.8em;
-    border-top: 0.3em solid $off-canvas-btn-color;
-    height: 1em; 
-    margin: auto; 
-    border-bottom: 0.3em solid $off-canvas-btn-color; 
+  &:before {
+    top: 1.1em;
+    border-bottom: 0.2em solid $off-canvas-btn-color;
+    border-top: 0.2em solid $off-canvas-btn-color;
+    height: .8em;
+    margin: auto;
   }
 
-  &:after { 
-    top: 2.3em; 
-    left: 0.8em; 
-    height: 0.3em; 
-    background: $off-canvas-btn-color; 
+  &:after {
+    top: 2.3em;
+    height: 0.2em;
+    background: $off-canvas-btn-color;
   }
 }
 
@@ -184,15 +93,7 @@
   }
 
   #off-canvas-btn {
-    background-color: $off-canvas-btn-color;
-
-    &:before {
-      border-color: #fff;
-    }
-
-    &:after {
-      background-color: #fff;
-    }
+    background-color: $border-color-menu;
   }
 
   #sidebar {

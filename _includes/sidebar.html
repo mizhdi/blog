@@ -1,18 +1,13 @@
 <aside id="sidebar">
-  <div class="user-info">
-    <img class="avatar" src="{{ site.owner.avatar }}" alt="">
-    <p class="text">{{ site.owner.desc }}</p>
-  </div>
   <nav>
     <ul id="nav" role="navigation">
       {% for nav in site.navigations %}
         {% if nav.title %}
-          <li><a href="{{ nav.href }}">
-            <span class="name">{{ nav.title }}</span>
-            <span class="text">{{ nav.text }}</span>
-          </a></li>
+          <li><a href="{{ nav.href }}">{{ nav.title }}</a></li>
         {% endif %}
       {% endfor %}
+      <li><a href="mailto:{{ site.email }}">邮件Email</a></li>
+      <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">订阅RSS</a></li>
     </ul>
   </nav>
 </aside>

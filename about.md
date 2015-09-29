@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-我依然是一张白纸。
+这是一张白纸。
 
 

@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<div id="loading" class="hidden"><div class="dot"></div></div>
 <div class="container">
   <div class="article-list">
     {% for post in paginator.posts %}
@@ -12,27 +11,14 @@ layout: default
 
         <p>{{ post.excerpt | strip_html }}</p>
 
-        <footer>{{ post.date | date: "%b %-d, %Y" }}</footer>
+        <footer>{{ page.date | date: "%Y年%m月" }}</footer>
       </article>
     {% endfor %}
   </div>
-  
+
   {% if paginator.next_page %}
   <p id="load-more">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">READ MORE</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">更多 >></a>
   </p>
   {% endif %}
 </div>
-<!-- <div id="contact">
-  <div class="social-list">
-    <h1>{{ site.title }}</h1>
-    <p>Things that came in my mind...</p>
-    <ul>
-    {% for item in site.sns %}
-      {% if item.title %}
-        <li><a href="{{ item.href }}" target="_blank"><span class="iconfont icon-{{ item.title }}"></span></a></li>
-      {% endif %}
-    {% endfor %}
-    </ul>
-  </div>
-</div> -->

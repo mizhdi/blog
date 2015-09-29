@@ -1,41 +1,22 @@
 # Site settings
-title: Soul Rest In Peace
+title: 独 · 行
 email: mizhdi@gmail.com
-description: 这是我的墓志铭，往昔思念，尽数埋葬于此。
+description: 往昔思碎，尽数埋于此。
+keywords: 人生旅途, 思考, 停歇, 安息, 重生
 baseurl: ""
 url: "mizhengdi.com"
-paginate: 5
+paginate: 10
 paginate_path: "blog/page:num"
-owner:
-  name: Retry
-  desc: 慎独，自信，讲原则，可以不要脸，绝不后悔！
-  avatar: /img/avatar.jpeg
 sass:
   style: :compressed
 
-sns:
-  - title: RSS
-    href: /feed.xml
-  - title: weibo
-    href: http://weibo.com/208882431
-  - title: email
-    href: mailto:mizhdi@gmal.com
-  - title: github
-    href: https://github.com/mizhdi
 # Build settings
 markdown: kramdown
 
-navigations: 
-  - title: Home
-    text: 返回首页
+navigations:
+  - title: 返回首页
     href: /
-  # - title: Archive
-  #   text: 所有文章
-  #   href: /archive/
-  - title: About
-    text: 关于我
-    href: /about/
-  - title: resume
-    text: 个人简历
+  - title: 关于我
+    href: /about
+  - title: 个人简历
     href: https://github.com/mizhdi/Resume
-#about页图片放小尺寸

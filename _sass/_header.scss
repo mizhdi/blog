@@ -2,11 +2,14 @@
   position: relative;
   height: $header-height;
   line-height: $header-height;
+  overflow: hidden;
   background-color: #fff;
   border-bottom: 1px solid $border-color-dark;
 
   h1 {
-    font-size: 1.4rem;
+    float: left;
+    margin-left: 70px;
+    font-size: 1.2rem;
     color: $text-color-dark;
     text-align: center;
     font-weight: 500;
@@ -14,6 +17,7 @@
     > a {
       color: inherit;
       text-transform: uppercase;
+      font-weight: bold;
     }
   }
 }
