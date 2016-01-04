@@ -2,8 +2,9 @@
 layout       : post
 title        : "想说的话，想做的事，想看的景"
 date         : 2015-01-10 18:07:59
-categories   : 
-last-modified: 
+categories   :
+last-modified:
+lock         : true
 ---
 
 今天整理笔记的时候发现自己写了很多幼稚的话，或许那时脑袋真的被门夹了，有几条是摘录的，今天看看还是有一定的道理的。

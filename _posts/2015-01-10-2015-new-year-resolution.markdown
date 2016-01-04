@@ -2,8 +2,9 @@
 layout       : post
 title        : "NEW YEAR RESOLUTION"
 date         : 2015-01-10 12:52:59
-categories   : 
-last-modified: 
+categories   :
+last-modified:
+lock         : true
 ---
 
 新年伊始，记下今年的愿景，好歹有个参照，成与不成，或喜或忧，全凭自己。

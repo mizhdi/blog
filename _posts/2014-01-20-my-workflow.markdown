@@ -2,8 +2,9 @@
 layout       : post
 title        : "生活、学习、工作上的一些习惯"
 date         : 2015-01-20 12:33:59
-categories   : 
+categories   :
 last-modified: 2015-01-17 21:33:59
+lock         : true
 ---
 
 事情的开始源于知乎上的一篇帖子[如何把 Evernote 用好，变成系统性的知识管理工具？](http://www.zhihu.com/question/20232993){:target="_blank"}，这篇文章大概是去年11月份，换工作的时候看到的，启发蛮大的。
