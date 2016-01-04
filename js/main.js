@@ -17,7 +17,7 @@ content.addEventListener('click', function(e) {
 // 简单的链接不能点
 var lockedLink = document.querySelectorAll('a.lock');
 for (var i = 0, len = lockedLink.length; i < len; i++) {
-  lockedLink[i].addEventListener('click', function() {
+  lockedLink[i].addEventListener('click', function(e) {
     alert("文章找不到了！！(´・ω・｀)");
     e.preventDefault();
   }, false);
