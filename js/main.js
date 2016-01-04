@@ -15,8 +15,10 @@ content.addEventListener('click', function(e) {
 }, false);
 
 // 简单的链接不能点
-var lockedLink = document.querySelector('.lock');
-lockedLink.addEventListener('click', function(e) {
-  e.preventDefault();
-  alert("文章找不到了！！");
-}, false);
+var lockedLink = document.querySelectorAll('a.lock');
+for (var i = 0, len = lockedLink.length; i < len; i++) {
+  lockedLink[i].addEventListener('click', function() {
+    alert("文章找不到了！！(´・ω・｀)");
+    e.preventDefault();
+  }, false);
+}
