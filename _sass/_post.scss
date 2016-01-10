@@ -73,6 +73,10 @@
       border-left: 2px solid $main-color-dark;
       padding-left: 1em;
       margin: 1em 0 1em 1em;
+
+      @include media-query(480px) {
+        padding-left: 0;
+      }
     }
 
     pre, code {

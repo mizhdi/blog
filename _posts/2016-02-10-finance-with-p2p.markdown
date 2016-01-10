@@ -1,9 +1,10 @@
 ---
 layout       : post
-title        : "理财小白的通向财富自由之路之基础定存（p2p）篇"
-date         : 2015-10-09 14:24:00
-categories   : 
-last-modified: 2015-10-09 19:33:59
+title        : "理财小白的通向财务自由之路之定存篇"
+date         : 2016-02-01 14:24:00
+categories   :
+last-modified: 2016-02-01 19:33:59
+lock         : true
 ---
 
 ## 为什么要写
