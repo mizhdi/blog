@@ -2,7 +2,7 @@
 layout       : post
 title        : "2015总结：我依然一个人活着"
 date         : 2015-12-31 19:33:59
-categories   :
+category   : Life
 last-modified: 2015-12-31 20:33:59
 ---
 

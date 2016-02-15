@@ -80,15 +80,22 @@
     }
 
     pre, code {
+      background: #f8f8f8;
       font-family: Courier, 'Courier New', monospace;
     }
 
     pre {
-      background: #f8f8f8;
       border: 1px solid #ddd;
       padding: 1em 1.5em;
       display: block;
       -webkit-overflow-scrolling: touch;
+      word-wrap: break-word;
+      word-break: break-all;
+    }
+
+    code {
+      padding: 0 5px;
+      border-radius: 2px;
     }
 
     hr {
@@ -121,6 +128,7 @@
       list-style: disc;
 
       > li {
+        list-style: disc;
         ul, ol {
           margin-top: 0;
           margin-bottom: 0;
@@ -156,7 +164,7 @@
 
     img {
       margin: 0 auto 1.6rem;
-      max-width: 400px;
+      max-width: 600px;
       display: block;
       height: auto;
 

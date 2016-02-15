@@ -2,7 +2,7 @@
 layout       : post
 title        : "NEW YEAR RESOLUTION"
 date         : 2015-01-10 12:52:59
-categories   :
+category   : Life
 last-modified:
 lock         : true
 ---

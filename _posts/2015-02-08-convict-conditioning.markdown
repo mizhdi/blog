@@ -2,7 +2,7 @@
 layout       : post
 title        : "囚徒健身 —— 如何在百忙中使自己强壮起来"
 date         : 2015-02-08 19:33:59
-categories   :
+category   : Fitness
 last-modified: 2015-02-08 19:33:59
 lock         : true
 ---

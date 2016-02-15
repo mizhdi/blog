@@ -2,7 +2,7 @@
 layout       : post
 title        : "想说的话，想做的事，想看的景"
 date         : 2015-01-10 18:07:59
-categories   :
+category   : Life
 last-modified:
 lock         : true
 ---

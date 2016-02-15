@@ -2,7 +2,7 @@
 layout       : post
 title        : "“什么是真正的成熟？”，成为更好的人，永远也不晚"
 date         : 2015-01-31 19:33:59
-categories   :
+category   : Life
 last-modified: 2015-01-31 19:33:59
 lock         : true
 ---

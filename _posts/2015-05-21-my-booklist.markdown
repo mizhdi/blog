@@ -2,7 +2,7 @@
 layout       : post
 title        : "我的书单，2015依然在前行"
 date         : 2015-05-21 20:03:00
-categories   :
+category   : Reading
 last-modified: 2015-05-21 20:03:00
 ---
 
@@ -163,5 +163,3 @@ last-modified: 2015-05-21 20:03:00
 ###### 无价
 
 ###### 非暴力沟通
-
-

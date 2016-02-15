@@ -2,7 +2,7 @@
 layout       : post
 title        : "生活、学习、工作上的一些习惯"
 date         : 2015-01-20 12:33:59
-categories   :
+category   :
 last-modified: 2015-01-17 21:33:59
 lock         : true
 ---
