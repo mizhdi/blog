@@ -12,7 +12,10 @@ sass:
 gems: [jekyll-paginate, jekyll-gist]
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks"]
 
 navigations:
   - title: 返回首页

@@ -16,7 +16,7 @@ last-modified: 2016-02-08 19:33:59
 尤其是有多个页面的时候，考虑是不是可以将这些代码抽出来。查了一下资料，无非就是通过block将代理写在
 另一个class里面。
 
-<pre>
+```
 - (instancetype)initWithItems:(NSArray *)aItems
            configureCellBlock:(CellConfigureBlock)aCellConfigureBlock
               cellHeightBlock:(CellHeightBlock)aCellHeightBlock
@@ -24,11 +24,11 @@ last-modified: 2016-02-08 19:33:59
                didSelectBlock:(CellDidSelectBlock)aCellDidSelectBlock
            viewForHeaderBlock:(ViewForHeaderBlock)aViewForHeaderBlock
               heightForHeader:(CGFloat)aHeightForHeader;
-</pre>
+```
 
 在ViewController里可以简单这样写：
 
-<pre>
+```
 - (void)setupTableView {
     [self.tableView registerNib:[UINib nibWithNibName:xibCellIdentifier bundle:nil] forCellReuseIdentifier:xibCellIdentifier];
     [self.tableView registerClass:[AMCustomCell class] forCellReuseIdentifier:customCellIdentifier];
@@ -62,9 +62,9 @@ last-modified: 2016-02-08 19:33:59
     } heightForHeader:44.0f];
     [_tableHander handleTableViewDataSourceAndDelegate:self.tableView];
 }
-</pre>
+```
 
-Github：[https://github.com/mizhdi/AMTableLighter](https://github.com/mizhdi/AMTableLighter)
+*Github*：[https://github.com/mizhdi/AMTableLighter](https://github.com/mizhdi/AMTableLighter)
 
 ## 性能问题
 
@@ -75,7 +75,7 @@ Github：[https://github.com/mizhdi/AMTableLighter](https://github.com/mizhdi/AM
 NSMutableArray \*visiableCells，和NSMutableDictnery   \*reusableTableCells两个结构。visiableCells内保
 存当前显示的cells，reusableTableCells保存可重用的cells。一般的写法如下：
 
-<pre>
+```
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {  
    static NSString *cellIdentifier = @"cell";  
    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];  
@@ -85,7 +85,7 @@ NSMutableArray \*visiableCells，和NSMutableDictnery   \*reusableTableCells两�
    //config the cell  
    return cell;  
 }
-</pre>
+```
 
 #### 关于自定义cell
 
@@ -102,11 +102,11 @@ NSMutableArray \*visiableCells，和NSMutableDictnery   \*reusableTableCells两�
 对于固定高度的UITableViewCell，使用这种方式保证不必要的高度计算和调用
 另一种方式就是实现 UITableViewDelegate中的：
 
-<pre>
+```
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {    
   return 44.0f;
 }
-</pre>
+```
 
 所以应该非常快地返回高度值，具体可以查看[优化UITableViewCell高度计算的那些事](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)。
 

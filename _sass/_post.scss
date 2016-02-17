@@ -81,16 +81,16 @@
 
     pre, code {
       background: #f8f8f8;
-      font-family: Courier, 'Courier New', monospace;
+      font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     }
 
     pre {
+      font-size: 12px;
       border: 1px solid #ddd;
       padding: 1em 1.5em;
       display: block;
       -webkit-overflow-scrolling: touch;
-      word-wrap: break-word;
-      word-break: break-all;
+      border-radius: 3px;
     }
 
     code {

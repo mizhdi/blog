@@ -5,251 +5,329 @@
     <description>往昔思碎，尽数埋于此。</description>
     <link>mizhengdi.com/</link>
     <atom:link href="mizhengdi.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Feb 2016 15:11:43 +0800</pubDate>
-    <lastBuildDate>Mon, 15 Feb 2016 15:11:43 +0800</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 15:02:19 +0800</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 15:02:19 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>交易日志：基于PDCA的交易纪律初体验(一)</title>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;从刚开始学习股票知识，发现有很多的“股神”，其实都是些个大忽悠。不管是从历史交易，还是从前辈经验中寻找
+交易的一般规律都是费时费力的事情。如何选择一位好的导师，找对人比找对股还难。我是一个价值观和人生观
+导向的人，其实说白了，就是以现在的认知来评判一个人是否是值得学习的。当然，这是一个漫长的过程，亦是阶段性的。
+今天的老师未必是终身之师，这取决于我们观念的修正。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;和国家性质从封建主义到资本主义，再到共产主义一样，炒股的阶段也是从“随意型交易”、“技术型交易”、“策略型交易”，
+有了阶段性的胜利，方能修成正果。略过“随意型”，直接到“技术型”的交易策略，显然是不现实的。“随意型”交易必定
+亏钱，这是一个必经的过程。但是，有一个方法可以规避，准确的说，是减少一些风险，就是纪律。&lt;/p&gt;
+
+&lt;h3&gt;PDCA概念&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;PDCA循环又叫质量环，是管理学中的一个通用模型，最早由休哈特于1930年构想，后来被美国质量管理专家戴明博士在1950年再度挖掘出来，并加以广泛宣传和运用于持续改善产品质量的过程。
+PDCA是英语单词Plan(计划)、Do(执行)、Check(检查)和Action(行动)的第一个字母，PDCA循环就是按照这样的顺序进行质量管理，并且循环不止地进行下去的科学程序。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;P (plan) 计划，包括方针和目标的确定，以及活动规划的制定。&lt;/li&gt;
+&lt;li&gt;D (Do) 执行，根据已知的信息，设计具体的方法、方案和计划布局；再根据设计和布局，进行具体运作，实现计划中的内容。&lt;/li&gt;
+&lt;li&gt;C (check) 检查，总结执行计划的结果，分清哪些对了，哪些错了，明确效果，找出问题。&lt;/li&gt;
+&lt;li&gt;A (action)对总结检查的结果进行处理，对成功的经验加以肯定，并予以标准化；对于失败的教训也要总结，引起重视。对于没有解决的问题，应提交给下一个PDCA循环中去解决。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;一定要细细读，要有体会。以前喜欢看《亮剑》，其中又一个桥段就是：战争结束后，李云龙去军事学校学习正
+准备考试，说了这么一段话，大概是，这书上写的不就是我们和小鬼子、老蒋打仗用的方法吗。从实战到理论，靠的
+是摸索的过程，切身体会；从理论到实战，那是考量适不适合自己的问题，生搬硬套，理论终究还是理论。&lt;/p&gt;
+
+&lt;h3&gt;实战 Plan&lt;/h3&gt;
+
+&lt;p&gt;在@唐迁文章阐述中获悉，这是“做功课”。首先根据2016年的行情，“强政策，黑科技，新消费”主要以这三者为主，其中我
+个人认为“强政策”和“黑科技”这两者对我来说太难，解读国家政策和了解国家高科技产业，成本太高。尝试做过“机器人”
+的作业，感觉还是太难，毕竟自己接触最多的也就是互联网。不是说“新消费”的作业就简单，而是它离我的生活比较近，准备从文化传媒，健康医疗，即所谓的消费升级概念入手。&lt;/p&gt;
+
+&lt;p&gt;选股作业。选一只怎么样的股，有价值，龙头股？扯蛋！李大霄说的远离“黑五类”，说了等于没说！想想还是应该买入超跌，盘子小的龙头股，庄拉的那才叫龙头。如何知道大众预期，不就是个人的自认为，就是个人预期，个人猜测市场的行为乃是股市之大忌。所以，我的策略是“选好股，等等等，等事件发酵”。&lt;/p&gt;
+
+&lt;p&gt;首先板块行业选定，这样就减少了选股时间，再看基本面传媒的龙头是“光线传媒”？传媒概念，相关的有三网融合、VR、二次元、IP、UGC......首先看基本面，看PB和PE，不是太懂，日后再研究；看kdj月线和周线，个股都是超跌。&lt;/p&gt;
+
+&lt;p&gt;今天开盘，看了一下股票池中的股票，自己心仪的对象－－“电广传媒”，旗形整理，量能在增加，做高抛低吸？&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2016/stock-with-pdca-02.png&quot; alt=&quot;stock-with-pdca-02&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;再看一下今天涨幅较好的“广电网络”，日k的技术面走的都挺好：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2016/stock-with-pdca-01.png&quot; alt=&quot;stock-with-pdca-01&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;感想：今天大盘低开2%，超2000股下跌，不明白“广电网络”为什么会涨，还有“光线传媒”，拉高出货？今天早上看到一句话“A股不如赌场”，看了一下“上证指数”的走势，对比0708年，估计还有风险会下跌。&lt;/p&gt;
+
+&lt;h3&gt;实战 Do&lt;/h3&gt;
+
+&lt;p&gt;明天看“电广传媒”走势如何，在低点买入。根据仓位管理，等指数企稳，突破旗形后，加点仓。有一说一，投入到股市的资金有限，一般都是满仓，但是一定要会分步进入。&lt;/p&gt;
+
+&lt;p&gt;关于洗盘中的震荡，就是说能接受多少的亏损，大概是20%－30%，具体操作按照旗形整理的策略做就行了。&lt;/p&gt;
+
+&lt;p&gt;关于什么时候拉升的问题？引爆个股的导火索是什么，还是单纯的靠庄炒？再去做做功课。&lt;/p&gt;
+
+&lt;p&gt;最后就是如何撤出的问题。到止损位果断出，一段时间如果没有拉升，也必须出。所以重点也就是寻找大众预期的高点，不管是事件还是什么。&lt;/p&gt;
+
+&lt;p&gt;2.16更新：今天大盘大涨3.29%，就不追高了，等回调的时候再入。这是不是叫踏空？&lt;/p&gt;
+
+&lt;h3&gt;自己去学习&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://weibo.com/p/1001603877489008325215?mod=zwenzhang&quot;&gt;PDCA——交易计划与执行&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 15 Feb 2016 22:24:00 +0800</pubDate>
+        <link>mizhengdi.com/wealth/2016/02/15/stock-pdca.html</link>
+        <guid isPermaLink="true">mizhengdi.com/wealth/2016/02/15/stock-pdca.html</guid>
+        
+        
+        <category>Wealth</category>
+        
+      </item>
     
       <item>
         <title>理财小白的通向财务自由之路之股票篇(一)</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;“理念和体系“，理念如果好比是大脑，体系就是身体；理念如果是内功，那体系就是外功；理念如果是门道，
+&lt;p&gt;“理念和体系“，理念如果好比是大脑，体系就是身体；理念如果是内功，那体系就是外功；理念如果是门道，
 那体系就是方法。以下各种理论，其实提炼成一句话就是巴菲特的“保全资本金，绝不可忘记这一原则”。大师，
 不愧是大师。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h1 id=&quot;section&quot;&gt;理念&lt;/h1&gt;
+&lt;h1&gt;理念&lt;/h1&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;心态&lt;/h2&gt;
+&lt;h2&gt;心态&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;果断：庄家吃的就是散户的犹豫&lt;/li&gt;
-  &lt;li&gt;绝不可将自己的意愿强加于市场、一定要做一个追逐趋势者，不要做一个预测趋势者，市场永远不会
+&lt;li&gt;果断：庄家吃的就是散户的犹豫&lt;/li&gt;
+&lt;li&gt;绝不可将自己的意愿强加于市场、一定要做一个追逐趋势者，不要做一个预测趋势者，市场永远不会
 错（摒弃主观臆测，尊重市场的客观趋势）&lt;/li&gt;
-  &lt;li&gt;不见邪（多头应卖出），不听邪（不依消息交易，看到对事件的人性反应），不言邪（不对人说起未来
+&lt;li&gt;不见邪（多头应卖出），不听邪（不依消息交易，看到对事件的人性反应），不言邪（不对人说起未来
 的市场行为）&lt;/li&gt;
-  &lt;li&gt;幸福生活及快乐的交易者&lt;/li&gt;
-  &lt;li&gt;顺大势逆人心，时与势，择时顺势&lt;/li&gt;
+&lt;li&gt;幸福生活及快乐的交易者&lt;/li&gt;
+&lt;li&gt;顺大势逆人心，时与势，择时顺势&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;投资理念&lt;/h2&gt;
+&lt;h2&gt;投资理念&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;保全资本金，绝不可忘记这一原则&lt;/li&gt;
-  &lt;li&gt;投资是能兼顾“赚钱”和“赚时间”的最好方式&lt;/li&gt;
-  &lt;li&gt;投资模型的三大基石：安全边际分析、仓位管理技巧、量化套利投资&lt;/li&gt;
-  &lt;li&gt;成功交易必经“随意型交易”、“技术型交易”、“策略型交易”、“完全策略型交易” 四个主导阶段&lt;/li&gt;
+&lt;li&gt;保全资本金，绝不可忘记这一原则&lt;/li&gt;
+&lt;li&gt;投资是能兼顾“赚钱”和“赚时间”的最好方式&lt;/li&gt;
+&lt;li&gt;投资模型的三大基石：安全边际分析、仓位管理技巧、量化套利投资&lt;/li&gt;
+&lt;li&gt;成功交易必经“随意型交易”、“技术型交易”、“策略型交易”、“完全策略型交易” 四个主导阶段&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;本质&lt;/h2&gt;
+&lt;h2&gt;本质&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;在任何市场上，最重要的价格就是你在开立头寸时的交易水平&lt;/li&gt;
-  &lt;li&gt;股市里面决定股价的最主要因素只有这两个：贪婪及恐惧&lt;/li&gt;
-  &lt;li&gt;流向具有睿智思维和高超技术能力的少数人群的财富再分配&lt;/li&gt;
-  &lt;li&gt;最直接最正宗的技术分析应当量价分析为主，时空分析为辅，而各种指标线与股价之间的关系只是对应关系
+&lt;li&gt;在任何市场上，最重要的价格就是你在开立头寸时的交易水平&lt;/li&gt;
+&lt;li&gt;股市里面决定股价的最主要因素只有这两个：贪婪及恐惧&lt;/li&gt;
+&lt;li&gt;流向具有睿智思维和高超技术能力的少数人群的财富再分配&lt;/li&gt;
+&lt;li&gt;最直接最正宗的技术分析应当量价分析为主，时空分析为辅，而各种指标线与股价之间的关系只是对应关系
 而已，即影子关系&lt;/li&gt;
-  &lt;li&gt;因贪婪而进场，因恐惧而出场，恐惧易造成波动&lt;/li&gt;
-  &lt;li&gt;市场有两种方式化解超买和超卖状况，一是横向盘整，二是大幅修正&lt;/li&gt;
-  &lt;li&gt;价格，交易量以及持仓量贯穿了技术分析的整个领域&lt;/li&gt;
-  &lt;li&gt;时机比什么都重要，在合适的时候买入一个差股票远比在不好的时机买入一个好股票要挣得多&lt;/li&gt;
-  &lt;li&gt;头一个小时，引导一个交易日，开市行情奠定了交易日行情的基础&lt;/li&gt;
+&lt;li&gt;因贪婪而进场，因恐惧而出场，恐惧易造成波动&lt;/li&gt;
+&lt;li&gt;市场有两种方式化解超买和超卖状况，一是横向盘整，二是大幅修正&lt;/li&gt;
+&lt;li&gt;价格，交易量以及持仓量贯穿了技术分析的整个领域&lt;/li&gt;
+&lt;li&gt;时机比什么都重要，在合适的时候买入一个差股票远比在不好的时机买入一个好股票要挣得多&lt;/li&gt;
+&lt;li&gt;头一个小时，引导一个交易日，开市行情奠定了交易日行情的基础&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;思维与哲学&lt;/h2&gt;
+&lt;h2&gt;思维与哲学&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;PDCA&lt;/li&gt;
-  &lt;li&gt;交易的五个依据层次与盈亏的正确归因(宏观经济面问题，股市系统性问题，所属板块问题，个股四
+&lt;li&gt;PDCA&lt;/li&gt;
+&lt;li&gt;交易的五个依据层次与盈亏的正确归因(宏观经济面问题，股市系统性问题，所属板块问题，个股四
 面问题(基本面、技术面、资金面、消息面)，个人操作问题)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;section-5&quot;&gt;体系&lt;/h1&gt;
+&lt;h1&gt;体系&lt;/h1&gt;
 
-&lt;h2 id=&quot;section-6&quot;&gt;研究体系&lt;/h2&gt;
+&lt;h2&gt;研究体系&lt;/h2&gt;
 
-&lt;h3 id=&quot;section-7&quot;&gt;趋势理论&lt;/h3&gt;
+&lt;h3&gt;趋势理论&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;判断拐点，跟随趋势，主要趋势、次要趋势、短暂趋势&lt;/li&gt;
-  &lt;li&gt;收敛三角形，趋势方向要转变了；扩散三角形，波动比较剧烈&lt;/li&gt;
-  &lt;li&gt;有效突破：幅度、时间、成交量三个因素&lt;/li&gt;
-  &lt;li&gt;通道、箱体、旗形洗盘：每一个箱体背后都是一个阴谋，调仓换股，高抛低吸，成交量是不断减少的，
+&lt;li&gt;判断拐点，跟随趋势，主要趋势、次要趋势、短暂趋势&lt;/li&gt;
+&lt;li&gt;收敛三角形，趋势方向要转变了；扩散三角形，波动比较剧烈&lt;/li&gt;
+&lt;li&gt;有效突破：幅度、时间、成交量三个因素&lt;/li&gt;
+&lt;li&gt;通道、箱体、旗形洗盘：每一个箱体背后都是一个阴谋，调仓换股，高抛低吸，成交量是不断减少的，
 涨幅一般是矩形的一倍&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-8&quot;&gt;均线与黄金分割&lt;/h3&gt;
+&lt;h3&gt;均线与黄金分割&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;0.618、0.5、0.382&lt;/li&gt;
-  &lt;li&gt;均线具有助涨助跌的作用，趋势向上，均线作为支撑趋势向下，均线作为阻力&lt;/li&gt;
-  &lt;li&gt;30日均线被认为是股价的生命线&lt;/li&gt;
-  &lt;li&gt;单条均线对于股价都起到了支撑与压制的作用&lt;/li&gt;
+&lt;li&gt;0.618、0.5、0.382&lt;/li&gt;
+&lt;li&gt;均线具有助涨助跌的作用，趋势向上，均线作为支撑趋势向下，均线作为阻力&lt;/li&gt;
+&lt;li&gt;30日均线被认为是股价的生命线&lt;/li&gt;
+&lt;li&gt;单条均线对于股价都起到了支撑与压制的作用&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-9&quot;&gt;波浪理论&lt;/h3&gt;
+&lt;h3&gt;波浪理论&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;因浪型决定比率、浪型决定时间、浪型决定走势&lt;/li&gt;
-  &lt;li&gt;五浪上升ABC调整，艾略特波浪理论：先是5浪上涨，然后跟着调整性的三浪下跌（最重要的3浪和5浪）&lt;/li&gt;
+&lt;li&gt;因浪型决定比率、浪型决定时间、浪型决定走势&lt;/li&gt;
+&lt;li&gt;五浪上升ABC调整，艾略特波浪理论：先是5浪上涨，然后跟着调整性的三浪下跌（最重要的3浪和5浪）&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-10&quot;&gt;选股体系&lt;/h2&gt;
+&lt;h2&gt;选股体系&lt;/h2&gt;
 
-&lt;h3 id=&quot;kdj&quot;&gt;KDJ选股&lt;/h3&gt;
+&lt;h3&gt;KDJ选股&lt;/h3&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;先将所有的KDJ月线指标进入超卖区个股选出来，加以归类&lt;/li&gt;
-  &lt;li&gt;再从中选出KDJ周线指标中J值已经上穿0线，并且周线指标K、D两值出现低位金叉的个股&lt;/li&gt;
-  &lt;li&gt;对于KDJ日线指标也几乎同时发出买入信号的个股，投资者可以选择其中量能持续放大的积极买入&lt;/li&gt;
-  &lt;li&gt;实施具体买入操作时，可以选择15分钟的分时随机指标进入超卖区的时候，在盘中较低的位置介入&lt;/li&gt;
+&lt;li&gt;先将所有的KDJ月线指标进入超卖区个股选出来，加以归类&lt;/li&gt;
+&lt;li&gt;再从中选出KDJ周线指标中J值已经上穿0线，并且周线指标K、D两值出现低位金叉的个股&lt;/li&gt;
+&lt;li&gt;对于KDJ日线指标也几乎同时发出买入信号的个股，投资者可以选择其中量能持续放大的积极买入&lt;/li&gt;
+&lt;li&gt;实施具体买入操作时，可以选择15分钟的分时随机指标进入超卖区的时候，在盘中较低的位置介入&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;section-11&quot;&gt;行业与个股&lt;/h3&gt;
+&lt;h3&gt;行业与个股&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;1、营收放大20%；2、净利润增长大于10%；3、净资产收益率大于5%；4、市盈率低于150”&lt;/li&gt;
+&lt;li&gt;1、营收放大20%；2、净利润增长大于10%；3、净资产收益率大于5%；4、市盈率低于150”&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-12&quot;&gt;纪律&lt;/h3&gt;
+&lt;h3&gt;纪律&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;现阶段（10万以下）只投两只股票，一只价值，一只题材，风格属于篇中长期&lt;/li&gt;
-  &lt;li&gt;基本面选股，技术面选时&lt;/li&gt;
+&lt;li&gt;现阶段（10万以下）只投两只股票，一只价值，一只题材，风格属于篇中长期&lt;/li&gt;
+&lt;li&gt;基本面选股，技术面选时&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-13&quot;&gt;交易体系&lt;/h2&gt;
+&lt;h2&gt;交易体系&lt;/h2&gt;
 
-&lt;h2 id=&quot;k&quot;&gt;k线&lt;/h2&gt;
+&lt;h2&gt;k线&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;依据长白实体（3倍长于前日）构成支撑这个概念进行交易的方式之一是，回撤到中点附近时买进入场，
+&lt;li&gt;依据长白实体（3倍长于前日）构成支撑这个概念进行交易的方式之一是，回撤到中点附近时买进入场，
 从这个点到长白实体的低点构成支撑区域&lt;/li&gt;
-  &lt;li&gt;十字星的顶端（上影线的顶端）构成阻挡线&lt;/li&gt;
-  &lt;li&gt;上影线与下影线都很长的叫做“高浪线”，代表多空对峙的状态&lt;/li&gt;
-  &lt;li&gt;锤子线刚出现时，先少量做多试水，验证后加码买进，止损点设在锤子线低点的下方&lt;/li&gt;
-  &lt;li&gt;在行情上行时，如果已经出现8-10根新高蜡烛线，应该停止买进&lt;/li&gt;
-  &lt;li&gt;蜡烛图的实体较短，说明熊方和牛方处于胶着状态&lt;/li&gt;
-  &lt;li&gt;仅当反转信号所指的方向与市场的主要趋势方向一致时，我们才可以依据此开立新的头寸&lt;/li&gt;
-  &lt;li&gt;上吊线的实体与上吊线次日的开市价之间向下的缺口越大，那么上吊线就越有可能构成市场的顶部&lt;/li&gt;
-  &lt;li&gt;在吞没形态中，第二个实体伴有超额的交易量&lt;/li&gt;
+&lt;li&gt;十字星的顶端（上影线的顶端）构成阻挡线&lt;/li&gt;
+&lt;li&gt;上影线与下影线都很长的叫做“高浪线”，代表多空对峙的状态&lt;/li&gt;
+&lt;li&gt;锤子线刚出现时，先少量做多试水，验证后加码买进，止损点设在锤子线低点的下方&lt;/li&gt;
+&lt;li&gt;在行情上行时，如果已经出现8-10根新高蜡烛线，应该停止买进&lt;/li&gt;
+&lt;li&gt;蜡烛图的实体较短，说明熊方和牛方处于胶着状态&lt;/li&gt;
+&lt;li&gt;仅当反转信号所指的方向与市场的主要趋势方向一致时，我们才可以依据此开立新的头寸&lt;/li&gt;
+&lt;li&gt;上吊线的实体与上吊线次日的开市价之间向下的缺口越大，那么上吊线就越有可能构成市场的顶部&lt;/li&gt;
+&lt;li&gt;在吞没形态中，第二个实体伴有超额的交易量&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-14&quot;&gt;支撑位与阻力位&lt;/h2&gt;
+&lt;h2&gt;支撑位与阻力位&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;极性转换原则：原先的支撑水平一旦被突破，则转化为新的阻挡水平&lt;/li&gt;
-  &lt;li&gt;成交量相对比较大的区域要比成交量相对比较小的区域重要，成交量大的区域意味着曾经在这里参与买卖的
+&lt;li&gt;极性转换原则：原先的支撑水平一旦被突破，则转化为新的阻挡水平&lt;/li&gt;
+&lt;li&gt;成交量相对比较大的区域要比成交量相对比较小的区域重要，成交量大的区域意味着曾经在这里参与买卖的
 筹码比较多，这里是买方的成本区，这个位置股价的波动容易影响他们的买卖行为他们的买卖行为反过来又
 会加剧这个位置股价的波动&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-15&quot;&gt;仓位管理&lt;/h3&gt;
+&lt;h3&gt;仓位管理&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;策略管理的本质：风险防范的意识与能力事实上是对资金的有效管理&lt;/li&gt;
-  &lt;li&gt;记住一条：先是试探性建仓，此时仓位上限是三分之一&lt;/li&gt;
+&lt;li&gt;策略管理的本质：风险防范的意识与能力事实上是对资金的有效管理&lt;/li&gt;
+&lt;li&gt;记住一条：先是试探性建仓，此时仓位上限是三分之一&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-16&quot;&gt;换手率&lt;/h3&gt;
+&lt;h3&gt;换手率&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;股价只有在上升趋势途中，才需要关注换手率的的大小，也即所谓的换手量&lt;/li&gt;
-  &lt;li&gt;无论关前换手量还是关后换手量，通常情况下，股价只要在上升趋势途中接近前期颈线位附近出现较大换手量
+&lt;li&gt;股价只有在上升趋势途中，才需要关注换手率的的大小，也即所谓的换手量&lt;/li&gt;
+&lt;li&gt;无论关前换手量还是关后换手量，通常情况下，股价只要在上升趋势途中接近前期颈线位附近出现较大换手量
 ，均表示股性有激活迹象，股价有加速上涨的欲望&lt;/li&gt;
-  &lt;li&gt;一般情况，大多股票每日换手率在1%——2.5%（不包括初上市的股票）70%的股票的换手率基本在3%以下，
+&lt;li&gt;一般情况，大多股票每日换手率在1%——2.5%（不包括初上市的股票）70%的股票的换手率基本在3%以下，
 3%就成为一种分界当一支股票的换手率在3%——7%之间时，该股进入相对活跃状态7%——10%之间时，则为
 强势股的出现，股价处于高度活跃当中（广为市场关注）10%——15%，大庄密切操作超过15%换手率，持
 续多日的话，此股也许成为最大黑马&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-17&quot;&gt;止损&lt;/h3&gt;
+&lt;h3&gt;止损&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;赚多少还取决于市场，亏多少几乎全部取决于自己不愿意止损，其核心就是不敢直面自己的错误，
+&lt;li&gt;赚多少还取决于市场，亏多少几乎全部取决于自己不愿意止损，其核心就是不敢直面自己的错误，
 希望以更大的“赌”来掩盖已经发生的错误&lt;/li&gt;
-  &lt;li&gt;止损是一回事，再买入是另外一回事，它俩是两个独立的逻辑，是两笔独立的操作，它们不能互相抵消&lt;/li&gt;
+&lt;li&gt;止损是一回事，再买入是另外一回事，它俩是两个独立的逻辑，是两笔独立的操作，它们不能互相抵消&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;k-1&quot;&gt;k线止损条件&lt;/h3&gt;
+&lt;h3&gt;k线止损条件&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;双顶颈线位破位止损出局&lt;/li&gt;
-  &lt;li&gt;头肩顶颈线位破位止损出局&lt;/li&gt;
-  &lt;li&gt;圆顶形成过程中5、10日线高位死叉止损出局&lt;/li&gt;
-  &lt;li&gt;顶部收敛三角形下边线跌破止损出局&lt;/li&gt;
-  &lt;li&gt;可能的倒置“V”形出现前破5日线止损出局&lt;/li&gt;
-  &lt;li&gt;扩散三角形形成前套牢者在跌破下边线时止损出局&lt;/li&gt;
-  &lt;li&gt;高位出现下降三角形跌破其下边线时止损出局&lt;/li&gt;
-  &lt;li&gt;下跌途中出现上升楔形下边线被跌破时止损出局&lt;/li&gt;
-  &lt;li&gt;下降旗形下边线破位止损出局&lt;/li&gt;
-  &lt;li&gt;一根大阴线切断了三根均线，改变了均线的排列为空头排列，后势看空(断头铡刀)&lt;/li&gt;
+&lt;li&gt;双顶颈线位破位止损出局&lt;/li&gt;
+&lt;li&gt;头肩顶颈线位破位止损出局&lt;/li&gt;
+&lt;li&gt;圆顶形成过程中5、10日线高位死叉止损出局&lt;/li&gt;
+&lt;li&gt;顶部收敛三角形下边线跌破止损出局&lt;/li&gt;
+&lt;li&gt;可能的倒置“V”形出现前破5日线止损出局&lt;/li&gt;
+&lt;li&gt;扩散三角形形成前套牢者在跌破下边线时止损出局&lt;/li&gt;
+&lt;li&gt;高位出现下降三角形跌破其下边线时止损出局&lt;/li&gt;
+&lt;li&gt;下跌途中出现上升楔形下边线被跌破时止损出局&lt;/li&gt;
+&lt;li&gt;下降旗形下边线破位止损出局&lt;/li&gt;
+&lt;li&gt;一根大阴线切断了三根均线，改变了均线的排列为空头排列，后势看空(断头铡刀)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-18&quot;&gt;战术上止损&lt;/h3&gt;
+&lt;h3&gt;战术上止损&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;亏损额度达到总资金的5%，无论任何理由和借口，都无条件的止损&lt;/li&gt;
-  &lt;li&gt;行情不好，且走势对我不利时，立即止损&lt;/li&gt;
-  &lt;li&gt;走势看不懂，且对我不利时，立即止损&lt;/li&gt;
-  &lt;li&gt;买入股票后，没有实现预期，逐步止损&lt;/li&gt;
-  &lt;li&gt;时间止损，买入后长时间没有行情，逐步止损&lt;/li&gt;
-  &lt;li&gt;买股的理由不存在了、发生了变化、被澄清，逐步止损&lt;/li&gt;
-  &lt;li&gt;个股亏损额超过30%，无论任何理由和借口，无条件的止损&lt;/li&gt;
+&lt;li&gt;亏损额度达到总资金的5%，无论任何理由和借口，都无条件的止损&lt;/li&gt;
+&lt;li&gt;行情不好，且走势对我不利时，立即止损&lt;/li&gt;
+&lt;li&gt;走势看不懂，且对我不利时，立即止损&lt;/li&gt;
+&lt;li&gt;买入股票后，没有实现预期，逐步止损&lt;/li&gt;
+&lt;li&gt;时间止损，买入后长时间没有行情，逐步止损&lt;/li&gt;
+&lt;li&gt;买股的理由不存在了、发生了变化、被澄清，逐步止损&lt;/li&gt;
+&lt;li&gt;个股亏损额超过30%，无论任何理由和借口，无条件的止损&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;macd&quot;&gt;MACD&lt;/h3&gt;
+&lt;h3&gt;MACD&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;若零轴之上出现二次金叉信号时，又被称之为零上二次红金叉，属于股价强势中的强势，此时跟进做多，
+&lt;li&gt;若零轴之上出现二次金叉信号时，又被称之为零上二次红金叉，属于股价强势中的强势，此时跟进做多，
 股价往往容易出现加速上涨属于短线极佳买点&lt;/li&gt;
-  &lt;li&gt;在股价实际走势中，快线与慢线的死叉同样需要配合零轴之上或零轴之下综合研判当零轴之上出现DIFF
+&lt;li&gt;在股价实际走势中，快线与慢线的死叉同样需要配合零轴之上或零轴之下综合研判当零轴之上出现DIFF
 下穿DEA死叉时，一般定义为股价上升趋势途中的短暂回调，后市股价仍有再次走强的可能反之，当DIFF
 与DEA在零轴之下发生死叉时，通常定义为股价下跌趋势途中的继续回调，后市股价惯性下跌的概率较高，
 尤其是MACD零轴之下出现二次死叉时，股价更容易出现加速下跌行情，所以零轴之下，无论出现的是一次
 死叉或二次死叉，投资者都应当空仓观望，静观其变&lt;/li&gt;
-  &lt;li&gt;零上金叉招财宝，零下金叉易受伤零上死叉看支撑，零下死叉把命逃&lt;/li&gt;
-  &lt;li&gt;隐形顶背离，从红绿柱不好看出来，但结合黄白线没有随红柱降低而回落，而是维持高位后突然向下扭头，
+&lt;li&gt;零上金叉招财宝，零下金叉易受伤零上死叉看支撑，零下死叉把命逃&lt;/li&gt;
+&lt;li&gt;隐形顶背离，从红绿柱不好看出来，但结合黄白线没有随红柱降低而回落，而是维持高位后突然向下扭头，
 拐点包住的红柱很小或没有，这种也等同于彻底顶背离，具有一样的杀伤力&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;kdj-1&quot;&gt;KDJ&lt;/h3&gt;
+&lt;h3&gt;KDJ&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;周KDJ中的J线对股价的反应最为敏感，而且较为准确，应要充分重视&lt;/li&gt;
-  &lt;li&gt;K、D双双低于10的时候，存在短线上涨乃至暴涨的机会(短线)&lt;/li&gt;
-  &lt;li&gt;J值可靠性最差，因为它敏感性太强，K值次之，D值稍稳定些&lt;/li&gt;
-  &lt;li&gt;K线进入90以上为超买区，10以下为超卖区；D线进入80以上为超买区，20以下为超卖区；J&amp;gt;100%超买，
+&lt;li&gt;周KDJ中的J线对股价的反应最为敏感，而且较为准确，应要充分重视&lt;/li&gt;
+&lt;li&gt;K、D双双低于10的时候，存在短线上涨乃至暴涨的机会(短线)&lt;/li&gt;
+&lt;li&gt;J值可靠性最差，因为它敏感性太强，K值次之，D值稍稳定些&lt;/li&gt;
+&lt;li&gt;K线进入90以上为超买区，10以下为超卖区；D线进入80以上为超买区，20以下为超卖区；J&amp;gt;100%超买，
 J&amp;lt;10%超卖KD值于50%左右徘徊或交叉时，无意义&lt;/li&gt;
-  &lt;li&gt;实践中，当K线在低位向上穿过D线，被称作“金叉”，是短线抢入信号；当K线在高位向下跌穿D线，
+&lt;li&gt;实践中，当K线在低位向上穿过D线，被称作“金叉”，是短线抢入信号；当K线在高位向下跌穿D线，
 又被称作死叉，是抛筹信号而在这一过程中，J线往往领先KD率先表现出涨与跌的趋势&lt;/li&gt;
-  &lt;li&gt;临界钝化指的是最明显、最凶狠、最直接、最不要脸的钝化方式，是指从最高位置100（或最低位置0）
+&lt;li&gt;临界钝化指的是最明显、最凶狠、最直接、最不要脸的钝化方式，是指从最高位置100（或最低位置0）
 直接不回头的直线到达最低位置0（或最高位置100)45天KDJ的临界钝化状态出现之后，后市往往有较大
 的后续行情，是股价趋势将发生反转的前奏，往往真正的主推动浪还在后面在钝化顶部不可能是最好的介
 入机会，一般可以选择在J值从钝化顶部开始回调后第一次再度上升时介入&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-19&quot;&gt;缺口&lt;/h3&gt;
+&lt;h3&gt;缺口&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;缺口，往往是主力资金或先知先觉的投资者在次日坚决买进或坚决抛出所形成的&lt;/li&gt;
-  &lt;li&gt;而日K线中的缺口由于更加贴近市场主力资金的运作意图，而被格外看重，所以，我们平时以日K线缺口为主要研判依据&lt;/li&gt;
-  &lt;li&gt;缺口在单一趋势中所处的位置不同，划分为突破缺口、持续缺口和竭尽缺口&lt;/li&gt;
-  &lt;li&gt;缺口理论中有句名言叫“三跳空，气数尽”&lt;/li&gt;
-  &lt;li&gt;对于持续缺口的量度作用，通常也是建立在这个基础之上的，其量度的方式是持续缺口与突破缺口之间的距离
+&lt;li&gt;缺口，往往是主力资金或先知先觉的投资者在次日坚决买进或坚决抛出所形成的&lt;/li&gt;
+&lt;li&gt;而日K线中的缺口由于更加贴近市场主力资金的运作意图，而被格外看重，所以，我们平时以日K线缺口为主要研判依据&lt;/li&gt;
+&lt;li&gt;缺口在单一趋势中所处的位置不同，划分为突破缺口、持续缺口和竭尽缺口&lt;/li&gt;
+&lt;li&gt;缺口理论中有句名言叫“三跳空，气数尽”&lt;/li&gt;
+&lt;li&gt;对于持续缺口的量度作用，通常也是建立在这个基础之上的，其量度的方式是持续缺口与突破缺口之间的距离
 翻一倍上去就是高点，由于高点的出现，强势行情中会超过一些，而弱势行情中会不到一些&lt;/li&gt;
-  &lt;li&gt;缺口的计算均以开盘价为准&lt;/li&gt;
-  &lt;li&gt;如果一个窗口（在上升趋势中）没有在三天内被市场关闭，那么市场将上涨&lt;/li&gt;
-  &lt;li&gt;在上升趋势中，我们可以把窗口作为买进的参考点，乘市场回撤到这里时入市&lt;/li&gt;
+&lt;li&gt;缺口的计算均以开盘价为准&lt;/li&gt;
+&lt;li&gt;如果一个窗口（在上升趋势中）没有在三天内被市场关闭，那么市场将上涨&lt;/li&gt;
+&lt;li&gt;在上升趋势中，我们可以把窗口作为买进的参考点，乘市场回撤到这里时入市&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;section-20&quot;&gt;博弈&lt;/h3&gt;
+&lt;h3&gt;博弈&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;庄家操作：试盘、吸筹、震荡洗盘、拉升、出货&lt;/li&gt;
+&lt;li&gt;庄家操作：试盘、吸筹、震荡洗盘、拉升、出货&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;炒股的门派很多，有价值投资，也有炒短线，还有技术门派，技术门派中又有各种技术，林林总总，错综复杂。如何选择适合自己的一个套路，真的需要时间学习与实践总结。至于我为什么要投身股市，因为这里永远都不缺机会，机会与风险并存，往往可以升华人性。&lt;/p&gt;
+&lt;p&gt;炒股的门派很多，有价值投资，也有炒短线，还有技术门派，技术门派中又有各种技术，林林总总，错综复杂。如何选择适合自己的一个套路，真的需要时间学习与实践总结。至于我为什么要投身股市，因为这里永远都不缺机会，机会与风险并存，往往可以升华人性。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 09 Feb 2016 22:24:00 +0800</pubDate>
@@ -264,31 +342,26 @@ J&amp;lt;10%超卖KD值于50%左右徘徊或交叉时，无意义&lt;/li&gt;
       <item>
         <title>深入学习ios中UITableView</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;从前端转到ios开发，虽然跨度不大，但是构建UI方面有很大的不同，其中最让人很不爽的就是UI的耦合，
+&lt;p&gt;从前端转到ios开发，虽然跨度不大，但是构建UI方面有很大的不同，其中最让人很不爽的就是UI的耦合，
 就像React中可以将css写在js文件中一样，连html都整合在一起，不就是内联嘛。ios中常用UITableView，
 趁着项目的做完，好好学习总结记录一下。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;lighter-view-controllers&quot;&gt;Lighter View Controllers&lt;/h2&gt;
+&lt;h2&gt;Lighter View Controllers&lt;/h2&gt;
 
 &lt;p&gt;如果将UITableView的dataSource和delegate写在ViewController里面，你就会发现越来越冗长，
 尤其是有多个页面的时候，考虑是不是可以将这些代码抽出来。查了一下资料，无非就是通过block将代理写在
 另一个class里面。&lt;/p&gt;
-
-&lt;pre&gt;
-- (instancetype)initWithItems:(NSArray *)aItems
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;- (instancetype)initWithItems:(NSArray *)aItems
            configureCellBlock:(CellConfigureBlock)aCellConfigureBlock
               cellHeightBlock:(CellHeightBlock)aCellHeightBlock
               cellWillDisplay:(CellWillDisplayBlock)aCellWillDisplayBlock
                didSelectBlock:(CellDidSelectBlock)aCellDidSelectBlock
            viewForHeaderBlock:(ViewForHeaderBlock)aViewForHeaderBlock
               heightForHeader:(CGFloat)aHeightForHeader;
-&lt;/pre&gt;
-
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;在ViewController里可以简单这样写：&lt;/p&gt;
-
-&lt;pre&gt;
-- (void)setupTableView {
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;- (void)setupTableView {
     [self.tableView registerNib:[UINib nibWithNibName:xibCellIdentifier bundle:nil] forCellReuseIdentifier:xibCellIdentifier];
     [self.tableView registerClass:[AMCustomCell class] forCellReuseIdentifier:customCellIdentifier];
     self.tableView.separatorStyle = UITableViewCellSeparatorStyleSingleLine;
@@ -321,21 +394,18 @@ J&amp;lt;10%超卖KD值于50%左右徘徊或交叉时，无意义&lt;/li&gt;
     } heightForHeader:44.0f];
     [_tableHander handleTableViewDataSourceAndDelegate:self.tableView];
 }
-&lt;/pre&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Github&lt;/em&gt;：&lt;a href=&quot;https://github.com/mizhdi/AMTableLighter&quot;&gt;https://github.com/mizhdi/AMTableLighter&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Github：&lt;a href=&quot;https://github.com/mizhdi/AMTableLighter&quot;&gt;https://github.com/mizhdi/AMTableLighter&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;性能问题&lt;/h2&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;性能问题&lt;/h2&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;重用机制&lt;/h3&gt;
+&lt;h3&gt;重用机制&lt;/h3&gt;
 
 &lt;p&gt;做web开发的时候，是将整个页面都展现出来，在ios上要考虑GPU的性能问题，UITableView就有个重用机
 制创建屏幕可显示最大个数的cell，然后重复使用这些cell。查看UITableView头文件，会找到
 NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个结构。visiableCells内保
 存当前显示的cells，reusableTableCells保存可重用的cells。一般的写法如下：&lt;/p&gt;
-
-&lt;pre&gt;
-- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {  
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {  
    static NSString *cellIdentifier = @&quot;cell&quot;;  
    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];  
    if (!cell) {  
@@ -344,51 +414,48 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
    //config the cell  
    return cell;  
 }
-&lt;/pre&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;关于自定义cell&lt;/h4&gt;
 
-&lt;h4 id=&quot;cell&quot;&gt;关于自定义cell&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;dequeueReuseableCellWithIdentifier:forIndexPath:&lt;/code&gt;自定义cell时，若使用nib，
+使用registerNib: 注册，dequeue时会调用cell的 -(void)awakeFromNib不使用nib，使用registerClass:注册，dequeue时会调用 cell的&lt;code&gt;(id)initWithStyle:withReuseableCellIdentifier:&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;dequeueReuseableCellWithIdentifier:forIndexPath:&lt;/code&gt;自定义cell时，若使用nib，
-使用registerNib: 注册，dequeue时会调用cell的 -(void)awakeFromNib不使用nib，使用registerClass:注册，dequeue时会调用 cell的&lt;code class=&quot;highlighter-rouge&quot;&gt; (id)initWithStyle:withReuseableCellIdentifier:&lt;/code&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;section-2&quot;&gt;高度计算&lt;/h3&gt;
+&lt;h3&gt;高度计算&lt;/h3&gt;
 
 &lt;p&gt;先布局，再创建cell。UITableView是继承自UIScrollView的，UITableView先多次调用
-&lt;code class=&quot;highlighter-rouge&quot;&gt;tableView:heightForRowAtIndexPath:&lt;/code&gt;以确定contentSize及Cell的位置，然后才会调用
-&lt;code class=&quot;highlighter-rouge&quot;&gt;tableView:cellForRowAtIndexPath:&lt;/code&gt;，从而来显示在当前屏幕的Cell。UITableViewCell高度计
+&lt;code&gt;tableView:heightForRowAtIndexPath:&lt;/code&gt;以确定contentSize及Cell的位置，然后才会调用
+&lt;code&gt;tableView:cellForRowAtIndexPath:&lt;/code&gt;，从而来显示在当前屏幕的Cell。UITableViewCell高度计
 算有两种方式。一种是针对所有cell具有固定高度的情况，通过：
-&lt;code class=&quot;highlighter-rouge&quot;&gt;self.tableView.rowHeight = 44;&lt;/code&gt;
+&lt;code&gt;self.tableView.rowHeight = 44;&lt;/code&gt;
 对于固定高度的UITableViewCell，使用这种方式保证不必要的高度计算和调用
 另一种方式就是实现 UITableViewDelegate中的：&lt;/p&gt;
-
-&lt;pre&gt;
-- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {    
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-&quot; data-lang=&quot;&quot;&gt;- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {    
   return 44.0f;
 }
-&lt;/pre&gt;
-
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;所以应该非常快地返回高度值，具体可以查看&lt;a href=&quot;http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/&quot;&gt;优化UITableViewCell高度计算的那些事&lt;/a&gt;。&lt;/p&gt;
 
-&lt;h3 id=&quot;cell-1&quot;&gt;cell的赋值&lt;/h3&gt;
+&lt;h3&gt;cell的赋值&lt;/h3&gt;
 
 &lt;p&gt;在UITableView的dataSource中实现的tableView:cellForRowAtIndexPath:方法，需要为每个cell
 调用一次，它应该快速执行。所以你需要尽可能快地返回重用cell实例。不要在这里去执行数据绑定，因为目
 前在屏幕上还没有cell。为了执行数据绑定，可以在UITableView的delegate方法
-&lt;code class=&quot;highlighter-rouge&quot;&gt;tableView:willDisplayCell:forRowAtIndexPath:&lt;/code&gt;中进行。这个方法在显示cell之前会被调用。&lt;/p&gt;
+&lt;code&gt;tableView:willDisplayCell:forRowAtIndexPath:&lt;/code&gt;中进行。这个方法在显示cell之前会被调用。&lt;/p&gt;
 
-&lt;p&gt;还有就是将cell的处理逻辑放在cell中，比如我们常用的&lt;code class=&quot;highlighter-rouge&quot;&gt;-fillValues:(id)obj&lt;/code&gt;方法。&lt;/p&gt;
+&lt;p&gt;还有就是将cell的处理逻辑放在cell中，比如我们常用的&lt;code&gt;-fillValues:(id)obj&lt;/code&gt;方法。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-3&quot;&gt;更多细节&lt;/h3&gt;
+&lt;h3&gt;更多细节&lt;/h3&gt;
 
 &lt;p&gt;还有未涉及的滑动按需加载，异步绘制，缓存这些尚未提及，因为在项目中用到的少，就不提及了。
 要使UITableView更加平滑，平衡CPU和GPU的负载，请参考&lt;a href=&quot;http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews&quot;&gt;Perfect smooth scrolling in UITableViews &lt;/a&gt;。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;参考&lt;/h2&gt;
+&lt;h2&gt;参考&lt;/h2&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.jianshu.com/p/1e53f09d0f21&quot;&gt;不要把ViewController变成处理tableView的”垃圾桶”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/omegayy/article/details/7356823&quot;&gt;IOS Table中Cell的重用reuse机制分析&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews&quot;&gt;Perfect smooth scrolling in UITableViews &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/&quot;&gt;优化UITableViewCell高度计算的那些事&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jianshu.com/p/1e53f09d0f21&quot;&gt;不要把ViewController变成处理tableView的&amp;quot;垃圾桶&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/omegayy/article/details/7356823&quot;&gt;IOS Table中Cell的重用reuse机制分析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews&quot;&gt;Perfect smooth scrolling in UITableViews &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/&quot;&gt;优化UITableViewCell高度计算的那些事&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 08 Feb 2016 22:24:00 +0800</pubDate>
@@ -403,24 +470,24 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
       <item>
         <title>理财小白的通向财务自由之路之互联网理财篇</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;“你不理财，财不理你。”与“你要的是利息，而别人要的是你的本金。”这是听的比较多的两句话。理财理财
+&lt;p&gt;“你不理财，财不理你。”与“你要的是利息，而别人要的是你的本金。”这是听的比较多的两句话。理财理财
 最重要的就是财，没财怎么理？当然，虽然没钱，但是理财习惯还是要有的，这是写这篇文章的主要目的，用来
 告诫自己任何时候都要有理财的观念。第二句话本质上是告诫你理财上的风险性，其实表现的是收益与本金之间的一些奥秘。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;为什么要写&lt;/h2&gt;
+&lt;h2&gt;为什么要写&lt;/h2&gt;
 
 &lt;p&gt;第一其实就是稍微有了点钱，然后被各种通货膨胀（专业的说应该是QR，量化宽松政策）熏陶了几下。
 第二就是通向财富自由之路要有轨可循，存钱是理财最基本的，最简单的方式。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;理论&lt;/h3&gt;
+&lt;h3&gt;理论&lt;/h3&gt;
 
 &lt;p&gt;什么“72理论”，复利模式，钱生钱，“鸡蛋理论”，理财第一要务是增加收入，这些都不讲，我要做的是从
 现在开始把理财作为习惯（因为你的那些钱，压根就是一丢丢，银行的某些高收益理财都是50万起步的）。
 定存，在不影响日常开销的情况下，选择合理的互联网投资项目，坚持投下去即可（一些理财平台比如蚂蚁聚宝上
 定投基金，现在股市底部，可以选择一些指数基金）。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-2&quot;&gt;安全性&lt;/h3&gt;
+&lt;h3&gt;安全性&lt;/h3&gt;
 
 &lt;p&gt;保本保息、银行资金托管、保险公司承保、风险备用金、合同。这些都是互联网理财的标配，p2p都是这些套路。
 说白了，这些都没用，当然，有总比没有好。比如最近的农行票据案，坏账都是有的，只要平台能周转过来，一般
@@ -429,13 +496,13 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
 &lt;p&gt;质押。车辆，房子质押总比什么信用评级借钱给人来得靠谱。
 创新。比如说信托拆分，结构性理财，这些风险都比p2p的风险要小。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-3&quot;&gt;流动性&lt;/h3&gt;
+&lt;h3&gt;流动性&lt;/h3&gt;
 
 &lt;p&gt;互联网理财不比存银行，流动性是一个很大的问题。投资项目，收益开始，收益结束都要有一段资金到帐的时间，
 不能做到随存随取。其实想想也很明白：大资金，数目较大的时候，过一下银行活期，几天的时间可以产生可观
 的收益。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-4&quot;&gt;收益率&lt;/h3&gt;
+&lt;h3&gt;收益率&lt;/h3&gt;
 
 &lt;p&gt;“一瓶油的故事”这是理财圈比较熟知的一个例子。人们往往注重眼前的利益，当然它面对的群体是一般的大叔
 大妈，父母辈的农民。稍微算一些收益率就能明白哪个划算。定存理财最关心的就是年化收益率的问题，但是
@@ -444,28 +511,28 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
 
 &lt;p&gt;还有就是年化收益率高低的问题，涉及到安全性的问题，年化20%的理财产品，有脑子的人都是不会相信的。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-5&quot;&gt;附：投资过的理财产品&lt;/h3&gt;
+&lt;h3&gt;附：投资过的理财产品&lt;/h3&gt;
 
 &lt;p&gt;注意：大多数为p2p，风险较高，就是老板要跑路。&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;蚂蚁聚宝招财宝：变现贷现在只剩下接盘侠了，刚开始的时候收益率都是6%－7%，现在基本上都是4%－5%，
+&lt;li&gt;蚂蚁聚宝招财宝：变现贷现在只剩下接盘侠了，刚开始的时候收益率都是6%－7%，现在基本上都是4%－5%，
 相比京东金融和苏宁理财收益都是偏低的。因为保本保息，套利的早走了，只剩下一群小白，但是有一说一，
 相比其它安全性要高。&lt;/li&gt;
-  &lt;li&gt;京东金融：活期在5%左右，这点就比余额宝要好。&lt;/li&gt;
-  &lt;li&gt;易付宝钱包：一年定期在7%左右，比前两者都要高。也有变现贷，没玩过，猜测接盘侠比招财宝少。&lt;/li&gt;
-  &lt;li&gt;微众银行：就是银行，我一般用来放点临时性的资金。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://m.lancai.cn/invite/share_view.html?code=10844740&amp;amp;name=5a6T5YWI55Sf&amp;amp;user_event_ret=XpuBRxI%2BqL8nIJ7%2BFHly33h1t91SblAj3SFaaXC5c0cs%2Bbk%2BIC41qijMJmpLWp70PNi%2BoRG26U0g2%2B2svq5gXz5LbNmrOWl3jUk8FR3HDP8ZYk2ofRGhz64BZdGxN0z06%2BlBIVHx21vm6iM0nECbrQ%3D%3D&amp;amp;from=app&amp;amp;type=3&quot;&gt;懒财网理财&lt;/a&gt;：信托，活期8%，随存随取。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.my089.com/?u=C5833037541124A1&quot;&gt;红玲创投&lt;/a&gt;：草根，准备撤下来。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://yqz.yirendai.com/ggk/WebCard/ydy?rel=d781d8a7925c45de85966dfe8736d2ba&amp;amp;media=app&amp;amp;flag=ydy&amp;amp;skin=6&quot;&gt;宜人贷理财&lt;/a&gt;：美国上市公司，一般都说跑不了。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://m.lu.com/m/auth?actionId=lianmeng&amp;amp;actionType=30#register&amp;amp;marketFeedbackCode=eyJ1cmxUaWQiOiI4MzYwMzM1IiwidXJsU291cmNlIjoiTUIwMDMifQ&quot;&gt;陆金所&lt;/a&gt;：适合有钱人缛羊毛，理财门槛较高，收益较低，但是它的招牌是平安。有个零活宝在5%左右，当活期
+&lt;li&gt;京东金融：活期在5%左右，这点就比余额宝要好。&lt;/li&gt;
+&lt;li&gt;易付宝钱包：一年定期在7%左右，比前两者都要高。也有变现贷，没玩过，猜测接盘侠比招财宝少。&lt;/li&gt;
+&lt;li&gt;微众银行：就是银行，我一般用来放点临时性的资金。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://m.lancai.cn/invite/share_view.html?code=10844740&amp;amp;name=5a6T5YWI55Sf&amp;amp;user_event_ret=XpuBRxI%2BqL8nIJ7%2BFHly33h1t91SblAj3SFaaXC5c0cs%2Bbk%2BIC41qijMJmpLWp70PNi%2BoRG26U0g2%2B2svq5gXz5LbNmrOWl3jUk8FR3HDP8ZYk2ofRGhz64BZdGxN0z06%2BlBIVHx21vm6iM0nECbrQ%3D%3D&amp;amp;from=app&amp;amp;type=3&quot;&gt;懒财网理财&lt;/a&gt;：信托，活期8%，随存随取。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.my089.com/?u=C5833037541124A1&quot;&gt;红玲创投&lt;/a&gt;：草根，准备撤下来。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://yqz.yirendai.com/ggk/WebCard/ydy?rel=d781d8a7925c45de85966dfe8736d2ba&amp;amp;media=app&amp;amp;flag=ydy&amp;amp;skin=6&quot;&gt;宜人贷理财&lt;/a&gt;：美国上市公司，一般都说跑不了。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://m.lu.com/m/auth?actionId=lianmeng&amp;amp;actionType=30#register&amp;amp;marketFeedbackCode=eyJ1cmxUaWQiOiI4MzYwMzM1IiwidXJsU291cmNlIjoiTUIwMDMifQ&quot;&gt;陆金所&lt;/a&gt;：适合有钱人缛羊毛，理财门槛较高，收益较低，但是它的招牌是平安。有个零活宝在5%左右，当活期
 挺好的。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://m.yooli.com/user/weixinShare.do?mt=3&amp;amp;nc=632137454&amp;amp;channelId=App%20Store&amp;amp;idfa=329EE594-4B4D-4E06-9522-82891EC17A8F&amp;amp;osv=9.2.1&amp;amp;ost=10&amp;amp;tm=1455519456&amp;amp;sh=667&amp;amp;dm=iPhone&amp;amp;sid=400&amp;amp;ui=3238101&amp;amp;di=E9DCFA19CC8442A2A41E75352033D369&amp;amp;si=cb34743ac02caf48f4c083d99215e4a792e414af&amp;amp;sw=375&amp;amp;dn=Zhengdi%E7%9A%84%20iPhone&amp;amp;v=198400&amp;amp;ss=2&quot;&gt;有利网&lt;/a&gt;：接触最早的p2p，前段时间各种调整，吓坏了，但是可以赎回。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://api.9f.cn/activity/togetherMake2/98045671&quot;&gt;玖富钱包&lt;/a&gt;：正在缛羊毛，45天，7％的收益，把券用一用。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://m.jimu.com/user/landing/clanding?landing=clanding&amp;amp;recommendCode=JM6UF7EB&quot;&gt;积木盒子&lt;/a&gt;：投的比较少，应该说是野心比较大的互联网理财平台，可以买美国股票。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://m.weidai.com.cn/phone/showRecommendPage?tjr=628651&amp;amp;sign=a52837ab15a7080c0137079783729c2e&quot;&gt;微贷网&lt;/a&gt;：准备投入多一点，车辆质押，时间短(1个月的标的很多)，收益高(11％左右)。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.yangqianguan.com/apiWeb/weixin/getWeixinOpenID?yqg_redirect=%2Factivity%2Finvite%2Fregister%3Fcode%3D7LwQaUl&quot;&gt;洋钱罐理财&lt;/a&gt;：结构性理财项目，活期8%。&lt;/li&gt;
-  &lt;li&gt;其它评级比较高的（国资背景，上市公司参股，风投）：开鑫贷、翼龙贷、投哪网理财、人人贷、爱钱进、
+&lt;li&gt;&lt;a href=&quot;http://m.yooli.com/user/weixinShare.do?mt=3&amp;amp;nc=632137454&amp;amp;channelId=App%20Store&amp;amp;idfa=329EE594-4B4D-4E06-9522-82891EC17A8F&amp;amp;osv=9.2.1&amp;amp;ost=10&amp;amp;tm=1455519456&amp;amp;sh=667&amp;amp;dm=iPhone&amp;amp;sid=400&amp;amp;ui=3238101&amp;amp;di=E9DCFA19CC8442A2A41E75352033D369&amp;amp;si=cb34743ac02caf48f4c083d99215e4a792e414af&amp;amp;sw=375&amp;amp;dn=Zhengdi%E7%9A%84%20iPhone&amp;amp;v=198400&amp;amp;ss=2&quot;&gt;有利网&lt;/a&gt;：接触最早的p2p，前段时间各种调整，吓坏了，但是可以赎回。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://api.9f.cn/activity/togetherMake2/98045671&quot;&gt;玖富钱包&lt;/a&gt;：正在缛羊毛，45天，7％的收益，把券用一用。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://m.jimu.com/user/landing/clanding?landing=clanding&amp;amp;recommendCode=JM6UF7EB&quot;&gt;积木盒子&lt;/a&gt;：投的比较少，应该说是野心比较大的互联网理财平台，可以买美国股票。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://m.weidai.com.cn/phone/showRecommendPage?tjr=628651&amp;amp;sign=a52837ab15a7080c0137079783729c2e&quot;&gt;微贷网&lt;/a&gt;：准备投入多一点，车辆质押，时间短(1个月的标的很多)，收益高(11％左右)。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.yangqianguan.com/apiWeb/weixin/getWeixinOpenID?yqg_redirect=%2Factivity%2Finvite%2Fregister%3Fcode%3D7LwQaUl&quot;&gt;洋钱罐理财&lt;/a&gt;：结构性理财项目，活期8%。&lt;/li&gt;
+&lt;li&gt;其它评级比较高的（国资背景，上市公司参股，风投）：开鑫贷、翼龙贷、投哪网理财、人人贷、爱钱进、
 拍拍贷&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -483,43 +550,43 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
       <item>
         <title>我的知识体系（一）：“积累与实践，有章可循”</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;本篇作为构建我的个人知识体系的开篇文章，即构建个人知识体系工具的使用，知识积累篇。有一句话一定要记住，便是“好记性不如烂笔头。”尤其是在这个知识更新与传播飞快的互联网时代，尤为重要。我一般就只有一本笔记本，是最近受“极简主义思想”“毒害”：如无必要，勿增实体，我就只剩下一本笔记本和一支笔了。更多的是把信息使用软件多终端同步。&lt;/p&gt;
+&lt;p&gt;本篇作为构建我的个人知识体系的开篇文章，即构建个人知识体系工具的使用，知识积累篇。有一句话一定要记住，便是“好记性不如烂笔头。”尤其是在这个知识更新与传播飞快的互联网时代，尤为重要。我一般就只有一本笔记本，是最近受“极简主义思想”“毒害”：如无必要，勿增实体，我就只剩下一本笔记本和一支笔了。更多的是把信息使用软件多终端同步。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;section&quot;&gt;从收藏到整理的转变&lt;/h3&gt;
+&lt;h3&gt;从收藏到整理的转变&lt;/h3&gt;
 
 &lt;p&gt;以前使用Evernote，记得是一年前做了分门别类，用notebook纪录和用tag来整理，但是仅仅过去了一年不到，就已经很少用了。我想，这跟Evernote这个产品体验有很大的关系。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/2016/knowledge-system-01.png&quot; alt=&quot;knowledge-system-01&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2016/knowledge-system-01.png&quot; alt=&quot;knowledge-system-01&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/2016/knowledge-system-02.png&quot; alt=&quot;knowledge-system-02&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2016/knowledge-system-02.png&quot; alt=&quot;knowledge-system-02&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Evernote更适合做剪辑收藏，不过有个功能用的很爽，就是使用Sublime Text3编写markdown文档，可以同步到Evernote上，自从文本编辑器从Sublime Text3转向了Atom之后，这个仅有的功能亦变得鸡肋。&lt;/p&gt;
 
 &lt;p&gt;如何驱使用户去使用产品，从中得到获取知识的快感，虽然这和用户的主观能动性有很大的关系，但是这也是做产品的思维。&lt;/p&gt;
 
-&lt;h3 id=&quot;onenotenotebook---section---page&quot;&gt;OneNote流：Notebook -&amp;gt; Section -&amp;gt; Page&lt;/h3&gt;
+&lt;h3&gt;OneNote流：Notebook -&amp;gt; Section -&amp;gt; Page&lt;/h3&gt;
 
-&lt;p&gt;介绍这次使用的工具 – OneNote，用了大概一个月了，效果良好。一般的工作流就是依次建立Notebook -&amp;gt; Section -&amp;gt; Page，只是OneNote的网页剪辑没有Evernote做的好，其它方面基本完胜。如下图是我构建自己股票交易体系的整理学习：&lt;/p&gt;
+&lt;p&gt;介绍这次使用的工具 -- OneNote，用了大概一个月了，效果良好。一般的工作流就是依次建立Notebook -&amp;gt; Section -&amp;gt; Page，只是OneNote的网页剪辑没有Evernote做的好，其它方面基本完胜。如下图是我构建自己股票交易体系的整理学习：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/2016/knowledge-system-03.png&quot; alt=&quot;knowledge-system-03&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2016/knowledge-system-03.png&quot; alt=&quot;knowledge-system-03&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;“一览无余”这是我对OneNote最大的体会。我能从一个页面上看到这个知识的所有囊括的东西，有一种“hold住”的感觉。这有点跟思维导图类似，思维导图是发散式的思维，便于记忆与使用，而OneNote更注重的是整体，整理与学习。&lt;/p&gt;
 
 &lt;p&gt;不过，因人而异，适合自己的才是最好的，自己必须形成自己的学习体系。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;体系，体系，还是体系&lt;/h3&gt;
+&lt;h3&gt;体系，体系，还是体系&lt;/h3&gt;
 
 &lt;p&gt;“位置，位置，还是位置!”这是买房者的思维。对于学习知识来说，“体系，体系，还是体系”显得尤为重要。&lt;/p&gt;
 
 &lt;p&gt;何谓有章可循？鲁迅的话：“世上本没有路，走的人多了也便成了路”，世界本是混沌的，你可以走别人开辟的道路，也可以走自己的道路，但总得有路可走，这便是章法。&lt;/p&gt;
 
-&lt;p&gt;学习知识需要体系，就像学习心理学的时候学的 – 马洛斯需求层次理论，你的每一个行为都对应着一个需求，有章可循，才不会迷失。&lt;/p&gt;
+&lt;p&gt;学习知识需要体系，就像学习心理学的时候学的 -- 马洛斯需求层次理论，你的每一个行为都对应着一个需求，有章可循，才不会迷失。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/2016/knowledge-system-04.png&quot; alt=&quot;knowledge-system-04&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2016/knowledge-system-04.png&quot; alt=&quot;knowledge-system-04&quot;&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“闲言碎语不要讲”，又是题外话，今天读到了一句诗，颇有感触，“花若解语应多事，石不能言自可人。”做个有思想的孤独者，挺好。&lt;/p&gt;
+&lt;p&gt;“闲言碎语不要讲”，又是题外话，今天读到了一句诗，颇有感触，“花若解语应多事，石不能言自可人。”做个有思想的孤独者，挺好。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 11 Jan 2016 00:30:00 +0800</pubDate>
@@ -534,12 +601,12 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
       <item>
         <title>2015总结：我依然一个人活着</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;有些事，就必须做，时常做做，就为证明自己还活着，身体虽已麻木，但思维必须活着，就像写年度总结。
+&lt;p&gt;有些事，就必须做，时常做做，就为证明自己还活着，身体虽已麻木，但思维必须活着，就像写年度总结。
 本不想写，因为写了也无关痛痒，好像除了吃饭、睡觉、上班，无他，又想应该给过去一个交待，留个念想。
 夕阳西下，2015落幕了。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;section&quot;&gt;你说的道理我都懂，但我就是做不到&lt;/h3&gt;
+&lt;h3&gt;你说的道理我都懂，但我就是做不到&lt;/h3&gt;
 
 &lt;p&gt;任何人都很努力，我见过的每一个人都很努力，至少在自己的眼里自身是很努力的。懂点道理，给点机会，都是厉害的角色。但偏偏，很多人只能躲在狭小的空间里，要么安逸，要么麻木。&lt;/p&gt;
 
@@ -549,13 +616,13 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
 
 &lt;p&gt;坚持跑下去，当有一天，跑不动了，才该歇歇了。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;一年只专注于一件事&lt;/h3&gt;
+&lt;h3&gt;一年只专注于一件事&lt;/h3&gt;
 
 &lt;p&gt;测试过自己的对新事物的热度，好像也就一个礼拜左右，如果有些东西能够在一个礼拜能够精通那该有多好。每过新年都会列一大推新年目标，能完成的也就是购物清单了，享受总比获取来得让人愉悦。&lt;/p&gt;
 
 &lt;p&gt;目标总得有，一年定一个基调比较好，除了日常工作生活，一年只干一件事，而且要把事情干好。一年的时间刚刚好，太长会坚持不下去，而且想法是一天一个；太短，学习周期短，不容易学好。往事不堪回首，明年学好英语。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-2&quot;&gt;选择另一条路，看看另一边的风景&lt;/h3&gt;
+&lt;h3&gt;选择另一条路，看看另一边的风景&lt;/h3&gt;
 
 &lt;p&gt;“闻道有先后，术业有专攻。”这是我对所有行业的认知。除了部分有天赋之外，另外的也就是靠经验了，所以只要肯干，任何事情都能做到行业平均水平。&lt;/p&gt;
 
@@ -563,17 +630,17 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
 
 &lt;p&gt;一个不擅长交际的人，如何该选择自己的事业？我说的事业不是飞黄腾达，而是我余生都会从事的事情，真正能够为之付出，至死方休的事，显然并不是程序员，用通俗的话讲程序员只是份糊口的工作。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-3&quot;&gt;在该奋斗的年纪，看了不该看的东西&lt;/h3&gt;
+&lt;h3&gt;在该奋斗的年纪，看了不该看的东西&lt;/h3&gt;
 
 &lt;p&gt;很多人对你这么讲，只要你这么这么干，就能变成这样这样的人，我还真信了。“一般人如何能达成财务自由的目标，除了跟着老板好好干，公司上市，还有就剩下买彩票了。”我开始接触财务自由，不仅仅是财富的自由，还是思想的自由。&lt;/p&gt;
 
-&lt;p&gt;首先是思想认知。以前怕错过太多，所以奋起直追，现在是欲速则不达，安时处顺。恩师教导，认识自己所处的阶段，以及适应阶段性的变化，首先要先干好自己的职业–程序员，人的事业都是按照“无财作力，少有斗智，即饶争时”这个周期走完。就像前文讲到的，人的一生都是安排好的，因为你师从何人，走的都是恩师的老路子，能否青出于蓝，全凭自己的修为。基于随机漫步理论，虽少有人能走上这条路，但大都殊途同归，都是趋于灭亡。&lt;/p&gt;
+&lt;p&gt;首先是思想认知。以前怕错过太多，所以奋起直追，现在是欲速则不达，安时处顺。恩师教导，认识自己所处的阶段，以及适应阶段性的变化，首先要先干好自己的职业--程序员，人的事业都是按照“无财作力，少有斗智，即饶争时”这个周期走完。就像前文讲到的，人的一生都是安排好的，因为你师从何人，走的都是恩师的老路子，能否青出于蓝，全凭自己的修为。基于随机漫步理论，虽少有人能走上这条路，但大都殊途同归，都是趋于灭亡。&lt;/p&gt;
 
 &lt;p&gt;其次是财富积累。学习股市二月有余，其中门道窥见一斑。选择一条漫长的投资之路，与人斗，其乐无穷。“种树的最佳时间是25年前，仅次于它的最佳时间是现在。”谚语总在感触颇多的时候意味深长。&lt;/p&gt;
 
 &lt;p&gt;终有一天，像《勇敢的心》中的发出一声呐喊：“Freedom！！！”&lt;/p&gt;
 
-&lt;h3 id=&quot;section-4&quot;&gt;结语&lt;/h3&gt;
+&lt;h3&gt;结语&lt;/h3&gt;
 
 &lt;p&gt;看中国国家足球队比赛时，常听解说说：“留给中国队的时间不多了”，嗯，留给我的时间也不多了。&lt;/p&gt;
 </description>
@@ -589,22 +656,22 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
       <item>
         <title>思辨人生：活了这么久，犯的最大的一个错误。</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;好久没有写东西了，真的是词穷，这让我想起了高考时的语文作文，很肯定我挂在了那里。其实很重要的一个原因就是没有深刻的人生阅历，就像一个人谈恋爱时就会化身为诗圣一样，职场也可以把我锻炼成身经百战的战士。从工作生活中发掘人生的哲理，一段痛彻心扉的故事也许会改变你的整个人生。九月，杭城的桂花开了，扑鼻，匆匆走过时，也依然沁人心脾。&lt;/p&gt;
+&lt;p&gt;好久没有写东西了，真的是词穷，这让我想起了高考时的语文作文，很肯定我挂在了那里。其实很重要的一个原因就是没有深刻的人生阅历，就像一个人谈恋爱时就会化身为诗圣一样，职场也可以把我锻炼成身经百战的战士。从工作生活中发掘人生的哲理，一段痛彻心扉的故事也许会改变你的整个人生。九月，杭城的桂花开了，扑鼻，匆匆走过时，也依然沁人心脾。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;section&quot;&gt;保守派&lt;/h3&gt;
+&lt;h3&gt;保守派&lt;/h3&gt;
 
 &lt;p&gt;今年股市的一波牛市错过了，这是因为我压根还没有养成理财的观念，当我知道这是一波赚钱机会的时候已经是7、8月份的时候了。没人能挡得住金钱的欲望，不过理智（当理发店的洗头发的妹子都在炒股的时候，预示着牛市已经到头了，这种最基本的道理还是明白的。）还是阻止了我，盲目地杀进股市必会空篮打水。不过这给我敲响了警钟，漫漫人生，这可是一个可以终身受益的技能。低买高卖，很简单的交易思想，很容易学会。&lt;/p&gt;
 
 &lt;p&gt;其实金融的道理很简单就是需求与供给，钱生钱，止损，勿贪，赚了就跑。&lt;/p&gt;
 
-&lt;p&gt;从此开始关注了大量的理财产品。股市摇摇欲坠，这时候规避风险的最好的方式就是买黄金，这个时候是今年黄金最低点，适合抄底，很可惜没有购买（虽然投资的不会多，但是钱还是可以赚到的。）为什么没有购买，因为缺少了一个赌徒，说好听点就是投资者应该有的东西 – 勇气。什么东西会给你勇气，夯实的基础，必胜的自信，最重要的是有可以从头再来的信念。撇开后两点，因为不是一般循规蹈矩的人能做到的。&lt;/p&gt;
+&lt;p&gt;从此开始关注了大量的理财产品。股市摇摇欲坠，这时候规避风险的最好的方式就是买黄金，这个时候是今年黄金最低点，适合抄底，很可惜没有购买（虽然投资的不会多，但是钱还是可以赚到的。）为什么没有购买，因为缺少了一个赌徒，说好听点就是投资者应该有的东西 -- 勇气。什么东西会给你勇气，夯实的基础，必胜的自信，最重要的是有可以从头再来的信念。撇开后两点，因为不是一般循规蹈矩的人能做到的。&lt;/p&gt;
 
 &lt;p&gt;所以我认为做任何事都要有一定的基础，一个连基本理财观念都不懂的人，像个愣头青一样，定会被打得鼻青脸肿。&lt;/p&gt;
 
 &lt;p&gt;不管是投资银行理财还是股票事先都会写一份风险评估的报告，我被深深烙上保守型的烙印。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;做一个实力派的演员&lt;/h3&gt;
+&lt;h3&gt;做一个实力派的演员&lt;/h3&gt;
 
 &lt;p&gt;普通大学毕业生刚毕业居然要15k，虽然不是我面试的，但是这种简历我也见过不少。为什么？一个刚踏上社会的人，哪来的勇气？&lt;/p&gt;
 
@@ -616,9 +683,9 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
 
 &lt;p&gt;但是，任何人都想成为那个靠嘴皮子就能生存的人，就像可以靠脸吃饭的人一样。有人说，说话也是一门艺术，也是一项技能，不能否定靠这种生存的人。&lt;/p&gt;
 
-&lt;p&gt;归根到底，这是演技。一个大舞台，需要形形色色的人来轮番演出。职场上的不扯开了…&lt;/p&gt;
+&lt;p&gt;归根到底，这是演技。一个大舞台，需要形形色色的人来轮番演出。职场上的不扯开了...&lt;/p&gt;
 
-&lt;h3 id=&quot;section-2&quot;&gt;好高骛远与妄自菲薄&lt;/h3&gt;
+&lt;h3&gt;好高骛远与妄自菲薄&lt;/h3&gt;
 
 &lt;p&gt;要说的就是这个。好高骛远虽然是个贬义词，但是生活还是要充满幻想的，所以我并不认为好高骛远有多大的错误，错就错在一个“好高骛远”的人，居然还妄自菲薄，这是致命的。&lt;/p&gt;
 
@@ -630,11 +697,11 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
 
 &lt;p&gt;&lt;strong&gt;害怕犯错。&lt;/strong&gt;举个例子，因为信奉言多必失这一教条，不敢乱说话，所以造成缺少一个社交上最重要的技能。不断地从犯错中吸取教训，才能成长。这个社会不需要哑巴演员，一个实力派的演员才能登上主舞台。这是我思想上的错误，归纳与演绎没有做好，&lt;/p&gt;
 
-&lt;p&gt;任何事本没有错，存在便是合理，只是现在达到的成绩注定它错了。没有出色的表现，用这个社会最庸俗的东西衡量，就是没有钱。工作上，薪水没达到行业高水平（顶尖就不说了），我是否真的适合做这一行？无房无车，我是否真的能给爱人幸福？在过去的2x年平凡地度过，今后，我是否依然默默无闻？……这种问题还有一大堆，从现在开始，我永远都不会再想。&lt;/p&gt;
+&lt;p&gt;任何事本没有错，存在便是合理，只是现在达到的成绩注定它错了。没有出色的表现，用这个社会最庸俗的东西衡量，就是没有钱。工作上，薪水没达到行业高水平（顶尖就不说了），我是否真的适合做这一行？无房无车，我是否真的能给爱人幸福？在过去的2x年平凡地度过，今后，我是否依然默默无闻？......这种问题还有一大堆，从现在开始，我永远都不会再想。&lt;/p&gt;
 
 &lt;p&gt;思则变，平庸之后是卓越。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-3&quot;&gt;厚积薄发&lt;/h3&gt;
+&lt;h3&gt;厚积薄发&lt;/h3&gt;
 
 &lt;p&gt;这还是我坚持的人生准则。&lt;/p&gt;
 
@@ -642,13 +709,13 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
 
 &lt;p&gt;低调做人，做个好人。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-4&quot;&gt;随便扯扯&lt;/h3&gt;
+&lt;h3&gt;随便扯扯&lt;/h3&gt;
 
 &lt;p&gt;反正写到这里了，就随便扯点东西。&lt;/p&gt;
 
 &lt;p&gt;生命中遇到过最重要的两个人，不是说他们的关系跟我有多好，我甚至都叫不上其中一个人的名字，而是他们在无形之中影响了我，启蒙了我，用我们这边的话叫脑子突然开窍了。一个是让我走上了程序员的道路，说的深刻一点就是指导了我职业的选择，这或许是我奋斗终身的职业；另一个是让我拥有强健的体魄，锻炼身体是很痛苦的，不言而喻，但从认识他开始，我一直坚持着。&lt;/p&gt;
 
-&lt;p&gt;期待着遇见下一个人，我能从他的谈吐举止，做事风格，人格魅力，待人接物……上学点东西，和优秀的人在一起，这固然是最理想的状态，但是平庸还是常态，能改变你的还只有是昨天的你。我思故我在，吾日三省吾身，从过去的自己中学点东西吧。&lt;/p&gt;
+&lt;p&gt;期待着遇见下一个人，我能从他的谈吐举止，做事风格，人格魅力，待人接物......上学点东西，和优秀的人在一起，这固然是最理想的状态，但是平庸还是常态，能改变你的还只有是昨天的你。我思故我在，吾日三省吾身，从过去的自己中学点东西吧。&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Sep 2015 03:33:59 +0800</pubDate>
         <link>mizhengdi.com/life/2015/09/30/si-bian-ren-sheng.html</link>
@@ -671,153 +738,153 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
 
 &lt;p&gt;*标记的，我认为值得一读的书&lt;/p&gt;
 
-&lt;h6 id=&quot;section&quot;&gt;*从0到1 – 开启商业与未来的秘密&lt;/h6&gt;
+&lt;h6&gt;*从0到1 -- 开启商业与未来的秘密&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-1&quot;&gt;*富爸爸穷爸爸&lt;/h6&gt;
+&lt;h6&gt;*富爸爸穷爸爸&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-2&quot;&gt;*黑客与画家&lt;/h6&gt;
+&lt;h6&gt;*黑客与画家&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-3&quot;&gt;*失控：机器、社会与经济的新生物学&lt;/h6&gt;
+&lt;h6&gt;*失控：机器、社会与经济的新生物学&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-4&quot;&gt;*不一样的成功启示录：异类&lt;/h6&gt;
+&lt;h6&gt;*不一样的成功启示录：异类&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-5&quot;&gt;*高效能人士的七个习惯&lt;/h6&gt;
+&lt;h6&gt;*高效能人士的七个习惯&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-6&quot;&gt;*男人来自火星 女人来自金星&lt;/h6&gt;
+&lt;h6&gt;*男人来自火星 女人来自金星&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-7&quot;&gt;世界上最简单的会计书&lt;/h6&gt;
+&lt;h6&gt;世界上最简单的会计书&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-8&quot;&gt;股票作手回忆录&lt;/h6&gt;
+&lt;h6&gt;股票作手回忆录&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-9&quot;&gt;炒股的智慧&lt;/h6&gt;
+&lt;h6&gt;炒股的智慧&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-10&quot;&gt;围城&lt;/h6&gt;
+&lt;h6&gt;围城&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-11&quot;&gt;期货市场技术分析&lt;/h6&gt;
+&lt;h6&gt;期货市场技术分析&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-12&quot;&gt;日本蜡烛图技术&lt;/h6&gt;
+&lt;h6&gt;日本蜡烛图技术&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-13&quot;&gt;专业投机原理&lt;/h6&gt;
+&lt;h6&gt;专业投机原理&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-14&quot;&gt;短线交易大师&lt;/h6&gt;
+&lt;h6&gt;短线交易大师&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-15&quot;&gt;通向金融王国的自由之路&lt;/h6&gt;
+&lt;h6&gt;通向金融王国的自由之路&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-16&quot;&gt;穷查理宝典&lt;/h6&gt;
+&lt;h6&gt;穷查理宝典&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-17&quot;&gt;聪明的投资者&lt;/h6&gt;
+&lt;h6&gt;聪明的投资者&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-18&quot;&gt;光荣与梦想&lt;/h6&gt;
+&lt;h6&gt;光荣与梦想&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-19&quot;&gt;时间简史&lt;/h6&gt;
+&lt;h6&gt;时间简史&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-20&quot;&gt;格雷厄姆华尔街教父回忆录&lt;/h6&gt;
+&lt;h6&gt;格雷厄姆华尔街教父回忆录&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-21&quot;&gt;自私的基因&lt;/h6&gt;
+&lt;h6&gt;自私的基因&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-22&quot;&gt;梦的解析&lt;/h6&gt;
+&lt;h6&gt;梦的解析&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-23&quot;&gt;当下的力量&lt;/h6&gt;
+&lt;h6&gt;当下的力量&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-24&quot;&gt;贫穷的本质&lt;/h6&gt;
+&lt;h6&gt;贫穷的本质&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-25&quot;&gt;别相信任何人&lt;/h6&gt;
+&lt;h6&gt;别相信任何人&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-26&quot;&gt;偷影子的人&lt;/h6&gt;
+&lt;h6&gt;偷影子的人&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-27&quot;&gt;经营之道&lt;/h6&gt;
+&lt;h6&gt;经营之道&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-28&quot;&gt;昆曼经济学原理&lt;/h6&gt;
+&lt;h6&gt;昆曼经济学原理&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-29&quot;&gt;清醒思考的艺术&lt;/h6&gt;
+&lt;h6&gt;清醒思考的艺术&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-30&quot;&gt;搞懂金融的第一本书&lt;/h6&gt;
+&lt;h6&gt;搞懂金融的第一本书&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-31&quot;&gt;我最想要的记忆魔法书&lt;/h6&gt;
+&lt;h6&gt;我最想要的记忆魔法书&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-32&quot;&gt;4点起床&lt;/h6&gt;
+&lt;h6&gt;4点起床&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-33&quot;&gt;程序员的思维修炼 – 开发认知潜能的九堂课&lt;/h6&gt;
+&lt;h6&gt;程序员的思维修炼 -- 开发认知潜能的九堂课&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-34&quot;&gt;30岁前的每一天&lt;/h6&gt;
+&lt;h6&gt;30岁前的每一天&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-35&quot;&gt;大数据时代&lt;/h6&gt;
+&lt;h6&gt;大数据时代&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-36&quot;&gt;人人都是产品经理&lt;/h6&gt;
+&lt;h6&gt;人人都是产品经理&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-37&quot;&gt;20世纪最伟大的心理学实验&lt;/h6&gt;
+&lt;h6&gt;20世纪最伟大的心理学实验&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-38&quot;&gt;一本书读懂风险投资&lt;/h6&gt;
+&lt;h6&gt;一本书读懂风险投资&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-39&quot;&gt;7天治愈拖延症&lt;/h6&gt;
+&lt;h6&gt;7天治愈拖延症&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-40&quot;&gt;乔布斯的魔力演讲&lt;/h6&gt;
+&lt;h6&gt;乔布斯的魔力演讲&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-41&quot;&gt;定位 – 有史以来对美国营销影响最大的观念&lt;/h6&gt;
+&lt;h6&gt;定位 -- 有史以来对美国营销影响最大的观念&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-42&quot;&gt;麦田里的守望者&lt;/h6&gt;
+&lt;h6&gt;麦田里的守望者&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-43&quot;&gt;美国种族简史&lt;/h6&gt;
+&lt;h6&gt;美国种族简史&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-44&quot;&gt;自私的基因&lt;/h6&gt;
+&lt;h6&gt;自私的基因&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-45&quot;&gt;一万小时天才理论&lt;/h6&gt;
+&lt;h6&gt;一万小时天才理论&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-46&quot;&gt;战胜拖延症&lt;/h6&gt;
+&lt;h6&gt;战胜拖延症&lt;/h6&gt;
 
-&lt;h6 id=&quot;fbi&quot;&gt;FBI教你读心术&lt;/h6&gt;
+&lt;h6&gt;FBI教你读心术&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-47&quot;&gt;程序员跳槽全攻略&lt;/h6&gt;
+&lt;h6&gt;程序员跳槽全攻略&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-48&quot;&gt;囚徒健身&lt;/h6&gt;
+&lt;h6&gt;囚徒健身&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-49&quot;&gt;拖延心理学&lt;/h6&gt;
+&lt;h6&gt;拖延心理学&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-50&quot;&gt;策略思维&lt;/h6&gt;
+&lt;h6&gt;策略思维&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-51&quot;&gt;做更自信的自己&lt;/h6&gt;
+&lt;h6&gt;做更自信的自己&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-52&quot;&gt;浪潮之巅&lt;/h6&gt;
+&lt;h6&gt;浪潮之巅&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-53&quot;&gt;人性的弱点&lt;/h6&gt;
+&lt;h6&gt;人性的弱点&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-54&quot;&gt;影响力&lt;/h6&gt;
+&lt;h6&gt;影响力&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-55&quot;&gt;自控力&lt;/h6&gt;
+&lt;h6&gt;自控力&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-56&quot;&gt;乌合之众 – 大众心理学研究&lt;/h6&gt;
+&lt;h6&gt;乌合之众 -- 大众心理学研究&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-57&quot;&gt;高难度谈话&lt;/h6&gt;
+&lt;h6&gt;高难度谈话&lt;/h6&gt;
 
-&lt;h6 id=&quot;mactalk&quot;&gt;MacTalk：人生元编程&lt;/h6&gt;
+&lt;h6&gt;MacTalk：人生元编程&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-58&quot;&gt;从此不再开口就紧张&lt;/h6&gt;
+&lt;h6&gt;从此不再开口就紧张&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-59&quot;&gt;我的灵魂永不下跪&lt;/h6&gt;
+&lt;h6&gt;我的灵魂永不下跪&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-60&quot;&gt;我们的信任&lt;/h6&gt;
+&lt;h6&gt;我们的信任&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-61&quot;&gt;追寻生命的意义&lt;/h6&gt;
+&lt;h6&gt;追寻生命的意义&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-62&quot;&gt;信任的速度&lt;/h6&gt;
+&lt;h6&gt;信任的速度&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-63&quot;&gt;人月神话&lt;/h6&gt;
+&lt;h6&gt;人月神话&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-64&quot;&gt;如何阅读一本书&lt;/h6&gt;
+&lt;h6&gt;如何阅读一本书&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-65&quot;&gt;论美国的民主&lt;/h6&gt;
+&lt;h6&gt;论美国的民主&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-66&quot;&gt;麦肯锡方法&lt;/h6&gt;
+&lt;h6&gt;麦肯锡方法&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-67&quot;&gt;长尾理论&lt;/h6&gt;
+&lt;h6&gt;长尾理论&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-68&quot;&gt;激荡三十年&lt;/h6&gt;
+&lt;h6&gt;激荡三十年&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-69&quot;&gt;社会契约论&lt;/h6&gt;
+&lt;h6&gt;社会契约论&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-70&quot;&gt;无价&lt;/h6&gt;
+&lt;h6&gt;无价&lt;/h6&gt;
 
-&lt;h6 id=&quot;section-71&quot;&gt;非暴力沟通&lt;/h6&gt;
+&lt;h6&gt;非暴力沟通&lt;/h6&gt;
 </description>
         <pubDate>Fri, 22 May 2015 04:03:00 +0800</pubDate>
         <link>mizhengdi.com/reading/2015/05/22/my-booklist.html</link>
@@ -833,90 +900,51 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
         <description>&lt;p&gt;码农福音，从书《囚徒健身》中断章取义，以前没有人告诉我这些，现在有一个好人告诉你这些，少年你还不努力吗！我感觉自己要成为正义的化身了，好棒！貌似还有本书叫《无器械健身:用自身体重锻练》。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;一个真正的男人至少能做到：5个单臂俯卧撑，5个单腿深蹲，1个单臂引体向上，5个悬垂直举腿，1个铁板桥，1个单臂倒立撑。&lt;/p&gt;
+&lt;p&gt;一个真正的男人至少能做到：5个单臂俯卧撑，5个单腿深蹲，1个单臂引体向上，5个悬垂直举腿，1个铁板桥，1个单臂倒立撑。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;section&quot;&gt;自己的体会：&lt;/h3&gt;
+&lt;h3&gt;自己的体会：&lt;/h3&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;用失传的技艺（古老体操项目，有别于现在的健身房器械，不吃类固醇）练就强大的生存实力。&lt;/li&gt;
-  &lt;li&gt;永远不去健身房：镜中的胸肌是多么健美，我们往往被眼前的所迷惑，而忽略身体的其他部位。&lt;/li&gt;
-  &lt;li&gt;六艺十式（下表中涉及到的训练科目），一般人只按标准式做就行了。&lt;/li&gt;
-  &lt;li&gt;炉火纯青计划：针对时间少（20分钟左右），强度小的训练计划，然后锻炼到全身，一周训练六天，每天集中练习六艺中的一艺，第七天跑步（书中没有的自己加的）。&lt;/li&gt;
-  &lt;li&gt;终极目标：单腿或单臂训练。&lt;/li&gt;
-  &lt;li&gt;做不到标准式的一般降低要求做变式，贵在坚持。&lt;/li&gt;
-  &lt;li&gt;靠自身重量压迫，而不是器械。&lt;/li&gt;
-  &lt;li&gt;其实做俯卧撑效果起的最快，胸肌变的大大的很爽，健身的最初的动力源于此。&lt;/li&gt;
-  &lt;li&gt;估计，坚持下去的没几个，还是试试俯卧撑和慢跑比较好。&lt;/li&gt;
-  &lt;li&gt;所有的训练科目必须按照标准的动作，循序渐进，有些动作还是有基础的人才能做到的。&lt;/li&gt;
-  &lt;li&gt;任何东西都要看效果，自从练了这套宝典，一口气上18楼，腰不酸了，腿也不疼了（坐的电梯）。&lt;/li&gt;
-  &lt;li&gt;题外话，据说提肛运动可以训练那个，哈哈哈。&lt;/li&gt;
+&lt;li&gt;用失传的技艺（古老体操项目，有别于现在的健身房器械，不吃类固醇）练就强大的生存实力。&lt;/li&gt;
+&lt;li&gt;永远不去健身房：镜中的胸肌是多么健美，我们往往被眼前的所迷惑，而忽略身体的其他部位。&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;六艺十式（下表中涉及到的训练科目），一般人只按标准式做就行了。&lt;/li&gt;
+&lt;li&gt;炉火纯青计划：针对时间少（20分钟左右），强度小的训练计划，然后锻炼到全身，一周训练六天，每天集中练习六艺中的一艺，第七天跑步（书中没有的自己加的）。&lt;/li&gt;
+&lt;li&gt;终极目标：单腿或单臂训练。&lt;/li&gt;
+&lt;li&gt;做不到标准式的一般降低要求做变式，贵在坚持。&lt;/li&gt;
+&lt;li&gt;靠自身重量压迫，而不是器械。&lt;/li&gt;
+&lt;li&gt;其实做俯卧撑效果起的最快，胸肌变的大大的很爽，健身的最初的动力源于此。&lt;/li&gt;
+&lt;li&gt;估计，坚持下去的没几个，还是试试俯卧撑和慢跑比较好。&lt;/li&gt;
+&lt;li&gt;所有的训练科目必须按照标准的动作，循序渐进，有些动作还是有基础的人才能做到的。&lt;/li&gt;
+&lt;li&gt;任何东西都要看效果，自从练了这套宝典，一口气上18楼，腰不酸了，腿也不疼了（坐的电梯）。&lt;/li&gt;
+&lt;li&gt;题外话，据说提肛运动可以训练那个，哈哈哈。&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;自己的训练计划（往往做计划的时候很认真）：&lt;/h3&gt;
+&lt;h3&gt;自己的训练计划（往往做计划的时候很认真）：&lt;/h3&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;星期一&lt;/td&gt;
-      &lt;td&gt;俯卧撑&lt;/td&gt;
-      &lt;td&gt;胸大肌、三角肌前束、肱三头肌&lt;/td&gt;
-      &lt;td&gt;窄距俯卧撑和标准俯卧撑，双手双脚并拢，下推吸气，2，1，2秒的节奏，2x30&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;星期二&lt;/td&gt;
-      &lt;td&gt;深蹲&lt;/td&gt;
-      &lt;td&gt;下半身这肌那肌&lt;/td&gt;
-      &lt;td&gt;双臂前伸，脚跟相碰，大腿紧贴小腿，无法蹲得更低为止，此时胸部紧贴大腿，2x30&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;星期三&lt;/td&gt;
-      &lt;td&gt;引体向上&lt;/td&gt;
-      &lt;td&gt;背阔肌、肱二头肌&lt;/td&gt;
-      &lt;td&gt;双手与肩同宽，脚踝交叠在一起并置于身后，下巴超过横杆，2x10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;星期四&lt;/td&gt;
-      &lt;td&gt;举腿&lt;/td&gt;
-      &lt;td&gt;魔鬼六块&lt;/td&gt;
-      &lt;td&gt;抛弃仰卧起坐，躺地上，双腿举起成90’， 2x30&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;星期五&lt;/td&gt;
-      &lt;td&gt;铁板桥&lt;/td&gt;
-      &lt;td&gt;脊椎&lt;/td&gt;
-      &lt;td&gt;从直立到下腰，拉回到直立 2x10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;星期六&lt;/td&gt;
-      &lt;td&gt;倒立撑&lt;/td&gt;
-      &lt;td&gt;肩部&lt;/td&gt;
-      &lt;td&gt;靠墙倒立，2x10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;星期日&lt;/td&gt;
-      &lt;td&gt;跑步&lt;/td&gt;
-      &lt;td&gt;看MM，心情好&lt;/td&gt;
-      &lt;td&gt;1小时左右的慢跑（室内室外均可）&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;| 星期一 | 俯卧撑 | 胸大肌、三角肌前束、肱三头肌 | 窄距俯卧撑和标准俯卧撑，双手双脚并拢，下推吸气，2，1，2秒的节奏，2x30 |
+| 星期二 | 深蹲 | 下半身这肌那肌 | 双臂前伸，脚跟相碰，大腿紧贴小腿，无法蹲得更低为止，此时胸部紧贴大腿，2x30 |
+| 星期三 | 引体向上 | 背阔肌、肱二头肌 | 双手与肩同宽，脚踝交叠在一起并置于身后，下巴超过横杆，2x10 |
+| 星期四 | 举腿 | 魔鬼六块 | 抛弃仰卧起坐，躺地上，双腿举起成90’， 2x30 |
+| 星期五 | 铁板桥 | 脊椎 | 从直立到下腰，拉回到直立 2x10 |
+| 星期六 | 倒立撑 | 肩部 | 靠墙倒立，2x10 |
+| 星期日 | 跑步 | 看MM，心情好 | 1小时左右的慢跑（室内室外均可）&lt;/p&gt;
 
 &lt;p&gt;如果有兴趣，可以仔细看看此书，对你肯定是受益匪浅的。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-2&quot;&gt;附各式标准动作：&lt;/h3&gt;
+&lt;h3&gt;附各式标准动作：&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/1.jpg&quot; alt=&quot;style1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/1.jpg&quot; alt=&quot;style1&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/2.jpg&quot; alt=&quot;style2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2.jpg&quot; alt=&quot;style2&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/3.jpg&quot; alt=&quot;style3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/3.jpg&quot; alt=&quot;style3&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/4.jpg&quot; alt=&quot;style4&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/4.jpg&quot; alt=&quot;style4&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/5.jpg&quot; alt=&quot;style5&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/5.jpg&quot; alt=&quot;style5&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/6.jpg&quot; alt=&quot;style6&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/6.jpg&quot; alt=&quot;style6&quot;&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Feb 2015 03:33:59 +0800</pubDate>
         <link>mizhengdi.com/fitness/2015/02/09/convict-conditioning.html</link>
@@ -932,55 +960,55 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
         <description>&lt;p&gt;前天刷微博的时候看到这么一条：“什么是真正的成熟？”，成为更好的人，永远也不晚。想来思去，我也该拿把尺子丈量一下自己。一共有九条，我按照自己的理解与经历，写了些感受。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;了解自己，了解自己的欲望，了解自己的局限。理解别人，理解别人的欲望，理解别人的局限。&lt;/p&gt;
+&lt;p&gt;了解自己，了解自己的欲望，了解自己的局限。理解别人，理解别人的欲望，理解别人的局限。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;对于自己想要什么，其实我已经规划好了，大体在三十岁之前需要做些什么，怎么做到，达到什么样的高度，具体是写在博客的第一篇文章上。其实别人的事我一点都不关心，但是社交场合中，必须能够看穿一个人，最切身体会的就是跟着别人创业，跟对老大是很重要的事情，以后可能自己创业，跟什么样的合伙人，通俗点就是这个人要‘靠谱’。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;不随意地宣泄自己的情绪，知道每种情绪都是必经也终将过去的。&lt;/p&gt;
+&lt;p&gt;不随意地宣泄自己的情绪，知道每种情绪都是必经也终将过去的。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;情绪控制，我还是能够很好的做到的，只是有一点，就是现在年轻人的通病，就是爱抱怨，抱怨同事，抱怨老板，抱怨社会。这个很有深切的体会，去年的一次跳槽，其实很大一部分在自己的抱怨情绪上，不稳定的心情，干什么都没劲。抱怨还会传染，会引起连锁反应，最致命的就是抱怨会一直存在空间中，而且会日积月累。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;决定帮助他人时，就不指望着别人来回报，否则与贿赂有何区别。&lt;/p&gt;
+&lt;p&gt;决定帮助他人时，就不指望着别人来回报，否则与贿赂有何区别。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;如果有人跟我借个5000块钱，而且不一定能还，抱歉，我做不到这样，因为我没钱。所以说这点上，只能做自己力所能及的事情，通常也带有一定的目的性，我们中国人提倡礼尚往来，别人的恩情一定要报答，今日滴水之恩，定当涌泉相报，我自己也很推崇这种古礼。这种不是大是大非，帮助也有大有小，我只能做的就是力所能及，同时也希望别人能够还人情。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;能专注于一件事，明白结果只是随之而来的附属品。&lt;/p&gt;
+&lt;p&gt;能专注于一件事，明白结果只是随之而来的附属品。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;年轻人，通常都是操之过急的，急功近利，其实这种压力不是来源于自己，而是来自同龄人，亲朋好友，最多的就是父母。如果世界上，与我有血缘关系的，只剩下我自己，我才不管今年挣多少钱，爱干嘛就干嘛。现在的成功学，都推崇努力，专注，但肯定的是你即使这样做了也不会成功，结果就是只是能使生活得更加美好，但是往往过程很痛苦。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;能包容一切正面或负面的情绪，却又不为任何一种情绪所左右。&lt;/p&gt;
+&lt;p&gt;能包容一切正面或负面的情绪，却又不为任何一种情绪所左右。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;略过，我感觉我能很好地控制情绪。环顾四周，你会发现公司中会有些性格很怪的人，而且发起脾气来很有特点。嗯，发工资的时候我可能会有一点负面情绪的波动。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;真正的成熟不是不流眼泪的人，而是含泪奔跑的人。&lt;/p&gt;
+&lt;p&gt;真正的成熟不是不流眼泪的人，而是含泪奔跑的人。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;just keep moving，很好地阐述了这句话，擦干泪水，永不倒下。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;不乱于心，不困于情，不念过去，不畏将来。&lt;/p&gt;
+&lt;p&gt;不乱于心，不困于情，不念过去，不畏将来。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;我感觉连和尚都做不到。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;明白一切过不去的坎最终都会过去，一切好不了的伤口最后都会好起来。&lt;/p&gt;
+&lt;p&gt;明白一切过不去的坎最终都会过去，一切好不了的伤口最后都会好起来。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;去年初，妈妈生病的时候我就在想，为什么这些事会发生在我身上，真的很难面对这一切，在那个时候可能失去一个亲人，至亲的人，现在都不知道那时是怎么过来的。‘珍惜眼前人’，我从那以后就不再和父母吵嘴了，父母提出的可能在我看来很幼稚的事情我都会去做，妈妈每个月都会打好几通电话给我，告诉我她最近干了些什么，我想她在那‘弥留之际’，想到的肯定是我这个儿子，想跟我多说说话。船到桥头自然直，时间会冲淡一切，但总有些挥之不去。我能做的也只是‘尽人事，听天命’。&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;我羡慕你，但我还是做我自己。&lt;/p&gt;
+&lt;p&gt;我羡慕你，但我还是做我自己。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;有种人就是‘见不得别人好’，感觉我以前有这种趋势，我会去看过去遇到的人，有没有长进，我是不是和他拉开了差距，遇到过的人，待过的公司，是否一切安好，如旧。这是一种攀比，念过去，畏将来的表现，一种不成熟的表现。&lt;/p&gt;
@@ -995,81 +1023,6 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
         
         
         <category>Life</category>
-        
-      </item>
-    
-      <item>
-        <title>生活、学习、工作上的一些习惯</title>
-        <description>&lt;p&gt;事情的开始源于知乎上的一篇帖子&lt;a href=&quot;http://www.zhihu.com/question/20232993&quot; target=&quot;_blank&quot;&gt;如何把 Evernote 用好，变成系统性的知识管理工具？&lt;/a&gt;，这篇文章大概是去年11月份，换工作的时候看到的，启发蛮大的。
-可以说这是醍醐灌顶的，不是说文章中提供的方法有多么的高深，而是它对我的职业生涯的规划起到了至关重要的帮助。输在起跑线，赢在转折点。&lt;/p&gt;
-
-&lt;p&gt;这个方法并不适合任何人，每个人根据自己的生活工作环境，都会形成自己系统的方法，且它不是固定的，会随着时间的推移逐步完善。&lt;/p&gt;
-
-&lt;h3 id=&quot;gtd&quot;&gt;GTD时间管理法&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Evernote&lt;/strong&gt;: 作为知识管理，不细说，很多人都用这个。知识光搜集，不整理是不行的，还要不断的学习。
-至于什么是GTD，有什么好处，我只能说：有计划地做事，重点是执行。具体怎么做，去看知乎上的文章，总结的比我好。&lt;/p&gt;
-
-&lt;p&gt;我在这一反面的实践，具体的上面我也有注释：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;系统分类法：&lt;/strong&gt;
-&lt;img src=&quot;/img/w1.png&quot; alt=&quot;evernote cat&quot; /&gt;
-&lt;strong&gt;tags优先级：&lt;/strong&gt;
-&lt;img src=&quot;/img/w4.png&quot; alt=&quot;evetnote tags&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Jiffy：&lt;/strong&gt; 这是个鸡肋的东西，源于1万小时理论，每次都会像做任务一样，先开启，做完之后再关闭。比较适合约束力差的人，等形成习惯后这个东西基本可以删除了。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/w3.png&quot; alt=&quot;jiffy list&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Anydo：&lt;/strong&gt; 也是个鸡肋的东西，自己用过一段时间。别人总结的好：一般普通人不会写一个todo list，因为根本没有什么要紧的事，而商务精英，肯定是没有时间搞这种任务管理的。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Feedly：&lt;/strong&gt; 订阅rss，偶尔看看文章还是不错的，本来想用来订阅国外网站学英语的，但是发现翻译是个麻烦事，所以放弃了。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Inbox：&lt;/strong&gt; 收发邮件和todo list，但是万恶的墙啊，每次用都要去开vpn，烦。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pocket：&lt;/strong&gt; 技术型的文章一般都会通过这个看，Chrome上装个插件很方便，一般需要收藏的就放进Evernote，看一眼的就用这个。&lt;/p&gt;
-
-&lt;p&gt;以上是安卓上的一些app。&lt;/p&gt;
-
-&lt;h3 id=&quot;github&quot;&gt;Github托管&lt;/h3&gt;
-
-&lt;p&gt;我要说的重点是这个，很适合程序员，而且大多数的程序员都在用这个。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;个人博客(Jekyll＋Pages)，技术文章(Issue)，学习笔记(Repo)，代码片段(Gist)，简历(Repo)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;用过的，看的懂的自然看得懂，想用的话，自己去折腾吧。&lt;/p&gt;
-
-&lt;p&gt;自己Github上的东西真的挺少的，今年的目标就是完善这些内容。&lt;/p&gt;
-
-&lt;p&gt;说点有意思的事情，这个周末，我做了一些sb事情。删除了国内不上的网站的用户信息，全部使用微博账号登录（就是没有微博登录的不用），要付钱的全部换成支付宝账户，全部使用gmail邮箱（哎，要是真的登不了，我就完了），更新了手机号，社交网站信息一致（好像没什么人认识我），总之整理了一大堆，我一直喜欢归一。&lt;/p&gt;
-
-&lt;h3 id=&quot;kindle&quot;&gt;kindle学习&lt;/h3&gt;
-
-&lt;p&gt;代码的严谨，文学的魅力。&lt;/p&gt;
-
-&lt;p&gt;因为想看心理学的，职场的，个人提升的书，才买的kindle，什么是kindle，可以让你富一生的东西。最近发现以前自己写的文章真是狗屁不通，想看看文学，同时又发现kindle看英文文章确实不错，可以取词翻译，猛然间，发现原来我买了这么值的东西。&lt;/p&gt;
-
-&lt;p&gt;通过&lt;a href=&quot;http://www.dogear.cn/&quot; target=&quot;_blank&quot;&gt;狗耳朵&lt;/a&gt;推送新闻，英文文章，当然这种网站有很多，完全是个人喜好问题。推崇订阅少而精的东西，因为过一段时间你就会发现，你根本没时间来读这些东西，哈哈哈。&lt;/p&gt;
-
-&lt;p&gt;附上我的订阅目录：
-&lt;img src=&quot;/img/w2.png&quot; alt=&quot;kindle rss&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;mac-pro&quot;&gt;Mac Pro工作&lt;/h3&gt;
-
-&lt;p&gt;14年年底，入了一个mac，从此扔掉了鼠标，笔记本，键盘，每天背着这个唯一的家当，开开心心地上班和下班。&lt;/p&gt;
-
-&lt;p&gt;搜集，思考，执行，专注。&lt;/p&gt;
-
-&lt;p&gt;搜集是基本，一个人连学习的欲望都没了的话，想想都是害怕的，然后是思考整理，我要怎么做，怎么学，最后就是执行，全程就一个态度专注，也就是坚持。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;写于阳光明媚的中午，别人在睡觉的时候。&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Jan 2015 20:33:59 +0800</pubDate>
-        <link>mizhengdi.com/2015/01/20/my-workflow.html</link>
-        <guid isPermaLink="true">mizhengdi.com/2015/01/20/my-workflow.html</guid>
-        
         
       </item>
     
