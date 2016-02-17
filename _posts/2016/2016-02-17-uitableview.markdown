@@ -1,9 +1,9 @@
 ---
-layout       : post
-title        : "深入学习ios中UITableView"
-date         : 2016-02-08 14:24:00
-category     : Wealth
-last-modified: 2016-02-08 19:33:59
+layout: post
+title: 深入学习ios中UITableView
+date: '2016-02-17 16:41'
+category: Technology
+last-modified: '2016-02-17 16:41'
 ---
 
 >从前端转到ios开发，虽然跨度不大，但是构建UI方面有很大的不同，其中最让人很不爽的就是UI的耦合，
@@ -64,7 +64,7 @@ last-modified: 2016-02-08 19:33:59
 }
 ```
 
-*Github*：[https://github.com/mizhdi/AMTableLighter](https://github.com/mizhdi/AMTableLighter)
+**Github**：[https://github.com/mizhdi/AMTableLighter](https://github.com/mizhdi/AMTableLighter)
 
 ## 性能问题
 
