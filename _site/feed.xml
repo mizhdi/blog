@@ -5,16 +5,14 @@
     <description>往昔思碎，尽数埋于此。</description>
     <link>mizhengdi.com/</link>
     <atom:link href="mizhengdi.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Feb 2016 17:08:00 +0800</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2016 17:08:00 +0800</lastBuildDate>
+    <pubDate>Thu, 18 Feb 2016 15:29:28 +0800</pubDate>
+    <lastBuildDate>Thu, 18 Feb 2016 15:29:28 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>深入学习ios中UITableView</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;从前端转到ios开发，虽然跨度不大，但是构建UI方面有很大的不同，其中最让人很不爽的就是UI的耦合，&lt;br /&gt;
-就像React中可以将css写在js文件中一样，连html都整合在一起，不就是内联嘛。ios中常用UITableView，&lt;br /&gt;
-趁着项目的做完，好好学习总结记录一下。&lt;/p&gt;
+  &lt;p&gt;从前端转到ios开发，虽然跨度不大，但是构建UI方面有很大的不同，其中最让人很不爽的就是UI的耦合，就像React中可以将css写在js文件中一样，连html都整合在一起，不就是内联嘛。ios中常用UITableView，趁着项目的做完，好好学习总结记录一下。&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;lighter-view-controllers&quot;&gt;Lighter View Controllers&lt;/h2&gt;
@@ -23,7 +21,7 @@
 尤其是有多个页面的时候，考虑是不是可以将这些代码抽出来。查了一下资料，无非就是通过block将代理写在&lt;br /&gt;
 另一个class里面。&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- (instancetype)initWithItems:(NSArray *)aItems
+&lt;pre&gt;&lt;code class=&quot;language-objective-c&quot;&gt;- (instancetype)initWithItems:(NSArray *)aItems
            configureCellBlock:(CellConfigureBlock)aCellConfigureBlock
               cellHeightBlock:(CellHeightBlock)aCellHeightBlock
               cellWillDisplay:(CellWillDisplayBlock)aCellWillDisplayBlock
@@ -31,11 +29,10 @@
            viewForHeaderBlock:(ViewForHeaderBlock)aViewForHeaderBlock
               heightForHeader:(CGFloat)aHeightForHeader;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
 
 &lt;p&gt;在ViewController里可以简单这样写：&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- (void)setupTableView {
+&lt;pre&gt;&lt;code class=&quot;language-objective-c&quot;&gt;- (void)setupTableView {
     [self.tableView registerNib:[UINib nibWithNibName:xibCellIdentifier bundle:nil] forCellReuseIdentifier:xibCellIdentifier];
     [self.tableView registerClass:[AMCustomCell class] forCellReuseIdentifier:customCellIdentifier];
     self.tableView.separatorStyle = UITableViewCellSeparatorStyleSingleLine;
@@ -69,7 +66,6 @@
     [_tableHander handleTableViewDataSourceAndDelegate:self.tableView];
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Github&lt;/strong&gt;：&lt;a href=&quot;https://github.com/mizhdi/AMTableLighter&quot;&gt;https://github.com/mizhdi/AMTableLighter&lt;/a&gt;&lt;/p&gt;
 
@@ -82,7 +78,7 @@
 NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个结构。visiableCells内保&lt;br /&gt;
 存当前显示的cells，reusableTableCells保存可重用的cells。一般的写法如下：&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {  
+&lt;pre&gt;&lt;code class=&quot;language-objective-c&quot;&gt;- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {  
    static NSString *cellIdentifier = @&quot;cell&quot;;  
    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];  
    if (!cell) {  
@@ -92,7 +88,6 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
    return cell;  
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
 
 &lt;h4 id=&quot;cell&quot;&gt;关于自定义cell&lt;/h4&gt;
 
@@ -109,11 +104,10 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
 对于固定高度的UITableViewCell，使用这种方式保证不必要的高度计算和调用&lt;br /&gt;
 另一种方式就是实现 UITableViewDelegate中的：&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {    
+&lt;pre&gt;&lt;code class=&quot;language-objective-c&quot;&gt;- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
   return 44.0f;
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
 
 &lt;p&gt;所以应该非常快地返回高度值，具体可以查看&lt;a href=&quot;http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/&quot;&gt;优化UITableViewCell高度计算的那些事&lt;/a&gt;。&lt;/p&gt;
 

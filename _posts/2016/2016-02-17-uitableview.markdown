@@ -6,9 +6,7 @@ category: Technology
 last-modified: '2016-02-17 16:41'
 ---
 
->从前端转到ios开发，虽然跨度不大，但是构建UI方面有很大的不同，其中最让人很不爽的就是UI的耦合，
-就像React中可以将css写在js文件中一样，连html都整合在一起，不就是内联嘛。ios中常用UITableView，
-趁着项目的做完，好好学习总结记录一下。
+>从前端转到ios开发，虽然跨度不大，但是构建UI方面有很大的不同，其中最让人很不爽的就是UI的耦合，就像React中可以将css写在js文件中一样，连html都整合在一起，不就是内联嘛。ios中常用UITableView，趁着项目的做完，好好学习总结记录一下。
 
 ## Lighter View Controllers
 
@@ -16,7 +14,7 @@ last-modified: '2016-02-17 16:41'
 尤其是有多个页面的时候，考虑是不是可以将这些代码抽出来。查了一下资料，无非就是通过block将代理写在
 另一个class里面。
 
-```
+``` objective-c
 - (instancetype)initWithItems:(NSArray *)aItems
            configureCellBlock:(CellConfigureBlock)aCellConfigureBlock
               cellHeightBlock:(CellHeightBlock)aCellHeightBlock
@@ -28,7 +26,7 @@ last-modified: '2016-02-17 16:41'
 
 在ViewController里可以简单这样写：
 
-```
+``` objective-c
 - (void)setupTableView {
     [self.tableView registerNib:[UINib nibWithNibName:xibCellIdentifier bundle:nil] forCellReuseIdentifier:xibCellIdentifier];
     [self.tableView registerClass:[AMCustomCell class] forCellReuseIdentifier:customCellIdentifier];
@@ -75,7 +73,7 @@ last-modified: '2016-02-17 16:41'
 NSMutableArray \*visiableCells，和NSMutableDictnery   \*reusableTableCells两个结构。visiableCells内保
 存当前显示的cells，reusableTableCells保存可重用的cells。一般的写法如下：
 
-```
+``` objective-c
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {  
    static NSString *cellIdentifier = @"cell";  
    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];  
@@ -102,8 +100,8 @@ NSMutableArray \*visiableCells，和NSMutableDictnery   \*reusableTableCells两�
 对于固定高度的UITableViewCell，使用这种方式保证不必要的高度计算和调用
 另一种方式就是实现 UITableViewDelegate中的：
 
-```
-- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {    
+``` objective-c
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
   return 44.0f;
 }
 ```
