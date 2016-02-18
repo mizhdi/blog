@@ -2,7 +2,7 @@
 layout       : post
 title        : "我的知识体系（一）：“积累与实践，有章可循”"
 date         : 2016-01-10 16:30:00
-category   : Method
+category     : Method
 last-modified: 2016-01-10 16:30:00
 ---
 

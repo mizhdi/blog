@@ -1,13 +1,14 @@
 ---
-permalink: /api/posts.json
+layout: null
 ---
-
-[
-  {% for post in site.posts %}
-    {
-      "link"   : "{{ post.url | prepend: site.baseurl }}",
-      "date"   : "{{ post.date | date: '%b %-d, %Y' }}",
-      "title"  : "{{ post.title }}"
-    }{% if forloop.last == false %},{% endif %}
-  {% endfor %}
-]
+{
+    "posts": [
+        {% for post in site.posts %}
+        {
+            "title": "{{ post.title | xml_escape }}",
+            "url": "{{ site.url }}{{ post.url }}",
+            "date": "{{ post.date | date_to_xmlschema }}"
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ]
+}
