@@ -30,6 +30,8 @@ navigations:
     href: /
   - title: 文章分类
     href: /categories
+  - title: 我的基金
+    href: /fund
   - title: 关于我
     href: /about
   - title: 个人简历
