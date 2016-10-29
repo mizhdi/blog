@@ -32,6 +32,8 @@ navigations:
     href: /categories
   - title: 我的基金
     href: /fund
+  - title: 交易日志
+    href: https://github.com/mizhdi/Stock-diary
   - title: 关于我
     href: /about
   - title: 个人简历
