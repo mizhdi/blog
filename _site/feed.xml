@@ -5,9 +5,164 @@
     <description>往昔思碎，尽数埋于此。</description>
     <link>mizhengdi.com/</link>
     <atom:link href="mizhengdi.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Nov 2016 18:00:09 +0800</pubDate>
-    <lastBuildDate>Tue, 01 Nov 2016 18:00:09 +0800</lastBuildDate>
+    <pubDate>Fri, 09 Dec 2016 17:45:56 +0800</pubDate>
+    <lastBuildDate>Fri, 09 Dec 2016 17:45:56 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>指数定投计划</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;前言：最近在股市输的厉害，把败归于市场的坏，显然是不对的，得从自身找到原因，技艺未精与精力有限是最大的问题。所以换了一下思路，准备把精力放在指数的定投上，通过简单的量化提示操作，长期投资场内ETF。干事情之前先喝点巴菲特的鸡汤：“个人投资者的最佳选择就是买入一只低成本的指数基金，并在一段时间里保持持续定期买入。通过定期投资指数基金，一个什么都不懂的业余投资者往往能够战胜大部分投资专家。”当然必须看好这个国家，比如天朝和美国。&lt;br /&gt;
+注意下文主要来自网络的搜集整理：JoinQuant@江州金猪，雪球@银行螺丝钉&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;etf&quot;&gt;ETF的选择&lt;/h3&gt;
+
+&lt;p&gt;选择ETF有以下几个标准：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;流通性，平均每日成交金额要求在100万以上（特殊的ETF可以例外）。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;相关性，有些ETF所对应的指数是相同的，比如510500和510510都是基于中证500指数的，就保留成交量的一个就可以了。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;基金规模，务必选择规模大的基金，基金规模过小有清盘风险。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;宽基与窄基，目前市场中按照大分类，分为宽基指数和窄基指数，所谓宽基指数，多指其成分股为大盘股的指数，其中宽基指数基金规模主要集中于沪深300、上证50及深证100指数；所谓窄基指数，是指非大盘股指数之外的一些策略类、风格类、行业类、主题类的相关指数。普通投资者（对行业或者主题有深入研究者除外）最好选择宽基类的ETF。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;etf-1&quot;&gt;推荐以下几类ETF供投资者自己选择&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;A股宽基ETF：300ETF、500ETF、50ETF、创业板、深成ETF。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A股窄基ETF：金融行业、消费行业、医药、红利、信息技术。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;黄金ETF&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;联接海外ETF：H股ETF（510900），恒生ETF（159920），标普500ETF （513500）德国30ETF（513030）。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;etf-2&quot;&gt;行业ETF推荐&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;好行业：必需消费、医药生物、养老&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;还可以的行业：可选消费、金融&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;不适合用指数投资：信息、公用事业&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;不建议普通投资者投资：电信、工业、材料、能源&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;好行业的股票即使在熊市中也不便宜，目前绝大多数医药股和消费股，缺乏足够的安全边际，基本没有太大投资价值。只能稍微配置一些，绝不能做主力配置。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;用强周期股和医药消费拼长期指数表现的做法，很不公平。因为强周期股只适合阶段持有，不适合长期持有。而且强周期股是天生的阶段暴利选手，因此是投资组合中的必配品种。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;就算是不怎么样的行业，不怎么样的公司，只要它足够便宜，只要它能在困境中维持经营，就是很好的投资标的。&lt;br /&gt;
+就算是好行业，好公司，只要它不便宜，就算经营的好，也不是好的投资标的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;在美股历史上相当长的时期内，周期股=价值投资专属标的，只是价值投资者们嫌周期股这个名字不好听，后来才使用了价值股这个名字。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;对上面的有一些感悟：比如最近的煤炭涨价属于周期性非常强的，一般如果不是时常关注市场行情很难捕捉到。&lt;/p&gt;
+
+&lt;h3 id=&quot;etf-3&quot;&gt;ETF的配置&lt;/h3&gt;
+
+&lt;p&gt;资产配置简单来讲就是寻找“最优性价比”的投资组合。这里的性价比指的是风险与收益的平衡。哈里•马科维茨的现代组合理论MPT获得了1990年的诺贝尔经济学奖，并成为了今天所有专业机构的资产管理方法与框架。这个理论的精髓：几类资产的相关性（同涨同跌的可能性）越小，组合起来风险就越能被分散，加权预期收益还保持不变。因此，相比单个资产，多资产的组合就意味着相同预期收益时风险将大大降低，或者承担相同风险可以获得更高的收益（当然，前提是组合要做得正确）。风险和波动小了，收益高了，长期投资也更容易坚持。 简而言之，分散到几个相关性小的资产上。&lt;/p&gt;
+
+&lt;p&gt;根据以上理论的指导，本策略资产配置如下：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;A股市场（40%): 300ETF25%，500ETF15%&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;美股市场（25%): 标普500ETF20%，纳指ETF5%&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;港股市场（20%): 恒生ETF 15%，H股ETF（5%）&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;德国市场（15%): 德国ADX30ETF&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;上述配置从网络中获取，一般采取的方式是在低估区域配置值得定投的指数就好了。如果能捕捉到别人不知道的价值洼地，做到盲点套利那就是高手了。&lt;/p&gt;
+
+&lt;h3 id=&quot;etf-4&quot;&gt;ETF的投资策略&lt;/h3&gt;
+
+&lt;h5 id=&quot;etf-5&quot;&gt;ETF的估值评价&lt;/h5&gt;
+
+&lt;p&gt;价投的几个指标：PE=市价/盈利，PB=市价/净资产，ROE=盈利/净资产=PB/PE，盈利收益率=1/PE=ROE/PB。&lt;/p&gt;
+
+&lt;p&gt;股价 =（股价/盈利）* 盈利 = 市盈率 * 盈利。&lt;/p&gt;
+
+&lt;p&gt;不同风格的指数，其PE的波动区间有所不同，成熟市场的宽基指数的PE通常在10~20这个区间，我们可以简单的把它划分为PE高于16为高估区间，低于14为低估区间。14~16为正常范围。例如沪深300和恒生指数，它们的主要估值集中在10-18pe，低于10pe就是低估区域，不断买入；10-18pe持有，18pe以上分批卖出。&lt;/p&gt;
+
+&lt;p&gt;市盈率指标的准确性：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;指数市盈率与市净率都是较低的时候，指数处于低估区域。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;如果遇到成分股盈利下降导致指数市盈率上升，就参考市净率，看看是不是在1-1.5之间。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;如果成分股出现亏损，开始侵蚀净资产，市净率也会失效。不过不要紧，指数会自动剔除亏损股，更换还在盈利的股票进来。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;注意：我国股票市场发展时间短，初期非常不规范，所以，它的历史数据没有多强的参考意义。&lt;/p&gt;
+
+&lt;h5 id=&quot;section&quot;&gt;资金池计划&lt;/h5&gt;
+
+&lt;p&gt;每月工资的20%用于购买指数定投，根据行情定投，如果定投未成功，则放入货币基金中。还可以月末季末年末和钱荒的时候做国债逆回购。那种每月定投的太不靠谱了，比较适合小白，所以采用了这种方式基金池定投指数的方式。&lt;/p&gt;
+
+&lt;h5 id=&quot;section-1&quot;&gt;不定额顺势择时定投策略&lt;/h5&gt;
+
+&lt;p&gt;每日检查估值，定投间隔20天。&lt;/p&gt;
+
+&lt;p&gt;买入：处于低估区域，并且当前处于振荡行情或者上升行情之中（右侧买入）&lt;/p&gt;
+
+&lt;p&gt;B = N[1 +（P1-P2）/ P1]，其中B为本次应该买入金额，N为最近一次买入金额，这样做的优点是跌时候多买点，而上涨时候少买。N的初始值为定投份额的1/5，这个参数有待考量。&lt;/p&gt;
+
+&lt;p&gt;卖出：如果处于高估区域，并且当前处于振荡行情或者下跌行情之中（右侧卖出）&lt;/p&gt;
+
+&lt;p&gt;S = N[1 +（P2-P1）/ P1]，其中S为本次应该卖出金额，N为最近一次卖出金额，N的初始值为总仓位的50%。A股市场呈现牛短熊长的特征，所以卖出要坚决&lt;/p&gt;
+
+&lt;p&gt;根据计算仓位的凯利公式（仓位F=（bp-q）/b，b是赔率，p代表胜率，q=1-p），估值越低，我们的收益率越高，赔率越高，胜率也就越高，所以我们应该投资的仓位也就要大一点。换句话说，越是低估，定投对应的那一期的额度也要增加。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Dec 2016 18:50:00 +0800</pubDate>
+        <link>mizhengdi.com/wealth/2016/12/08/index-of-fixed-investment-plan.html</link>
+        <guid isPermaLink="true">mizhengdi.com/wealth/2016/12/08/index-of-fixed-investment-plan.html</guid>
+        
+        
+        <category>Wealth</category>
+        
+      </item>
     
       <item>
         <title>看得见未来才有未来</title>
@@ -247,6 +402,10 @@
       <item>
         <title>我的交易体系（待打磨）</title>
         <description>&lt;blockquote&gt;
+  &lt;p&gt;没有赚钱的交易体系就是意淫。废弃&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
   &lt;p&gt;首先谈谈选择与认知的问题：对于自身的考量还是选择了炒股这个行业，就跟写代码一样，这个是很枯燥的，硬生生地进入一个陌生的行业。虽然是奔着赚钱的目的来的，但是现实往往会让你遍体鳞伤。我很喜欢这个行业里的某些人，炒股的同时修生养性，前几天看了《华尔街之狼》，金钱、美女、毒品，渐渐走向毁灭。当你有了金钱，满足了以前的期许，那么接下了会是什么…&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -814,258 +973,6 @@ PDCA是英语单词Plan(计划)、Do(执行)、Check(检查)和Action(行动)的
         <pubDate>Mon, 15 Feb 2016 22:24:00 +0800</pubDate>
         <link>mizhengdi.com/wealth/2016/02/15/stock-pdca.html</link>
         <guid isPermaLink="true">mizhengdi.com/wealth/2016/02/15/stock-pdca.html</guid>
-        
-        
-        <category>Wealth</category>
-        
-      </item>
-    
-      <item>
-        <title>理财小白的通向财务自由之路之股票篇(一)</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;“理念和体系“，理念如果好比是大脑，体系就是身体；理念如果是内功，那体系就是外功；理念如果是门道，&lt;br /&gt;
-那体系就是方法。以下各种理论，其实提炼成一句话就是巴菲特的“保全资本金，绝不可忘记这一原则”。大师，&lt;br /&gt;
-不愧是大师。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;section&quot;&gt;理念&lt;/h1&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;心态&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;果断：庄家吃的就是散户的犹豫&lt;/li&gt;
-  &lt;li&gt;绝不可将自己的意愿强加于市场、一定要做一个追逐趋势者，不要做一个预测趋势者，市场永远不会&lt;br /&gt;
-错（摒弃主观臆测，尊重市场的客观趋势）&lt;/li&gt;
-  &lt;li&gt;不见邪（多头应卖出），不听邪（不依消息交易，看到对事件的人性反应），不言邪（不对人说起未来&lt;br /&gt;
-的市场行为）&lt;/li&gt;
-  &lt;li&gt;幸福生活及快乐的交易者&lt;/li&gt;
-  &lt;li&gt;顺大势逆人心，时与势，择时顺势&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;section-2&quot;&gt;投资理念&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;保全资本金，绝不可忘记这一原则&lt;/li&gt;
-  &lt;li&gt;投资是能兼顾“赚钱”和“赚时间”的最好方式&lt;/li&gt;
-  &lt;li&gt;投资模型的三大基石：安全边际分析、仓位管理技巧、量化套利投资&lt;/li&gt;
-  &lt;li&gt;成功交易必经“随意型交易”、“技术型交易”、“策略型交易”、“完全策略型交易” 四个主导阶段&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;section-3&quot;&gt;本质&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;在任何市场上，最重要的价格就是你在开立头寸时的交易水平&lt;/li&gt;
-  &lt;li&gt;股市里面决定股价的最主要因素只有这两个：贪婪及恐惧&lt;/li&gt;
-  &lt;li&gt;流向具有睿智思维和高超技术能力的少数人群的财富再分配&lt;/li&gt;
-  &lt;li&gt;最直接最正宗的技术分析应当量价分析为主，时空分析为辅，而各种指标线与股价之间的关系只是对应关系&lt;br /&gt;
-而已，即影子关系&lt;/li&gt;
-  &lt;li&gt;因贪婪而进场，因恐惧而出场，恐惧易造成波动&lt;/li&gt;
-  &lt;li&gt;市场有两种方式化解超买和超卖状况，一是横向盘整，二是大幅修正&lt;/li&gt;
-  &lt;li&gt;价格，交易量以及持仓量贯穿了技术分析的整个领域&lt;/li&gt;
-  &lt;li&gt;时机比什么都重要，在合适的时候买入一个差股票远比在不好的时机买入一个好股票要挣得多&lt;/li&gt;
-  &lt;li&gt;头一个小时，引导一个交易日，开市行情奠定了交易日行情的基础&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;section-4&quot;&gt;思维与哲学&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;PDCA&lt;/li&gt;
-  &lt;li&gt;交易的五个依据层次与盈亏的正确归因(宏观经济面问题，股市系统性问题，所属板块问题，个股四&lt;br /&gt;
-面问题(基本面、技术面、资金面、消息面)，个人操作问题)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;section-5&quot;&gt;体系&lt;/h1&gt;
-
-&lt;h2 id=&quot;section-6&quot;&gt;研究体系&lt;/h2&gt;
-
-&lt;h3 id=&quot;section-7&quot;&gt;趋势理论&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;判断拐点，跟随趋势，主要趋势、次要趋势、短暂趋势&lt;/li&gt;
-  &lt;li&gt;收敛三角形，趋势方向要转变了；扩散三角形，波动比较剧烈&lt;/li&gt;
-  &lt;li&gt;有效突破：幅度、时间、成交量三个因素&lt;/li&gt;
-  &lt;li&gt;通道、箱体、旗形洗盘：每一个箱体背后都是一个阴谋，调仓换股，高抛低吸，成交量是不断减少的，&lt;br /&gt;
-涨幅一般是矩形的一倍&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;section-8&quot;&gt;均线与黄金分割&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;0.618、0.5、0.382&lt;/li&gt;
-  &lt;li&gt;均线具有助涨助跌的作用，趋势向上，均线作为支撑趋势向下，均线作为阻力&lt;/li&gt;
-  &lt;li&gt;30日均线被认为是股价的生命线&lt;/li&gt;
-  &lt;li&gt;单条均线对于股价都起到了支撑与压制的作用&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;section-9&quot;&gt;波浪理论&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;因浪型决定比率、浪型决定时间、浪型决定走势&lt;/li&gt;
-  &lt;li&gt;五浪上升ABC调整，艾略特波浪理论：先是5浪上涨，然后跟着调整性的三浪下跌（最重要的3浪和5浪）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;section-10&quot;&gt;选股体系&lt;/h2&gt;
-
-&lt;h3 id=&quot;kdj&quot;&gt;KDJ选股&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;先将所有的KDJ月线指标进入超卖区个股选出来，加以归类&lt;/li&gt;
-  &lt;li&gt;再从中选出KDJ周线指标中J值已经上穿0线，并且周线指标K、D两值出现低位金叉的个股&lt;/li&gt;
-  &lt;li&gt;对于KDJ日线指标也几乎同时发出买入信号的个股，投资者可以选择其中量能持续放大的积极买入&lt;/li&gt;
-  &lt;li&gt;实施具体买入操作时，可以选择15分钟的分时随机指标进入超卖区的时候，在盘中较低的位置介入&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;section-11&quot;&gt;行业与个股&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1、营收放大20%；2、净利润增长大于10%；3、净资产收益率大于5%；4、市盈率低于150”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;section-12&quot;&gt;纪律&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;现阶段（10万以下）只投两只股票，一只价值，一只题材，风格属于篇中长期&lt;/li&gt;
-  &lt;li&gt;基本面选股，技术面选时&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;section-13&quot;&gt;交易体系&lt;/h2&gt;
-
-&lt;h2 id=&quot;k&quot;&gt;k线&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;依据长白实体（3倍长于前日）构成支撑这个概念进行交易的方式之一是，回撤到中点附近时买进入场，&lt;br /&gt;
-从这个点到长白实体的低点构成支撑区域&lt;/li&gt;
-  &lt;li&gt;十字星的顶端（上影线的顶端）构成阻挡线&lt;/li&gt;
-  &lt;li&gt;上影线与下影线都很长的叫做“高浪线”，代表多空对峙的状态&lt;/li&gt;
-  &lt;li&gt;锤子线刚出现时，先少量做多试水，验证后加码买进，止损点设在锤子线低点的下方&lt;/li&gt;
-  &lt;li&gt;在行情上行时，如果已经出现8-10根新高蜡烛线，应该停止买进&lt;/li&gt;
-  &lt;li&gt;蜡烛图的实体较短，说明熊方和牛方处于胶着状态&lt;/li&gt;
-  &lt;li&gt;仅当反转信号所指的方向与市场的主要趋势方向一致时，我们才可以依据此开立新的头寸&lt;/li&gt;
-  &lt;li&gt;上吊线的实体与上吊线次日的开市价之间向下的缺口越大，那么上吊线就越有可能构成市场的顶部&lt;/li&gt;
-  &lt;li&gt;在吞没形态中，第二个实体伴有超额的交易量&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;section-14&quot;&gt;支撑位与阻力位&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;极性转换原则：原先的支撑水平一旦被突破，则转化为新的阻挡水平&lt;/li&gt;
-  &lt;li&gt;成交量相对比较大的区域要比成交量相对比较小的区域重要，成交量大的区域意味着曾经在这里参与买卖的&lt;br /&gt;
-筹码比较多，这里是买方的成本区，这个位置股价的波动容易影响他们的买卖行为他们的买卖行为反过来又&lt;br /&gt;
-会加剧这个位置股价的波动&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;section-15&quot;&gt;仓位管理&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;策略管理的本质：风险防范的意识与能力事实上是对资金的有效管理&lt;/li&gt;
-  &lt;li&gt;记住一条：先是试探性建仓，此时仓位上限是三分之一&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;section-16&quot;&gt;换手率&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;股价只有在上升趋势途中，才需要关注换手率的的大小，也即所谓的换手量&lt;/li&gt;
-  &lt;li&gt;无论关前换手量还是关后换手量，通常情况下，股价只要在上升趋势途中接近前期颈线位附近出现较大换手量&lt;br /&gt;
-，均表示股性有激活迹象，股价有加速上涨的欲望&lt;/li&gt;
-  &lt;li&gt;一般情况，大多股票每日换手率在1%——2.5%（不包括初上市的股票）70%的股票的换手率基本在3%以下，&lt;br /&gt;
-3%就成为一种分界当一支股票的换手率在3%——7%之间时，该股进入相对活跃状态7%——10%之间时，则为&lt;br /&gt;
-强势股的出现，股价处于高度活跃当中（广为市场关注）10%——15%，大庄密切操作超过15%换手率，持&lt;br /&gt;
-续多日的话，此股也许成为最大黑马&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;section-17&quot;&gt;止损&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;赚多少还取决于市场，亏多少几乎全部取决于自己不愿意止损，其核心就是不敢直面自己的错误，&lt;br /&gt;
-希望以更大的“赌”来掩盖已经发生的错误&lt;/li&gt;
-  &lt;li&gt;止损是一回事，再买入是另外一回事，它俩是两个独立的逻辑，是两笔独立的操作，它们不能互相抵消&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;k-1&quot;&gt;k线止损条件&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;双顶颈线位破位止损出局&lt;/li&gt;
-  &lt;li&gt;头肩顶颈线位破位止损出局&lt;/li&gt;
-  &lt;li&gt;圆顶形成过程中5、10日线高位死叉止损出局&lt;/li&gt;
-  &lt;li&gt;顶部收敛三角形下边线跌破止损出局&lt;/li&gt;
-  &lt;li&gt;可能的倒置“V”形出现前破5日线止损出局&lt;/li&gt;
-  &lt;li&gt;扩散三角形形成前套牢者在跌破下边线时止损出局&lt;/li&gt;
-  &lt;li&gt;高位出现下降三角形跌破其下边线时止损出局&lt;/li&gt;
-  &lt;li&gt;下跌途中出现上升楔形下边线被跌破时止损出局&lt;/li&gt;
-  &lt;li&gt;下降旗形下边线破位止损出局&lt;/li&gt;
-  &lt;li&gt;一根大阴线切断了三根均线，改变了均线的排列为空头排列，后势看空(断头铡刀)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;section-18&quot;&gt;战术上止损&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;亏损额度达到总资金的5%，无论任何理由和借口，都无条件的止损&lt;/li&gt;
-  &lt;li&gt;行情不好，且走势对我不利时，立即止损&lt;/li&gt;
-  &lt;li&gt;走势看不懂，且对我不利时，立即止损&lt;/li&gt;
-  &lt;li&gt;买入股票后，没有实现预期，逐步止损&lt;/li&gt;
-  &lt;li&gt;时间止损，买入后长时间没有行情，逐步止损&lt;/li&gt;
-  &lt;li&gt;买股的理由不存在了、发生了变化、被澄清，逐步止损&lt;/li&gt;
-  &lt;li&gt;个股亏损额超过30%，无论任何理由和借口，无条件的止损&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;macd&quot;&gt;MACD&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;若零轴之上出现二次金叉信号时，又被称之为零上二次红金叉，属于股价强势中的强势，此时跟进做多，&lt;br /&gt;
-股价往往容易出现加速上涨属于短线极佳买点&lt;/li&gt;
-  &lt;li&gt;在股价实际走势中，快线与慢线的死叉同样需要配合零轴之上或零轴之下综合研判当零轴之上出现DIFF&lt;br /&gt;
-下穿DEA死叉时，一般定义为股价上升趋势途中的短暂回调，后市股价仍有再次走强的可能反之，当DIFF&lt;br /&gt;
-与DEA在零轴之下发生死叉时，通常定义为股价下跌趋势途中的继续回调，后市股价惯性下跌的概率较高，&lt;br /&gt;
-尤其是MACD零轴之下出现二次死叉时，股价更容易出现加速下跌行情，所以零轴之下，无论出现的是一次&lt;br /&gt;
-死叉或二次死叉，投资者都应当空仓观望，静观其变&lt;/li&gt;
-  &lt;li&gt;零上金叉招财宝，零下金叉易受伤零上死叉看支撑，零下死叉把命逃&lt;/li&gt;
-  &lt;li&gt;隐形顶背离，从红绿柱不好看出来，但结合黄白线没有随红柱降低而回落，而是维持高位后突然向下扭头，&lt;br /&gt;
-拐点包住的红柱很小或没有，这种也等同于彻底顶背离，具有一样的杀伤力&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;kdj-1&quot;&gt;KDJ&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;周KDJ中的J线对股价的反应最为敏感，而且较为准确，应要充分重视&lt;/li&gt;
-  &lt;li&gt;K、D双双低于10的时候，存在短线上涨乃至暴涨的机会(短线)&lt;/li&gt;
-  &lt;li&gt;J值可靠性最差，因为它敏感性太强，K值次之，D值稍稳定些&lt;/li&gt;
-  &lt;li&gt;K线进入90以上为超买区，10以下为超卖区；D线进入80以上为超买区，20以下为超卖区；J&amp;gt;100%超买，&lt;br /&gt;
-J&amp;lt;10%超卖KD值于50%左右徘徊或交叉时，无意义&lt;/li&gt;
-  &lt;li&gt;实践中，当K线在低位向上穿过D线，被称作“金叉”，是短线抢入信号；当K线在高位向下跌穿D线，&lt;br /&gt;
-又被称作死叉，是抛筹信号而在这一过程中，J线往往领先KD率先表现出涨与跌的趋势&lt;/li&gt;
-  &lt;li&gt;临界钝化指的是最明显、最凶狠、最直接、最不要脸的钝化方式，是指从最高位置100（或最低位置0）&lt;br /&gt;
-直接不回头的直线到达最低位置0（或最高位置100)45天KDJ的临界钝化状态出现之后，后市往往有较大&lt;br /&gt;
-的后续行情，是股价趋势将发生反转的前奏，往往真正的主推动浪还在后面在钝化顶部不可能是最好的介&lt;br /&gt;
-入机会，一般可以选择在J值从钝化顶部开始回调后第一次再度上升时介入&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;section-19&quot;&gt;缺口&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;缺口，往往是主力资金或先知先觉的投资者在次日坚决买进或坚决抛出所形成的&lt;/li&gt;
-  &lt;li&gt;而日K线中的缺口由于更加贴近市场主力资金的运作意图，而被格外看重，所以，我们平时以日K线缺口为主要研判依据&lt;/li&gt;
-  &lt;li&gt;缺口在单一趋势中所处的位置不同，划分为突破缺口、持续缺口和竭尽缺口&lt;/li&gt;
-  &lt;li&gt;缺口理论中有句名言叫“三跳空，气数尽”&lt;/li&gt;
-  &lt;li&gt;对于持续缺口的量度作用，通常也是建立在这个基础之上的，其量度的方式是持续缺口与突破缺口之间的距离&lt;br /&gt;
-翻一倍上去就是高点，由于高点的出现，强势行情中会超过一些，而弱势行情中会不到一些&lt;/li&gt;
-  &lt;li&gt;缺口的计算均以开盘价为准&lt;/li&gt;
-  &lt;li&gt;如果一个窗口（在上升趋势中）没有在三天内被市场关闭，那么市场将上涨&lt;/li&gt;
-  &lt;li&gt;在上升趋势中，我们可以把窗口作为买进的参考点，乘市场回撤到这里时入市&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;section-20&quot;&gt;博弈&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;庄家操作：试盘、吸筹、震荡洗盘、拉升、出货&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;炒股的门派很多，有价值投资，也有炒短线，还有技术门派，技术门派中又有各种技术，林林总总，错综复杂。如何选择适合自己的一个套路，真的需要时间学习与实践总结。至于我为什么要投身股市，因为这里永远都不缺机会，机会与风险并存，往往可以升华人性。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 09 Feb 2016 22:24:00 +0800</pubDate>
-        <link>mizhengdi.com/wealth/2016/02/09/finance-with-stock.html</link>
-        <guid isPermaLink="true">mizhengdi.com/wealth/2016/02/09/finance-with-stock.html</guid>
         
         
         <category>Wealth</category>
