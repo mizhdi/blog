@@ -1,5 +1,5 @@
 ---
 layout: fund
-title: 基金
+title: 秋实基金
 permalink: /fund/
 ---
