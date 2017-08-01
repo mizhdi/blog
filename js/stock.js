@@ -132,27 +132,21 @@ $(function () {
         });
     }
 
-    // 请求数据
-    $.getJSON('/js/stockdata.js', function(data) {
-      var fund = data;
-      console.log(data);
+    $.each(names, function(i, name) {
 
-      $.each(names, function(i, name) {
+      seriesOptions[i] = {
+          name: name,
+          data: fund[name],
+          color: colors[name]
+      };
 
-        seriesOptions[i] = {
-            name: name,
-            data: fund[name],
-            color: colors[name]
-        };
+      // As we're loading the data asynchronously, we don't know what order it will arrive. So
+      // we keep a counter and create the chart when all the data is loaded.
+      seriesCounter += 1;
 
-        // As we're loading the data asynchronously, we don't know what order it will arrive. So
-        // we keep a counter and create the chart when all the data is loaded.
-        seriesCounter += 1;
+      if (seriesCounter === names.length) {
+          createChart();
+      }
 
-        if (seriesCounter === names.length) {
-            createChart();
-        }
-
-      });
     });
 });
