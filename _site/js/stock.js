@@ -1,52 +1,6 @@
-var fund = {
-  "秋实基金": [
-    [1499083200000,1.0000],
-    [1499169600000,0.9973],
-    [1499256000000,1.0065],
-    [1499342400000,1.0249],
-    [1499428800000,1.0339],
-    [1499688000000,1.0177],
-    [1499774400000,1.0042],
-    [1499860800000,1.0100],
-    [1499947200000,1.0028],
-    [1500033600000,1.0107],
-    [1500292800000,0.9942],
-    [1500379200000,0.9855],
-    [1500465600000,1.0051],
-    [1500552000000,1.0225],
-    [1500638400000,1.0148],
-    [1500897600000,1.0141],
-    [1500984000000,0.9943],
-    [1501070400000,0.9966],
-    [1501156800000,1.0384],
-    [1501243200000,1.0253],
-  ],
-  "沪深300指数": [
-    [1499083200000,1.0000],
-    [1499169600000,0.9915],
-    [1499256000000,1.0024],
-    [1499342400000,1.0025],
-    [1499428800000,1.0014],
-    [1499688000000,1.0008],
-    [1499774400000,1.0055],
-    [1499860800000,1.0022],
-    [1499947200000,1.0099],
-    [1500033600000,1.0143],
-    [1500292800000,1.0035],
-    [1500379200000,1.0045],
-    [1500465600000,1.0216],
-    [1500552000000,1.0266],
-    [1500638400000,1.0213],
-    [1500897600000,1.0245],
-    [1500984000000,1.0188],
-    [1501070400000,1.0149],
-    [1501156800000,1.0168],
-    [1501243200000,1.0195],
-  ]
-}
-
 $(function () {
 
+    // 设置图标
     Highcharts.setOptions({
       global: {
         timezoneOffset: -8 * 60  // +8 时区修正方法
@@ -178,22 +132,27 @@ $(function () {
         });
     }
 
-    $.each(names, function (i, name) {
+    // 请求数据
+    $.getJSON('/js/stockdata.js', function(data) {
+      var fund = data;
+      console.log(data);
 
-      seriesOptions[i] = {
-          name: name,
-          data: fund[name],
-          color: colors[name]
-      };
+      $.each(names, function(i, name) {
 
-      // As we're loading the data asynchronously, we don't know what order it will arrive. So
-      // we keep a counter and create the chart when all the data is loaded.
-      seriesCounter += 1;
+        seriesOptions[i] = {
+            name: name,
+            data: fund[name],
+            color: colors[name]
+        };
 
-      if (seriesCounter === names.length) {
-          createChart();
-      }
+        // As we're loading the data asynchronously, we don't know what order it will arrive. So
+        // we keep a counter and create the chart when all the data is loaded.
+        seriesCounter += 1;
 
+        if (seriesCounter === names.length) {
+            createChart();
+        }
+
+      });
     });
-
 });
