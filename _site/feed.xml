@@ -3,11 +3,11 @@
   <channel>
     <title>读行 · 笃行 · 独行</title>
     <description>往昔思碎，尽数埋于此。</description>
-    <link>mizhengdi.com/</link>
-    <atom:link href="mizhengdi.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Aug 2017 19:04:20 +0800</pubDate>
-    <lastBuildDate>Tue, 01 Aug 2017 19:04:20 +0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 02 Aug 2017 14:13:08 +0800</pubDate>
+    <lastBuildDate>Wed, 02 Aug 2017 14:13:08 +0800</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
     
       <item>
         <title>急需一场胜利，扫去身上的霾</title>
@@ -20,8 +20,8 @@
 &lt;p&gt;房事的焦躁&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Jun 2017 18:50:00 +0800</pubDate>
-        <link>mizhengdi.com/wealth/2017/06/14/03.html</link>
-        <guid isPermaLink="true">mizhengdi.com/wealth/2017/06/14/03.html</guid>
+        <link>http://localhost:4000/wealth/2017/06/14/03.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wealth/2017/06/14/03.html</guid>
         
         
         <category>Wealth</category>
@@ -85,8 +85,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 16 Mar 2017 18:50:00 +0800</pubDate>
-        <link>mizhengdi.com/wealth/2017/03/16/one-anniversary.html</link>
-        <guid isPermaLink="true">mizhengdi.com/wealth/2017/03/16/one-anniversary.html</guid>
+        <link>http://localhost:4000/wealth/2017/03/16/one-anniversary.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wealth/2017/03/16/one-anniversary.html</guid>
         
         
         <category>Wealth</category>
@@ -164,8 +164,8 @@
 &lt;p&gt;一大成长行业：5G通信。&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 18:50:00 +0800</pubDate>
-        <link>mizhengdi.com/wealth/2017/01/01/confessions-of-a-deep-stalker.html</link>
-        <guid isPermaLink="true">mizhengdi.com/wealth/2017/01/01/confessions-of-a-deep-stalker.html</guid>
+        <link>http://localhost:4000/wealth/2017/01/01/confessions-of-a-deep-stalker.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wealth/2017/01/01/confessions-of-a-deep-stalker.html</guid>
         
         
         <category>Wealth</category>
@@ -175,7 +175,7 @@
       <item>
         <title>指数定投计划</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;前言：最近在股市输的厉害，把败归于市场的坏，显然是不对的，得从自身找到原因，技艺未精与精力有限是最大的问题。所以换了一下思路，准备把精力放在指数的定投上，通过简单的量化提示操作，长期投资场内ETF。干事情之前先喝点巴菲特的鸡汤：“个人投资者的最佳选择就是买入一只低成本的指数基金，并在一段时间里保持持续定期买入。通过定期投资指数基金，一个什么都不懂的业余投资者往往能够战胜大部分投资专家。”当然必须看好这个国家，比如天朝和美国。&lt;br /&gt;
+  &lt;p&gt;前言：最近在股市输的厉害，把败归于市场的坏，显然是不对的，得从自身找到原因，技艺未精与精力有限是最大的问题。所以换了一下思路，准备把精力放在指数的定投上，通过简单的量化提示操作，长期投资场内ETF。干事情之前先喝点巴菲特的鸡汤：“个人投资者的最佳选择就是买入一只低成本的指数基金，并在一段时间里保持持续定期买入。通过定期投资指数基金，一个什么都不懂的业余投资者往往能够战胜大部分投资专家。”当然必须看好这个国家，比如天朝和美国。
 注意下文主要来自网络的搜集整理：JoinQuant@江州金猪，雪球@银行螺丝钉&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -241,7 +241,7 @@
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;就算是不怎么样的行业，不怎么样的公司，只要它足够便宜，只要它能在困境中维持经营，就是很好的投资标的。&lt;br /&gt;
+  &lt;p&gt;就算是不怎么样的行业，不怎么样的公司，只要它足够便宜，只要它能在困境中维持经营，就是很好的投资标的。
 就算是好行业，好公司，只要它不便宜，就算经营的好，也不是好的投资标的。&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -319,8 +319,8 @@
 &lt;p&gt;根据计算仓位的凯利公式（仓位F=（bp-q）/b，b是赔率，p代表胜率，q=1-p），估值越低，我们的收益率越高，赔率越高，胜率也就越高，所以我们应该投资的仓位也就要大一点。换句话说，越是低估，定投对应的那一期的额度也要增加。&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Dec 2016 18:50:00 +0800</pubDate>
-        <link>mizhengdi.com/wealth/2016/12/08/index-of-fixed-investment-plan.html</link>
-        <guid isPermaLink="true">mizhengdi.com/wealth/2016/12/08/index-of-fixed-investment-plan.html</guid>
+        <link>http://localhost:4000/wealth/2016/12/08/index-of-fixed-investment-plan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wealth/2016/12/08/index-of-fixed-investment-plan.html</guid>
         
         
         <category>Wealth</category>
@@ -395,19 +395,19 @@
 
 &lt;h5 id=&quot;section-6&quot;&gt;标准普尔家庭资产象限图&lt;/h5&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/2016/see-the-future-have-the-future02.png&quot; alt=&quot;see-the-future-have-the-future02.png&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2016/see-the-future-have-the-future02.png&quot; alt=&quot;see-the-future-have-the-future02.png&quot; /&gt;
 图：来自百度&lt;/p&gt;
 
 &lt;h5 id=&quot;section-7&quot;&gt;美林投资时钟&lt;/h5&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/2016/see-the-future-have-the-future01.jpg&quot; alt=&quot;see-the-future-have-the-future01.jpg&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2016/see-the-future-have-the-future01.jpg&quot; alt=&quot;see-the-future-have-the-future01.jpg&quot; /&gt;
 图：来自百度&lt;/p&gt;
 
 &lt;h5 id=&quot;section-8&quot;&gt;净值法管理自己的财富&lt;/h5&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/2016/see-the-future-have-the-future03.png&quot; alt=&quot;see-the-future-have-the-future03.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;图表法：&lt;a href=&quot;/fund/&quot;&gt;净值图&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;图表法：&lt;a href=&quot;/fund/&quot;&gt;净值图&lt;/a&gt;
 交易日志：&lt;a href=&quot;https://github.com/mizhdi/Stock-diary&quot;&gt;每天交易纪录&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;三个东西只是贴图，只是简单地实践，网上肯定有比较完善的介绍，就不再细说。第一个前提就是要有钱，第二个要关注宏观经济，第三个坚持记账就行了。当你真正玩起来地时候就知道了，多说无益，理论永远只会是理论。&lt;/p&gt;
@@ -417,8 +417,8 @@
 &lt;p&gt;写完通读了一遍，感觉行文没什么粘合力，写到哪算哪，暂且一看。&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Oct 2016 18:50:00 +0800</pubDate>
-        <link>mizhengdi.com/wealth/2016/10/28/see-the-future-have-the-future.html</link>
-        <guid isPermaLink="true">mizhengdi.com/wealth/2016/10/28/see-the-future-have-the-future.html</guid>
+        <link>http://localhost:4000/wealth/2016/10/28/see-the-future-have-the-future.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wealth/2016/10/28/see-the-future-have-the-future.html</guid>
         
         
         <category>Wealth</category>
@@ -428,7 +428,7 @@
       <item>
         <title>2016年5月交易日志</title>
         <description>&lt;h3 id=&quot;section&quot;&gt;5月策略&lt;/h3&gt;
-&lt;p&gt;解禁市值年内的高峰期出现在6月、10月、12月，这都会带来非常大的抛压。&lt;br /&gt;
+&lt;p&gt;解禁市值年内的高峰期出现在6月、10月、12月，这都会带来非常大的抛压。
 那么相对而言，7-9月随着深港通、G20、奥运会、msci落地、养老金落地等重大大事件落地，有可能会成为全年的黄金期。&lt;/p&gt;
 
 &lt;p&gt;预判5月做多&lt;/p&gt;
@@ -554,8 +554,8 @@
 &lt;p&gt;把6月1日应该算成5月的最后一天，从深套到盈利经历了漫长的一个月，之后几天就不是我的事了，股票基本已近清光，盈利1000，还有9手的石墨烯，重仓股（华工科技），从k线上看应该是吃了中间的一小段。论选股的重要性！！！&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jun 2016 18:50:00 +0800</pubDate>
-        <link>mizhengdi.com/wealth/2016/06/01/stock-transaction-201605.html</link>
-        <guid isPermaLink="true">mizhengdi.com/wealth/2016/06/01/stock-transaction-201605.html</guid>
+        <link>http://localhost:4000/wealth/2016/06/01/stock-transaction-201605.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wealth/2016/06/01/stock-transaction-201605.html</guid>
         
         
         <category>Wealth</category>
@@ -600,7 +600,7 @@
 
 &lt;p&gt;由于资金有限，只能抓一两个版块做。网金 －&amp;gt; 黑科技 －&amp;gt; 食品饮料 -&amp;gt; 环保，走这个路线。黑科技是主线，按照主任的路线走概念-&amp;gt;题材-&amp;gt;成长-&amp;gt;价值。再短线做比较大的题材，比如领导人出访之类的。&lt;/p&gt;
 
-&lt;p&gt;黑科技线路图：&lt;br /&gt;
+&lt;p&gt;黑科技线路图：
 量子通信 -&amp;gt; 脑 -&amp;gt; 石墨烯 -&amp;gt; 5G -&amp;gt; 区块链&lt;/p&gt;
 
 &lt;h4 id=&quot;section-2&quot;&gt;仓位管理&lt;/h4&gt;
@@ -637,8 +637,8 @@
 &lt;p&gt;动静结合，不可能追逐大资金的方向，只有坚守几个版块，在其中来回平移。&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jun 2016 16:02:00 +0800</pubDate>
-        <link>mizhengdi.com/wealth/2016/06/01/my-trade-system.html</link>
-        <guid isPermaLink="true">mizhengdi.com/wealth/2016/06/01/my-trade-system.html</guid>
+        <link>http://localhost:4000/wealth/2016/06/01/my-trade-system.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wealth/2016/06/01/my-trade-system.html</guid>
         
         
         <category>Wealth</category>
@@ -654,8 +654,8 @@
 &lt;p&gt;&lt;img src=&quot;/img/2016/trading-system.png&quot; alt=&quot;trading-system.png&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 May 2016 16:02:00 +0800</pubDate>
-        <link>mizhengdi.com/wealth/2016/05/01/trading-system.html</link>
-        <guid isPermaLink="true">mizhengdi.com/wealth/2016/05/01/trading-system.html</guid>
+        <link>http://localhost:4000/wealth/2016/05/01/trading-system.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wealth/2016/05/01/trading-system.html</guid>
         
         
         <category>Wealth</category>
@@ -681,7 +681,7 @@
 
 &lt;h3 id=&quot;section-1&quot;&gt;2016-04-11-1&lt;/h3&gt;
 
-&lt;p&gt;盘前：周末的消息都是利好的，指数企稳，应该不会继续下跌。策略为上涨后出掉部分仓位，如果继续下跌，止损位出局10%。&lt;br /&gt;
+&lt;p&gt;盘前：周末的消息都是利好的，指数企稳，应该不会继续下跌。策略为上涨后出掉部分仓位，如果继续下跌，止损位出局10%。
 盘后：今天如预测一样大盘上涨，浪潮盘中上涨3.64%，回本，但是没有卖，继续持有。&lt;/p&gt;
 
 &lt;h3 id=&quot;section-2&quot;&gt;2016-04-12-2&lt;/h3&gt;
@@ -696,20 +696,20 @@
 
 &lt;h3 id=&quot;section-3&quot;&gt;2016-04-13-3&lt;/h3&gt;
 
-&lt;p&gt;早盘：大盘上涨，浪潮低开1.56%，验证了昨天的逻辑，不知道今天主力会不会拉起。&lt;br /&gt;
+&lt;p&gt;早盘：大盘上涨，浪潮低开1.56%，验证了昨天的逻辑，不知道今天主力会不会拉起。
 盘后：浪潮最终收盘跌0.68%，盘中一度上涨到2.21%。最近的行情是郭嘉队操作的，2950-3050区间震荡，做高抛低吸好了。比如今天上攻，尾盘又拉回，这种好难做。看明天大盘能否攻上3100点。&lt;/p&gt;
 
 &lt;h3 id=&quot;section-4&quot;&gt;2016-04-14-4&lt;/h3&gt;
 
-&lt;p&gt;盘中：仓位中持有葛洲坝，想来汛期到了，不过感觉现在持有过早，考虑三峡水利这两天跌得厉害，要不要持有。&lt;br /&gt;
+&lt;p&gt;盘中：仓位中持有葛洲坝，想来汛期到了，不过感觉现在持有过早，考虑三峡水利这两天跌得厉害，要不要持有。
 最近有几个题材考虑参与一下，第三批自贸，量子通信，以及石墨烯，普京访华的标的已经炒的很高了，同时无人驾驶，新能源汽车都炒烂了，如果跌得很厉害的话就加点仓，最近再做一个防守性质的股票，继续学习挖掘。&lt;/p&gt;
 
 &lt;p&gt;疑惑：第三批自贸重庆港九，宁波港，北部湾港，不知道选什么，还好北部湾港停牌，原持有一些重庆港九，今天准备缝低入宁波港，估计吃不到多少肉。&lt;/p&gt;
 
 &lt;h3 id=&quot;section-5&quot;&gt;2016-04-15-5&lt;/h3&gt;
 
-&lt;p&gt;盘前：晚上看了微博，发现风险日益变大，看局势准备清仓。&lt;br /&gt;
-盘后：看微博关注的人，发现看空的人很多，机构反而在唱多，看是清理标的，只留了一只重庆港九，尾盘还涨了近一个点&lt;br /&gt;
+&lt;p&gt;盘前：晚上看了微博，发现风险日益变大，看局势准备清仓。
+盘后：看微博关注的人，发现看空的人很多，机构反而在唱多，看是清理标的，只留了一只重庆港九，尾盘还涨了近一个点
 准备开始学习分析板块的轮动，周期股等等&lt;/p&gt;
 
 &lt;h3 id=&quot;section-6&quot;&gt;20160418-1&lt;/h3&gt;
@@ -806,8 +806,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 29 Apr 2016 16:02:00 +0800</pubDate>
-        <link>mizhengdi.com/wealth/2016/04/29/stock-transaction-april-2016.html</link>
-        <guid isPermaLink="true">mizhengdi.com/wealth/2016/04/29/stock-transaction-april-2016.html</guid>
+        <link>http://localhost:4000/wealth/2016/04/29/stock-transaction-april-2016.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wealth/2016/04/29/stock-transaction-april-2016.html</guid>
         
         
         <category>Wealth</category>
@@ -817,9 +817,9 @@
       <item>
         <title>运势下行的内在归因</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;工作，对于绝大多数人来说，只能获取一个稳定的现金流用来养家糊口，剩下的那点存款基本没有多大的意义了。无论你一年结余五万还是十五万，没太有本质的区别。&lt;br /&gt;
-现在财富的大幅积累只能靠不断的投资，很多人因为没有第一桶金只能被迫错过一场财富的盛宴，有眼光没资本的人是值得同情的。&lt;br /&gt;
-只顾着埋头工作而忘记了抬头看看这个世界的人是值得敬佩的，也是可怜的，他们生错了年代，或者生错了国家。按理说，这种人应该过上不错的生活，只是少了那么点投机意识就受到这么重的惩罚未免太残忍了，但在这个特殊的时代就是这样。&lt;br /&gt;
+  &lt;p&gt;工作，对于绝大多数人来说，只能获取一个稳定的现金流用来养家糊口，剩下的那点存款基本没有多大的意义了。无论你一年结余五万还是十五万，没太有本质的区别。
+现在财富的大幅积累只能靠不断的投资，很多人因为没有第一桶金只能被迫错过一场财富的盛宴，有眼光没资本的人是值得同情的。
+只顾着埋头工作而忘记了抬头看看这个世界的人是值得敬佩的，也是可怜的，他们生错了年代，或者生错了国家。按理说，这种人应该过上不错的生活，只是少了那么点投机意识就受到这么重的惩罚未免太残忍了，但在这个特殊的时代就是这样。
 我同意这是个最好的时代，也是最坏的时代。对于有资本投机的人来说这是最好的时代，对于埋头苦干的人来说这是最坏的时代。我希望大家在不忘本职工作的时候多少有点投机意识，生活会过的更美好。&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -870,8 +870,8 @@
 &lt;p&gt;写的比较乱，不过心情好多了，整理行囊再出发……&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Mar 2016 16:02:00 +0800</pubDate>
-        <link>mizhengdi.com/wealth/2016/03/26/fortune-downward-internal-attribution.html</link>
-        <guid isPermaLink="true">mizhengdi.com/wealth/2016/03/26/fortune-downward-internal-attribution.html</guid>
+        <link>http://localhost:4000/wealth/2016/03/26/fortune-downward-internal-attribution.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wealth/2016/03/26/fortune-downward-internal-attribution.html</guid>
         
         
         <category>Wealth</category>

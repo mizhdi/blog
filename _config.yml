@@ -9,7 +9,7 @@ paginate: 10
 paginate_path: "blog/page:num"
 sass:
   style: :compressed
-gems: [jekyll-paginate, jekyll-gist]
+plugins: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
@@ -21,8 +21,8 @@ kramdown:
     - smart
   enable_coderay: true
   syntax_highlighter: rouge
-  coderay:
-    coderay_line_numbers:  nil
+  syntax_highlighter_opts:
+    line_numbers:  nil
 
 
 navigations:

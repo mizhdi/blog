@@ -12,8 +12,8 @@
   <link rel="profile" href="http://gmpg.org/xfn/11">
   <link rel="author" href="https://plus.google.com/103256052058555745980/posts">
    <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="mizhengdi.com/technology/2016/02/17/uitableview.html">
-  <link rel="alternate" type="application/rss+xml" title="读行 · 笃行 · 独行" href="mizhengdi.com/feed.xml" />
+  <link rel="canonical" href="http://localhost:4000/technology/2016/02/17/uitableview.html">
+  <link rel="alternate" type="application/rss+xml" title="读行 · 笃行 · 独行" href="http://localhost:4000/feed.xml" />
   <script>
   var _hmt = _hmt || [];
   (function() {
@@ -87,8 +87,8 @@
 
 <h2 id="lighter-view-controllers">Lighter View Controllers</h2>
 
-<p>如果将UITableView的dataSource和delegate写在ViewController里面，你就会发现越来越冗长，<br />
-尤其是有多个页面的时候，考虑是不是可以将这些代码抽出来。查了一下资料，无非就是通过block将代理写在<br />
+<p>如果将UITableView的dataSource和delegate写在ViewController里面，你就会发现越来越冗长，
+尤其是有多个页面的时候，考虑是不是可以将这些代码抽出来。查了一下资料，无非就是通过block将代理写在
 另一个class里面。</p>
 
 <pre><code class="language-objective-c">- (instancetype)initWithItems:(NSArray *)aItems
@@ -143,9 +143,9 @@
 
 <h3 id="section-1">重用机制</h3>
 
-<p>做web开发的时候，是将整个页面都展现出来，在ios上要考虑GPU的性能问题，UITableView就有个重用机<br />
-制创建屏幕可显示最大个数的cell，然后重复使用这些cell。查看UITableView头文件，会找到<br />
-NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个结构。visiableCells内保<br />
+<p>做web开发的时候，是将整个页面都展现出来，在ios上要考虑GPU的性能问题，UITableView就有个重用机
+制创建屏幕可显示最大个数的cell，然后重复使用这些cell。查看UITableView头文件，会找到
+NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个结构。visiableCells内保
 存当前显示的cells，reusableTableCells保存可重用的cells。一般的写法如下：</p>
 
 <pre><code class="language-objective-c">- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {  
@@ -161,17 +161,27 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
 
 <h4 id="cell">关于自定义cell</h4>
 
-<p><code class="highlighter-rouge">dequeueReuseableCellWithIdentifier:forIndexPath:</code>自定义cell时，若使用nib，<br />
-使用registerNib: 注册，dequeue时会调用cell的 -(void)awakeFromNib不使用nib，使用registerClass:注册，dequeue时会调用 cell的<code class="highlighter-rouge"> (id)initWithStyle:withReuseableCellIdentifier:</code></p>
+<p><code class="highlighter-rouge"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre>dequeueReuseableCellWithIdentifier:forIndexPath:<span class="w">
+</span></pre></td></tr></tbody></table>
+</code>自定义cell时，若使用nib，
+使用registerNib: 注册，dequeue时会调用cell的 -(void)awakeFromNib不使用nib，使用registerClass:注册，dequeue时会调用 cell的<code class="highlighter-rouge"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre> (id)initWithStyle:withReuseableCellIdentifier:<span class="w">
+</span></pre></td></tr></tbody></table>
+</code></p>
 
 <h3 id="section-2">高度计算</h3>
 
-<p>先布局，再创建cell。UITableView是继承自UIScrollView的，UITableView先多次调用<br />
-<code class="highlighter-rouge">tableView:heightForRowAtIndexPath:</code>以确定contentSize及Cell的位置，然后才会调用<br />
-<code class="highlighter-rouge">tableView:cellForRowAtIndexPath:</code>，从而来显示在当前屏幕的Cell。UITableViewCell高度计<br />
-算有两种方式。一种是针对所有cell具有固定高度的情况，通过：<br />
-<code class="highlighter-rouge">self.tableView.rowHeight = 44;</code><br />
-对于固定高度的UITableViewCell，使用这种方式保证不必要的高度计算和调用<br />
+<p>先布局，再创建cell。UITableView是继承自UIScrollView的，UITableView先多次调用
+<code class="highlighter-rouge"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre>tableView:heightForRowAtIndexPath:<span class="w">
+</span></pre></td></tr></tbody></table>
+</code>以确定contentSize及Cell的位置，然后才会调用
+<code class="highlighter-rouge"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre>tableView:cellForRowAtIndexPath:<span class="w">
+</span></pre></td></tr></tbody></table>
+</code>，从而来显示在当前屏幕的Cell。UITableViewCell高度计
+算有两种方式。一种是针对所有cell具有固定高度的情况，通过：
+<code class="highlighter-rouge"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre>self.tableView.rowHeight = 44;<span class="w">
+</span></pre></td></tr></tbody></table>
+</code>
+对于固定高度的UITableViewCell，使用这种方式保证不必要的高度计算和调用
 另一种方式就是实现 UITableViewDelegate中的：</p>
 
 <pre><code class="language-objective-c">- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
@@ -183,16 +193,20 @@ NSMutableArray *visiableCells，和NSMutableDictnery   *reusableTableCells两个
 
 <h3 id="cell-1">cell的赋值</h3>
 
-<p>在UITableView的dataSource中实现的tableView:cellForRowAtIndexPath:方法，需要为每个cell<br />
-调用一次，它应该快速执行。所以你需要尽可能快地返回重用cell实例。不要在这里去执行数据绑定，因为目<br />
-前在屏幕上还没有cell。为了执行数据绑定，可以在UITableView的delegate方法<br />
-<code class="highlighter-rouge">tableView:willDisplayCell:forRowAtIndexPath:</code>中进行。这个方法在显示cell之前会被调用。</p>
+<p>在UITableView的dataSource中实现的tableView:cellForRowAtIndexPath:方法，需要为每个cell
+调用一次，它应该快速执行。所以你需要尽可能快地返回重用cell实例。不要在这里去执行数据绑定，因为目
+前在屏幕上还没有cell。为了执行数据绑定，可以在UITableView的delegate方法
+<code class="highlighter-rouge"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre>tableView:willDisplayCell:forRowAtIndexPath:<span class="w">
+</span></pre></td></tr></tbody></table>
+</code>中进行。这个方法在显示cell之前会被调用。</p>
 
-<p>还有就是将cell的处理逻辑放在cell中，比如我们常用的<code class="highlighter-rouge">-fillValues:(id)obj</code>方法。</p>
+<p>还有就是将cell的处理逻辑放在cell中，比如我们常用的<code class="highlighter-rouge"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre>-fillValues:(id)obj<span class="w">
+</span></pre></td></tr></tbody></table>
+</code>方法。</p>
 
 <h3 id="section-3">更多细节</h3>
 
-<p>还有未涉及的滑动按需加载，异步绘制，缓存这些尚未提及，因为在项目中用到的少，就不提及了。<br />
+<p>还有未涉及的滑动按需加载，异步绘制，缓存这些尚未提及，因为在项目中用到的少，就不提及了。
 要使UITableView更加平滑，平衡CPU和GPU的负载，请参考<a href="http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews">Perfect smooth scrolling in UITableViews </a>。</p>
 
 <h2 id="section-4">参考</h2>
