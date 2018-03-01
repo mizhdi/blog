@@ -5,9 +5,117 @@
     <description>往昔思碎，尽数埋于此。</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Oct 2017 17:20:04 +0800</pubDate>
-    <lastBuildDate>Fri, 13 Oct 2017 17:20:04 +0800</lastBuildDate>
+    <pubDate>Thu, 01 Mar 2018 17:04:09 +0800</pubDate>
+    <lastBuildDate>Thu, 01 Mar 2018 17:04:09 +0800</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>年龄越来越油腻，但是日子不能太油腻</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;眼看就要年底了，是时候到了年底总结的时候了，早一点也没有关系的，毕竟今年没有什么长足的进步嘛。
+今年总结了三个关键字，分别是“守正出奇”、“极简主义”、“知行合一”，做为接下来几年的“指导方针”，分别对应的
+是工作与投资、生活方式、为人处事的态度。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;总结了一些工作与生活的小tip，见微知著嘛&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;信用卡管理&lt;/h3&gt;
+
+&lt;p&gt;管理信用卡一般都是有app的，比如网易有钱（打通了很多资产的账户）、随手记、51信用卡之类的，不过查账
+单都是查邮箱或者银行账户之类的，安全吗？肯定不安全啊。没有绝对的安全，只有相对的安全（我们的密码通过键盘、
+网络等估计泄漏的很多）。我使用的就是支付宝的信用卡管理，有几家银行还能自动还款，标记上账单日和还款日，还有日常的提醒。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2017/2017-11-01-01.png&quot; alt=&quot;2017-11-01-01.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;分期计算&lt;/h3&gt;
+
+&lt;p&gt;最近流行消费贷，但基本上都是高利贷，利用“内部收益率公式IRR”很容易算出来真实的利率。
+这种函数还有“现金再投资收益率MIRR”、“不连续数据收益率公式XIRR”，用excel很容易算出来的。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2017/2017-11-01-04.png&quot; alt=&quot;2017-11-01-04.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2017/2017-11-01-05.png&quot; alt=&quot;2017-11-01-05.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;基金净值管理&lt;/h3&gt;
+
+&lt;p&gt;投资掐指一算已经一年半了，第一年克服心理问题、第二年适应市场、第三年或许该有收获了。以前也说过，普通人
+走这条路，有些自带的缺点是必须要克服的，才能让自己走上正轨。&lt;/p&gt;
+
+&lt;p&gt;介绍一种用净值管理资金的方法，当然也可以用雪球等app，本来自己在本地搭了个网站的，但是又烂尾了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2017/2017-11-01-02.png&quot; alt=&quot;2017-11-01-02.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2017/2017-11-01-03.png&quot; alt=&quot;2017-11-01-03.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;备忘录管理&lt;/h3&gt;
+
+&lt;p&gt;最好的笔记软件是什么，当然是mac系统自带的Notes，记录一些碎片信息，顺便可以写交易日志。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2017/2017-11-01-06.png&quot; alt=&quot;2017-11-01-06.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;知识管理&lt;/h3&gt;
+
+&lt;p&gt;以前写过文章的&lt;a href=&quot;/method/2016/01/11/my-knowledge-system.html&quot;&gt;《我的知识体系（一）：“积累与实践，有章可循”》&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;购物淘宝客&lt;/h3&gt;
+
+&lt;p&gt;有一段时间流行返利网，不过淘宝有淘宝客这种东西，就是通过你分享的链接买东西获得返利。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2017/2017-11-01-07.png&quot; alt=&quot;2017-11-01-07.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-6&quot;&gt;照片管理&lt;/h3&gt;
+
+&lt;p&gt;16G的手机的悲哀，安装百度云，Wi-Fi下同步就行了，在电脑端也可以同步的，当让也可以用一下dropbox。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-7&quot;&gt;简历更新&lt;/h3&gt;
+
+&lt;p&gt;我用的是Github上的Repo，写个markdown就行了，总比各种乱七八糟的招聘网站好。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-8&quot;&gt;博客管理&lt;/h3&gt;
+
+&lt;p&gt;我自己用的是jekyll和Github Page，还是喜欢自己搭建的方式，本地还可以留个备份。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-9&quot;&gt;账号密码管理&lt;/h3&gt;
+
+&lt;p&gt;给账号密码来个加密算法？我们要的就是第一时间知道这个账户的密码，且基本在16位，字母数字混合或者加上特殊符号。
+比如给网站取个字母别名，按照特殊的位置算法添加手机号进去，用特殊符号标记网站类型，这样每个网站密码都不一样了，当然你也可以微信账号登录。&lt;/p&gt;
+
+&lt;p&gt;例如：tao11587928762Tao**&lt;/p&gt;
+
+&lt;h3 id=&quot;kindle&quot;&gt;kindle管理&lt;/h3&gt;
+
+&lt;p&gt;kindle现在已经是积灰状态了，不过还要说一说这个东西，kindle又一个功能是写邮件带上电子书的附近发送到指定的账户，这样在设备上就可以下载了。&lt;/p&gt;
+
+&lt;p&gt;利用这种方式可以做到这样，电脑本地用dropbox管理电子书，比如想要添加一本电子书（就是无耻的用盗版），在指定的文件夹添加，利用IFTTT的service，直接发送邮件到指定的账户上，推送到设备上。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2017/2017-11-01-08.png&quot; alt=&quot;2017-11-01-08.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-10&quot;&gt;微博管理&lt;/h3&gt;
+
+&lt;p&gt;微博学习重度使用用户，极简版微博，通过浏览器插件就行了“眼不见心不烦（新浪微博）”，当然也可以自己制作浏览器插件，也可以通过Tampermonkey直接写脚本，最简单的就是class的hidden。&lt;/p&gt;
+
+&lt;p&gt;手机端用微博国际版就行了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/2017/2017-11-01-09.png&quot; alt=&quot;2017-11-01-09.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;feedly&quot;&gt;feedly订阅&lt;/h3&gt;
+
+&lt;p&gt;现在有很多新闻、自媒体聚合的app，我还是喜欢以前订阅的方式，feedly虽然速度有时候很慢，但是用的很顺手。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-11&quot;&gt;歌曲管理&lt;/h3&gt;
+
+&lt;p&gt;基本不听中文歌，最后分享一下&lt;a href=&quot;http://music.163.com/#/playlist?id=72138199&quot;&gt;网易云音乐歌单&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;图不涂抹了，未完待续。。。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Nov 2017 18:50:00 +0800</pubDate>
+        <link>http://localhost:4000/life/2017/11/01/05.html</link>
+        <guid isPermaLink="true">http://localhost:4000/life/2017/11/01/05.html</guid>
+        
+        
+        <category>Life</category>
+        
+      </item>
     
       <item>
         <title>做一个小小散，实现一个财务自由的大大大目标</title>
@@ -742,158 +850,6 @@
         <pubDate>Sun, 01 May 2016 16:02:00 +0800</pubDate>
         <link>http://localhost:4000/wealth/2016/05/01/trading-system.html</link>
         <guid isPermaLink="true">http://localhost:4000/wealth/2016/05/01/trading-system.html</guid>
-        
-        
-        <category>Wealth</category>
-        
-      </item>
-    
-      <item>
-        <title>2016年4月交易日志</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;择时顺势，止损操作，这个是四月理解最深刻的两点。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;section&quot;&gt;2016-04-08-5&lt;/h3&gt;
-
-&lt;p&gt;盘后：昨天跌势，以为会走v型，浪潮软件（600756），下跌3%，以为会抓住回调的机会，同时，此股不是选好的标的（在股票池中），忍不住诱惑，加仓9手，尾盘又跌1%。今天大盘低开，在此股在2％左右震荡，盘中跌至4-5%，犹豫大盘系统性暴跌，没有出手，尾盘拉回跌2%，总体亏3.33%。总结：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;新手仓位一定要谨慎，不可满仓干&lt;/li&gt;
-  &lt;li&gt;下降趋势下，切不可乱操作，管住手，等待最佳时机&lt;/li&gt;
-  &lt;li&gt;对于洗盘，亏损后的心态问题，盘中一度要平仓，切记不到止损位坚决不出&lt;/li&gt;
-  &lt;li&gt;标的问题，做题材还是价值？或者说自己适不适合做题材&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;section-1&quot;&gt;2016-04-11-1&lt;/h3&gt;
-
-&lt;p&gt;盘前：周末的消息都是利好的，指数企稳，应该不会继续下跌。策略为上涨后出掉部分仓位，如果继续下跌，止损位出局10%。
-盘后：今天如预测一样大盘上涨，浪潮盘中上涨3.64%，回本，但是没有卖，继续持有。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-2&quot;&gt;2016-04-12-2&lt;/h3&gt;
-
-&lt;p&gt;盘后：今天传浪潮要和苹果合作，浪潮信息直接涨停，他兄弟浪潮软件高开，一度上涨到6.67%，猜测也会涨停，但是多头乏力，在尾盘卖了，只赚了2个点。主要还是担心逆大盘上涨的票，第二天会下跌。&lt;/p&gt;
-
-&lt;p&gt;盈利500，难道是传说中的卖飞？以后操作尽量放到2:55之后&lt;/p&gt;
-
-&lt;p&gt;指数在尾盘又拉了一波，真是要人命，继续观望。今天的盈利纯属运气好！！！&lt;/p&gt;
-
-&lt;p&gt;总结：鸡蛋放在篮子里，老是心惊胆战，生拍摔碎了，以后要减少看盘的时间，早盘1小时，中午看一下走势，尾盘再操作一波。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-3&quot;&gt;2016-04-13-3&lt;/h3&gt;
-
-&lt;p&gt;早盘：大盘上涨，浪潮低开1.56%，验证了昨天的逻辑，不知道今天主力会不会拉起。
-盘后：浪潮最终收盘跌0.68%，盘中一度上涨到2.21%。最近的行情是郭嘉队操作的，2950-3050区间震荡，做高抛低吸好了。比如今天上攻，尾盘又拉回，这种好难做。看明天大盘能否攻上3100点。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-4&quot;&gt;2016-04-14-4&lt;/h3&gt;
-
-&lt;p&gt;盘中：仓位中持有葛洲坝，想来汛期到了，不过感觉现在持有过早，考虑三峡水利这两天跌得厉害，要不要持有。
-最近有几个题材考虑参与一下，第三批自贸，量子通信，以及石墨烯，普京访华的标的已经炒的很高了，同时无人驾驶，新能源汽车都炒烂了，如果跌得很厉害的话就加点仓，最近再做一个防守性质的股票，继续学习挖掘。&lt;/p&gt;
-
-&lt;p&gt;疑惑：第三批自贸重庆港九，宁波港，北部湾港，不知道选什么，还好北部湾港停牌，原持有一些重庆港九，今天准备缝低入宁波港，估计吃不到多少肉。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-5&quot;&gt;2016-04-15-5&lt;/h3&gt;
-
-&lt;p&gt;盘前：晚上看了微博，发现风险日益变大，看局势准备清仓。
-盘后：看微博关注的人，发现看空的人很多，机构反而在唱多，看是清理标的，只留了一只重庆港九，尾盘还涨了近一个点
-准备开始学习分析板块的轮动，周期股等等&lt;/p&gt;
-
-&lt;h3 id=&quot;section-6&quot;&gt;20160418-1&lt;/h3&gt;
-
-&lt;p&gt;盘中：受原油下跌影响，A股低开，策略要调整一下，主要做石墨烯（中国宝安）和量子通信（华工科技），同时重庆自贸区（重庆港九）继续持有，舟山港不做了，一是盘子太大，另一方面本来本金就少，不能太分散仓位做同一个题材的东西，今天看郭嘉队有没有拉指数的欲望，早上进了点华工，仓位不宜太重。&lt;/p&gt;
-
-&lt;p&gt;准备学习一下，如何吸到日内最低点，这个是博弈的过程，看了两天感觉2点左右可以出手(上午整个行情的消化)，2点半左右再来一波&lt;/p&gt;
-
-&lt;p&gt;还是跟题材的问题，资金选择太快了，完全跟不上，只有选几只股长期潜伏了，慢慢来。无人驾驶那是炒了一轮又一轮，不敢做。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-7&quot;&gt;20160419-2&lt;/h3&gt;
-
-&lt;p&gt;盘后：微博的大v好多喊空，和机构喊多形式鲜明的对比，真的想想都很吓人。今天在尾盘郭嘉队又出手了，不知道这种电梯行情能持续多久，考虑了一下清光股票，留一只量子通信做高抛低吸，仓位较低。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-8&quot;&gt;20160420-3&lt;/h3&gt;
-
-&lt;p&gt;盘中：大盘破3000，跌得有点快，今天没忍住，又入了500股，切记一定要管住手，不知道为什么对下跌特别兴奋，但要注意系统性的下跌啊，学习如何看大盘。如果大盘持续性下跌，就直接抛掉，获利基本回吐。&lt;/p&gt;
-
-&lt;p&gt;看了一下股票池里的股票，浪潮还是比较稳的，总有一股逆大盘的味道，持续观察。&lt;/p&gt;
-
-&lt;p&gt;擦，一到下午也扛不住了。&lt;/p&gt;
-
-&lt;p&gt;有一种说法是要出大底，准备加资金。&lt;/p&gt;
-
-&lt;p&gt;经历过一次，才能领会别人的痛。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-9&quot;&gt;20160421-4&lt;/h3&gt;
-
-&lt;p&gt;“逃离了火场，就千万别回来”一定要记住这句话。&lt;/p&gt;
-
-&lt;p&gt;“控制住仓位，一到止损线一定要止损”学炒股的时候感觉很简单，但是真正执行起来的时候真的很难，眼看着不断地下跌，总想它有止跌的时候，万一上扬了怎么办，岂不是亏了吗？&lt;/p&gt;
-
-&lt;p&gt;今天的教训，一定要止损，不管是什么，严格要求自己。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-10&quot;&gt;20160422-5&lt;/h3&gt;
-
-&lt;p&gt;今天只看不买，尾盘来回两个点。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-11&quot;&gt;20160425-1&lt;/h3&gt;
-
-&lt;p&gt;到了装死的节奏了，华工科技盘中跌了4%，一度总亏损快10%，要开始装死了吗？&lt;/p&gt;
-
-&lt;p&gt;等系统性的风险下降后，开始做T&lt;/p&gt;
-
-&lt;p&gt;思考了一下自己目前的状态：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;没有选股逻辑，题材、成长都没有，要选择一只白马股太难&lt;/li&gt;
-  &lt;li&gt;交易指标的混乱，买入和卖出的信号问题&lt;/li&gt;
-  &lt;li&gt;没有遵守严格的交易策略，关键现在是熊市，困难重重，压根就没有看清股市的本质&lt;/li&gt;
-  &lt;li&gt;真金白银的学费&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;section-12&quot;&gt;20160426-2&lt;/h3&gt;
-
-&lt;p&gt;大概2点钟的时候，大单拉了2个点，这是什么意思？吸筹？大盘成交量不足1000亿，散户会追高吗。猜测是主力接前面的套牢盘。还有就是给你跑的机会要能够审时度势。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-13&quot;&gt;20160427-3&lt;/h3&gt;
-
-&lt;p&gt;今天华工高开一个点，感觉会给人解套的机会，还是争取在节前清光股票，坚持不持股过节。今晚美联储加息会议，大概率是不加息的，但是谁知道呢，今天看尾盘如何先清一半的仓位，留一半在周四及周五除掉。&lt;/p&gt;
-
-&lt;p&gt;尾盘被砸，但是成交量可人，看明天有没有机会出掉，周五再伺机接回筹码&lt;/p&gt;
-
-&lt;h3 id=&quot;section-14&quot;&gt;20160428-4&lt;/h3&gt;
-
-&lt;p&gt;大盘下跌，华工开盘涨了1%，感觉有点高开出货的感觉，立即出掉。&lt;/p&gt;
-
-&lt;p&gt;今天化工还是很坚挺，在2%左右震荡。&lt;/p&gt;
-
-&lt;p&gt;明天就是4月的最后一天交易日了，还是那个逻辑，华工低点就接点，长江经济带的重庆自贸区会接点，这个是以前就定好的持股逻辑，一直还没有兑现。&lt;/p&gt;
-
-&lt;h3 id=&quot;section-15&quot;&gt;20160429-5&lt;/h3&gt;
-
-&lt;p&gt;几天的逻辑就是能低吸就低吸，决不追涨。&lt;/p&gt;
-
-&lt;p&gt;还是老题材：重庆自贸区和华工，如果节后低开，到止损位出局，如果连续上涨，也要出局，谨慎。&lt;/p&gt;
-
-&lt;p&gt;股价永远比原因来的早，持续跟踪的上海医药今天上涨6个点，不知道什么原因&lt;/p&gt;
-
-&lt;h2 id=&quot;section-16&quot;&gt;4月交易汇总&lt;/h2&gt;
-
-&lt;p&gt;股市中赚钱真的完全靠运气，不管是走技术还是什么，终归为运气好。&lt;/p&gt;
-
-&lt;p&gt;鬼使神差般的浪潮涨了几个点，扭亏为盈，这点获利，极大的降低了我的心里压力，使我足足玩了一个月的股票。如果浪潮和华工两笔比较大的单子全是亏损10%，铁定对我造成很大的打击。&lt;/p&gt;
-
-&lt;p&gt;目前是平。&lt;/p&gt;
-
-&lt;p&gt;5月要求：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;选股逻辑与大盘资金热点&lt;/li&gt;
-  &lt;li&gt;趋势与买点&lt;/li&gt;
-  &lt;li&gt;先做好前面两点&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Fri, 29 Apr 2016 16:02:00 +0800</pubDate>
-        <link>http://localhost:4000/wealth/2016/04/29/stock-transaction-april-2016.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wealth/2016/04/29/stock-transaction-april-2016.html</guid>
         
         
         <category>Wealth</category>
